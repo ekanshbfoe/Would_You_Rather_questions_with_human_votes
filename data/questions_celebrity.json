@@ -1,0 +1,1466 @@
+[
+  {
+    "id": "celebrity_0001",
+    "question": "Would you rather be known for a viral blooper from an early work or be known for a viral dance trend you unwillingly started?",
+    "option_blue": "be known for a viral blooper from an early work",
+    "option_red": "be known for a viral dance trend you unwillingly started",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "celebrity_0002",
+    "question": "Would you rather always wear uncomfortable but fashionable shoes or always wear comfortable but ugly shoes?",
+    "option_blue": "always wear uncomfortable but fashionable shoes",
+    "option_red": "always wear comfortable but ugly shoes",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "celebrity_0003",
+    "question": "Would you rather have all your childhood diary entries published or have all your private text messages leaked online?",
+    "option_blue": "have all your childhood diary entries published",
+    "option_red": "have all your private text messages leaked online",
+    "global_votes_blue": 88,
+    "global_votes_red": 12
+  },
+  {
+    "id": "celebrity_0004",
+    "question": "Would you rather perform for an audience of 100,000 people or perform a private concert for your idol?",
+    "option_blue": "perform for an audience of 100,000 people",
+    "option_red": "perform a private concert for your idol",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "celebrity_0005",
+    "question": "Would you rather be a celebrity chef whose food tastes bad to you or be a celebrity fitness guru who secretly hates working out?",
+    "option_blue": "be a celebrity chef whose food tastes bad to you",
+    "option_red": "be a celebrity fitness guru who secretly hates working out",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "celebrity_0006",
+    "question": "Would you rather have your personal life constantly in the tabloids or have critics constantly trash your work but never your personal life?",
+    "option_blue": "have your personal life constantly in the tabloids",
+    "option_red": "have critics constantly trash your work but never your personal life",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  },
+  {
+    "id": "celebrity_0007",
+    "question": "Would you rather spend a day as a mega-famous pop star or spend a day as an esteemed award-winning director?",
+    "option_blue": "spend a day as a mega-famous pop star",
+    "option_red": "spend a day as an esteemed award-winning director",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "celebrity_0008",
+    "question": "Would you rather only be allowed to eat food made by world-renowned chefs or only be allowed to eat fast food for the rest of your life?",
+    "option_blue": "only be allowed to eat food made by world-renowned chefs",
+    "option_red": "only be allowed to eat fast food for the rest of your life",
+    "global_votes_blue": 78,
+    "global_votes_red": 22
+  },
+  {
+    "id": "celebrity_0009",
+    "question": "Would you rather have a notorious public feud with another celebrity or have a notoriously bland and forgettable public image?",
+    "option_blue": "have a notorious public feud with another celebrity",
+    "option_red": "have a notoriously bland and forgettable public image",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "celebrity_0010",
+    "question": "Would you rather be forever typecast as one kind of character or always play wildly different roles that confuse your audience?",
+    "option_blue": "be forever typecast as one kind of character",
+    "option_red": "always play wildly different roles that confuse your audience",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "celebrity_0011",
+    "question": "Would you rather be a famous musician who can't read music or be a famous actor who can't memorize lines easily?",
+    "option_blue": "be a famous musician who can't read music",
+    "option_red": "be a famous actor who can't memorize lines easily",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "celebrity_0012",
+    "question": "Would you rather live in a massive mansion with no privacy or live in a small apartment with complete anonymity?",
+    "option_blue": "live in a massive mansion with no privacy",
+    "option_red": "live in a small apartment with complete anonymity",
+    "global_votes_blue": 19,
+    "global_votes_red": 81
+  },
+  {
+    "id": "celebrity_0013",
+    "question": "Would you rather have a controversial opinion that makes you famous or have an uncontroversial opinion that makes you loved but ignored?",
+    "option_blue": "have a controversial opinion that makes you famous",
+    "option_red": "have an uncontroversial opinion that makes you loved but ignored",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "celebrity_0014",
+    "question": "Would you rather have your biggest acting challenge be a terrible script or play the same character for twenty years?",
+    "option_blue": "have your biggest acting challenge be a terrible script",
+    "option_red": "play the same character for twenty years",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "celebrity_0015",
+    "question": "Would you rather donate a significant portion of your earnings to charity anonymously or donate publicly and get huge recognition for your philanthropy?",
+    "option_blue": "donate a significant portion of your earnings to charity anonymously",
+    "option_red": "donate publicly and get huge recognition for your philanthropy",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "celebrity_0016",
+    "question": "Would you rather have paparazzi follow you everywhere for a year or have your every social media post scrutinized by millions for a year?",
+    "option_blue": "have paparazzi follow you everywhere for a year",
+    "option_red": "have your every social media post scrutinized by millions for a year",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "celebrity_0017",
+    "question": "Would you rather only be offered villain roles for the rest of your career or only be offered one-dimensional heroic roles for the rest of your career?",
+    "option_blue": "only be offered villain roles for the rest of your career",
+    "option_red": "only be offered one-dimensional heroic roles for the rest of your career",
+    "global_votes_blue": 74,
+    "global_votes_red": 26
+  },
+  {
+    "id": "celebrity_0018",
+    "question": "Would you rather always forget song lyrics during live performances or always forget lines during live acting performances?",
+    "option_blue": "always forget song lyrics during live performances",
+    "option_red": "always forget lines during live acting performances",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "celebrity_0019",
+    "question": "Would you rather have an entourage that makes all your decisions or handle all your own management and scheduling?",
+    "option_blue": "have an entourage that makes all your decisions",
+    "option_red": "handle all your own management and scheduling",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  },
+  {
+    "id": "celebrity_0020",
+    "question": "Would you rather lose all your money and start over publicly or keep your money but lose all public respect?",
+    "option_blue": "lose all your money and start over publicly",
+    "option_red": "keep your money but lose all public respect",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "celebrity_0021",
+    "question": "Would you rather have paparazzi follow you everywhere or have online trolls constantly criticize you anonymously?",
+    "option_blue": "have paparazzi follow you everywhere",
+    "option_red": "have online trolls constantly criticize you anonymously",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "celebrity_0022",
+    "question": "Would you rather always wear a questionable outfit to major awards shows or have your stylist quit on you the day of every major event?",
+    "option_blue": "always wear a questionable outfit to major awards shows",
+    "option_red": "have your stylist quit on you the day of every major event",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "celebrity_0023",
+    "question": "Would you rather have your fashion choices constantly mocked or always blend into the background at events?",
+    "option_blue": "have your fashion choices constantly mocked",
+    "option_red": "always blend into the background at events",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "celebrity_0024",
+    "question": "Would you rather be constantly compared to another, more famous celebrity or be completely unique but never quite reach the same level of fame?",
+    "option_blue": "be constantly compared to another, more famous celebrity",
+    "option_red": "be completely unique but never quite reach the same level of fame",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "celebrity_0025",
+    "question": "Would you rather have to give an impromptu speech at every gala you attend or have to perform a song at every gala you attend?",
+    "option_blue": "have to give an impromptu speech at every gala you attend",
+    "option_red": "have to perform a song at every gala you attend",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "celebrity_0026",
+    "question": "Would you rather be known for your fashion sense, but always be uncomfortable or be known for your comfort, but always be considered unfashionable?",
+    "option_blue": "be known for your fashion sense, but always be uncomfortable",
+    "option_red": "be known for your comfort, but always be considered unfashionable",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "celebrity_0027",
+    "question": "Would you rather be a one-hit wonder with a catchy song or release many albums that have niche appeal?",
+    "option_blue": "be a one-hit wonder with a catchy song",
+    "option_red": "release many albums that have niche appeal",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "celebrity_0028",
+    "question": "Would you rather be famous for being notoriously difficult to work with or be loved by everyone but never reach true stardom?",
+    "option_blue": "be famous for being notoriously difficult to work with",
+    "option_red": "be loved by everyone but never reach true stardom",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "celebrity_0029",
+    "question": "Would you rather star in a blockbuster movie alongside your least favorite actor or star in an indie film with an amazing cast, but it never gets released?",
+    "option_blue": "star in a blockbuster movie alongside your least favorite actor",
+    "option_red": "star in an indie film with an amazing cast, but it never gets released",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "celebrity_0030",
+    "question": "Would you rather be known for only starring in remakes every time or be known for only starring in original films that always bomb?",
+    "option_blue": "be known for only starring in remakes every time",
+    "option_red": "be known for only starring in original films that always bomb",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "celebrity_0031",
+    "question": "Would you rather have to learn a new obscure language for every role or have to gain or lose a significant amount of weight for every role?",
+    "option_blue": "have to learn a new obscure language for every role",
+    "option_red": "have to gain or lose a significant amount of weight for every role",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "celebrity_0032",
+    "question": "Would you rather always perform in front of adoring fans but in small venues or always perform in huge stadiums but to indifferent crowds?",
+    "option_blue": "always perform in front of adoring fans but in small venues",
+    "option_red": "always perform in huge stadiums but to indifferent crowds",
+    "global_votes_blue": 77,
+    "global_votes_red": 23
+  },
+  {
+    "id": "celebrity_0033",
+    "question": "Would you rather be a one-hit wonder and live off the royalties or have a modest steady career with little public recognition?",
+    "option_blue": "be a one-hit wonder and live off the royalties",
+    "option_red": "have a modest steady career with little public recognition",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "celebrity_0034",
+    "question": "Would you rather be a one-hit wonder with incredible wealth or have a long career with moderate success and comfort?",
+    "option_blue": "be a one-hit wonder with incredible wealth",
+    "option_red": "have a long career with moderate success and comfort",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "celebrity_0035",
+    "question": "Would you rather always have to perform your biggest hit at every show or never be allowed to perform your biggest hit again?",
+    "option_blue": "always have to perform your biggest hit at every show",
+    "option_red": "never be allowed to perform your biggest hit again",
+    "global_votes_blue": 80,
+    "global_votes_red": 20
+  },
+  {
+    "id": "celebrity_0036",
+    "question": "Would you rather have a star on the Hollywood Walk of Fame that gets vandalized daily or have no star but be remembered as a legend?",
+    "option_blue": "have a star on the Hollywood Walk of Fame that gets vandalized daily",
+    "option_red": "have no star but be remembered as a legend",
+    "global_votes_blue": 8,
+    "global_votes_red": 92
+  },
+  {
+    "id": "celebrity_0037",
+    "question": "Would you rather have a personal assistant who leaks all your secrets or have a personal security guard who constantly follows you everywhere?",
+    "option_blue": "have a personal assistant who leaks all your secrets",
+    "option_red": "have a personal security guard who constantly follows you everywhere",
+    "global_votes_blue": 8,
+    "global_votes_red": 92
+  },
+  {
+    "id": "celebrity_0038",
+    "question": "Would you rather be famous for a sport you're mediocre at or be a gifted athlete in an obscure sport?",
+    "option_blue": "be famous for a sport you're mediocre at",
+    "option_red": "be a gifted athlete in an obscure sport",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "celebrity_0039",
+    "question": "Would you rather start a fashion trend that everyone finds ugly or start a dance craze that everyone finds cheesy?",
+    "option_blue": "start a fashion trend that everyone finds ugly",
+    "option_red": "start a dance craze that everyone finds cheesy",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "celebrity_0040",
+    "question": "Would you rather be the voice actor for a beloved animated character or be the motion-capture actor for a beloved CGI character?",
+    "option_blue": "be the voice actor for a beloved animated character",
+    "option_red": "be the motion-capture actor for a beloved CGI character",
+    "global_votes_blue": 81,
+    "global_votes_red": 19
+  },
+  {
+    "id": "celebrity_0041",
+    "question": "Would you rather lose your voice for a year as a singer or lose your ability to act compellingly for a year as an actor?",
+    "option_blue": "lose your voice for a year as a singer",
+    "option_red": "lose your ability to act compellingly for a year as an actor",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "celebrity_0042",
+    "question": "Would you rather have a stalker who sends you strange gifts or have a devoted fan who copies every aspect of your life?",
+    "option_blue": "have a stalker who sends you strange gifts",
+    "option_red": "have a devoted fan who copies every aspect of your life",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "celebrity_0043",
+    "question": "Would you rather only be able to wear outfits chosen by a stylist you hate or only be able to wear outfits of your own choosing, but they always get bad reviews?",
+    "option_blue": "only be able to wear outfits chosen by a stylist you hate",
+    "option_red": "only be able to wear outfits of your own choosing, but they always get bad reviews",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "celebrity_0044",
+    "question": "Would you rather have your entire home decor chosen by a TV show or have your entire wardrobe chosen by a magazine editor?",
+    "option_blue": "have your entire home decor chosen by a TV show",
+    "option_red": "have your entire wardrobe chosen by a magazine editor",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "celebrity_0045",
+    "question": "Would you rather only be offered roles as the villain or only be offered roles as the quirky best friend?",
+    "option_blue": "only be offered roles as the villain",
+    "option_red": "only be offered roles as the quirky best friend",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "celebrity_0046",
+    "question": "Would you rather only eat at exclusive, overpriced restaurants or only eat free fast food for the rest of your life?",
+    "option_blue": "only eat at exclusive, overpriced restaurants",
+    "option_red": "only eat free fast food for the rest of your life",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "celebrity_0047",
+    "question": "Would you rather be trapped in an elevator with your biggest rival or be interviewed by a host who hates you?",
+    "option_blue": "be trapped in an elevator with your biggest rival",
+    "option_red": "be interviewed by a host who hates you",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "celebrity_0048",
+    "question": "Would you rather have paparazzi follow you everywhere or never be recognized for your talent?",
+    "option_blue": "have paparazzi follow you everywhere",
+    "option_red": "never be recognized for your talent",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "celebrity_0049",
+    "question": "Would you rather live in a massive mansion but feel constantly lonely or live in a small apartment but be surrounded by loved ones?",
+    "option_blue": "live in a massive mansion but feel constantly lonely",
+    "option_red": "live in a small apartment but be surrounded by loved ones",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "celebrity_0050",
+    "question": "Would you rather give a bad acceptance speech everyone remembers or never win an award after many nominations?",
+    "option_blue": "give a bad acceptance speech everyone remembers",
+    "option_red": "never win an award after many nominations",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "celebrity_0051",
+    "question": "Would you rather be famous for being notoriously rude or be famous for being overly polite to a fault?",
+    "option_blue": "be famous for being notoriously rude",
+    "option_red": "be famous for being overly polite to a fault",
+    "global_votes_blue": 17,
+    "global_votes_red": 83
+  },
+  {
+    "id": "celebrity_0052",
+    "question": "Would you rather have a reality TV show about your daily life or star in a critically acclaimed but low-budget film?",
+    "option_blue": "have a reality TV show about your daily life",
+    "option_red": "star in a critically acclaimed but low-budget film",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "celebrity_0053",
+    "question": "Would you rather have your childhood diary become a bestseller or have your college essays published and widely analyzed?",
+    "option_blue": "have your childhood diary become a bestseller",
+    "option_red": "have your college essays published and widely analyzed",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "celebrity_0054",
+    "question": "Would you rather be a celebrity known for being super kind, but you're secretly mean or be a celebrity known for being mean, but you're secretly kind?",
+    "option_blue": "be a celebrity known for being super kind, but you're secretly mean",
+    "option_red": "be a celebrity known for being mean, but you're secretly kind",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "celebrity_0055",
+    "question": "Would you rather be known for a catchphrase you hate or be known for a wardrobe malfunction that went viral?",
+    "option_blue": "be known for a catchphrase you hate",
+    "option_red": "be known for a wardrobe malfunction that went viral",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "celebrity_0056",
+    "question": "Would you rather always have to attend boring charity galas or always have to present at stressful awards shows?",
+    "option_blue": "always have to attend boring charity galas",
+    "option_red": "always have to present at stressful awards shows",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "celebrity_0057",
+    "question": "Would you rather win an Oscar but trip on stage during your speech or never win an Oscar but always present flawlessly?",
+    "option_blue": "win an Oscar but trip on stage during your speech",
+    "option_red": "never win an Oscar but always present flawlessly",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "celebrity_0058",
+    "question": "Would you rather be known for controversial opinions you don't hold or never voice your true opinions again?",
+    "option_blue": "be known for controversial opinions you don't hold",
+    "option_red": "never voice your true opinions again",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "celebrity_0059",
+    "question": "Would you rather have a personal chef but eat bland food daily or cook all your own meals but they are always delicious?",
+    "option_blue": "have a personal chef but eat bland food daily",
+    "option_red": "cook all your own meals but they are always delicious",
+    "global_votes_blue": 11,
+    "global_votes_red": 89
+  },
+  {
+    "id": "celebrity_0060",
+    "question": "Would you rather be able to retire wealthy at 30 but never work again or work until retirement age but love every minute of it?",
+    "option_blue": "be able to retire wealthy at 30 but never work again",
+    "option_red": "work until retirement age but love every minute of it",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "celebrity_0061",
+    "question": "Would you rather guest star on every major talk show but always nervously stammer or never be invited on a talk show but be a renowned public speaker?",
+    "option_blue": "guest star on every major talk show but always nervously stammer",
+    "option_red": "never be invited on a talk show but be a renowned public speaker",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "celebrity_0062",
+    "question": "Would you rather be known for a scandal that wasn't your fault or be known for a mediocre talent you actually possess?",
+    "option_blue": "be known for a scandal that wasn't your fault",
+    "option_red": "be known for a mediocre talent you actually possess",
+    "global_votes_blue": 22,
+    "global_votes_red": 78
+  },
+  {
+    "id": "celebrity_0063",
+    "question": "Would you rather be famous for something you did by accident or be famous for something you worked incredibly hard on but don't enjoy?",
+    "option_blue": "be famous for something you did by accident",
+    "option_red": "be famous for something you worked incredibly hard on but don't enjoy",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "celebrity_0064",
+    "question": "Would you rather have your private messages leaked to the public or have your phone hacked and all your contacts spammed?",
+    "option_blue": "have your private messages leaked to the public",
+    "option_red": "have your phone hacked and all your contacts spammed",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "celebrity_0065",
+    "question": "Would you rather have a personal chef who cooks food you hate daily or always cook for yourself, but your kitchen is tiny and inconvenient?",
+    "option_blue": "have a personal chef who cooks food you hate daily",
+    "option_red": "always cook for yourself, but your kitchen is tiny and inconvenient",
+    "global_votes_blue": 15,
+    "global_votes_red": 85
+  },
+  {
+    "id": "celebrity_0066",
+    "question": "Would you rather always have your personal life be front-page news or always have your professional failures be front-page news?",
+    "option_blue": "always have your personal life be front-page news",
+    "option_red": "always have your professional failures be front-page news",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "celebrity_0067",
+    "question": "Would you rather be famous for something you hate doing or be unknown but love your work?",
+    "option_blue": "be famous for something you hate doing",
+    "option_red": "be unknown but love your work",
+    "global_votes_blue": 25,
+    "global_votes_red": 75
+  },
+  {
+    "id": "celebrity_0068",
+    "question": "Would you rather be famous for an embarrassing childhood video that resurfaced or be famous for a secret talent you never wanted to share?",
+    "option_blue": "be famous for an embarrassing childhood video that resurfaced",
+    "option_red": "be famous for a secret talent you never wanted to share",
+    "global_votes_blue": 23,
+    "global_votes_red": 77
+  },
+  {
+    "id": "celebrity_0069",
+    "question": "Would you rather star in a remake of a beloved classic or create an original work that becomes a cult classic?",
+    "option_blue": "star in a remake of a beloved classic",
+    "option_red": "create an original work that becomes a cult classic",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "celebrity_0070",
+    "question": "Would you rather be known across the globe but unfamiliar to your neighbors or be a local legend but unknown outside your hometown?",
+    "option_blue": "be known across the globe but unfamiliar to your neighbors",
+    "option_red": "be a local legend but unknown outside your hometown",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "celebrity_0071",
+    "question": "Would you rather always wear designer clothes that are ugly or always wear comfortable clothes nobody notices?",
+    "option_blue": "always wear designer clothes that are ugly",
+    "option_red": "always wear comfortable clothes nobody notices",
+    "global_votes_blue": 16,
+    "global_votes_red": 84
+  },
+  {
+    "id": "celebrity_0072",
+    "question": "Would you rather be featured on the cover of a tabloid weekly or never have your work mentioned in any publication?",
+    "option_blue": "be featured on the cover of a tabloid weekly",
+    "option_red": "never have your work mentioned in any publication",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "celebrity_0073",
+    "question": "Would you rather attend every red carpet event looking amazing or skip all events and be lauded for your work?",
+    "option_blue": "attend every red carpet event looking amazing",
+    "option_red": "skip all events and be lauded for your work",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "celebrity_0074",
+    "question": "Would you rather perform on stage with a wardrobe malfunction or trip and fall spectacularly on the red carpet?",
+    "option_blue": "perform on stage with a wardrobe malfunction",
+    "option_red": "trip and fall spectacularly on the red carpet",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "celebrity_0075",
+    "question": "Would you rather be great at acting but terrible at interviews or be terrible at acting but amazing at interviews?",
+    "option_blue": "be great at acting but terrible at interviews",
+    "option_red": "be terrible at acting but amazing at interviews",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "celebrity_0076",
+    "question": "Would you rather accidentally reveal a major movie spoiler in an interview or accidentally offend a powerful industry figure on live TV?",
+    "option_blue": "accidentally reveal a major movie spoiler in an interview",
+    "option_red": "accidentally offend a powerful industry figure on live TV",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "celebrity_0077",
+    "question": "Would you rather live in a huge mansion with no privacy or live in a modest home with complete anonymity?",
+    "option_blue": "live in a huge mansion with no privacy",
+    "option_red": "live in a modest home with complete anonymity",
+    "global_votes_blue": 18,
+    "global_votes_red": 82
+  },
+  {
+    "id": "celebrity_0078",
+    "question": "Would you rather be famous but constantly mistaken for another celebrity or be unknown but vaguely resemble a famous celebrity?",
+    "option_blue": "be famous but constantly mistaken for another celebrity",
+    "option_red": "be unknown but vaguely resemble a famous celebrity",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "celebrity_0079",
+    "question": "Would you rather have to fire your best friend as your manager or have your family constantly ask you for money?",
+    "option_blue": "have to fire your best friend as your manager",
+    "option_red": "have your family constantly ask you for money",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "celebrity_0080",
+    "question": "Would you rather win an Oscar but trip on stage or never win an award but always look flawless?",
+    "option_blue": "win an Oscar but trip on stage",
+    "option_red": "never win an award but always look flawless",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "celebrity_0081",
+    "question": "Would you rather be the subject of a wildly inaccurate documentary or have a ghostwriter publish a memoir under your name that you didn't write?",
+    "option_blue": "be the subject of a wildly inaccurate documentary",
+    "option_red": "have a ghostwriter publish a memoir under your name that you didn't write",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "celebrity_0082",
+    "question": "Would you rather win an Oscar but forget your acceptance speech or be nominated for an Oscar every year but never win?",
+    "option_blue": "win an Oscar but forget your acceptance speech",
+    "option_red": "be nominated for an Oscar every year but never win",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "celebrity_0083",
+    "question": "Would you rather have your wax figure look absolutely nothing like you or have a perfectly accurate wax figure but hidden in a strange location?",
+    "option_blue": "have your wax figure look absolutely nothing like you",
+    "option_red": "have a perfectly accurate wax figure but hidden in a strange location",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  },
+  {
+    "id": "celebrity_0084",
+    "question": "Would you rather receive thousands of hateful messages daily or receive no messages from anyone ever?",
+    "option_blue": "receive thousands of hateful messages daily",
+    "option_red": "receive no messages from anyone ever",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "celebrity_0085",
+    "question": "Would you rather only be able to communicate through singing for a year or only be able to communicate through interpretive dance for a year?",
+    "option_blue": "only be able to communicate through singing for a year",
+    "option_red": "only be able to communicate through interpretive dance for a year",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "celebrity_0086",
+    "question": "Would you rather only be able to wear outfits designed by a rival celebrity or only be able to wear outfits that are ten years out of fashion?",
+    "option_blue": "only be able to wear outfits designed by a rival celebrity",
+    "option_red": "only be able to wear outfits that are ten years out of fashion",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "celebrity_0087",
+    "question": "Would you rather be rich and famous but have no true friends or be poor and unknown but have a supportive community?",
+    "option_blue": "be rich and famous but have no true friends",
+    "option_red": "be poor and unknown but have a supportive community",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "celebrity_0088",
+    "question": "Would you rather have a fan throw something at you on stage or have hecklers interrupt your entire performance?",
+    "option_blue": "have a fan throw something at you on stage",
+    "option_red": "have hecklers interrupt your entire performance",
+    "global_votes_blue": 69,
+    "global_votes_red": 31
+  },
+  {
+    "id": "celebrity_0089",
+    "question": "Would you rather date a celebrity known for drama or marry someone completely out of the spotlight?",
+    "option_blue": "date a celebrity known for drama",
+    "option_red": "marry someone completely out of the spotlight",
+    "global_votes_blue": 25,
+    "global_votes_red": 75
+  },
+  {
+    "id": "celebrity_0090",
+    "question": "Would you rather swap lives with a childhood idol for three months or swap lives with a current hot celebrity for three months?",
+    "option_blue": "swap lives with a childhood idol for three months",
+    "option_red": "swap lives with a current hot celebrity for three months",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "celebrity_0091",
+    "question": "Would you rather wear the same outfit to every single public event or have to wear a new, outrageous outfit to every single public event?",
+    "option_blue": "wear the same outfit to every single public event",
+    "option_red": "have to wear a new, outrageous outfit to every single public event",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "celebrity_0092",
+    "question": "Would you rather always have paparazzi outside your house or always have fans recognize you everywhere you go in public?",
+    "option_blue": "always have paparazzi outside your house",
+    "option_red": "always have fans recognize you everywhere you go in public",
+    "global_votes_blue": 21,
+    "global_votes_red": 79
+  },
+  {
+    "id": "celebrity_0093",
+    "question": "Would you rather spend a year living as a completely normal person in secret or spend a year at the peak of your fame with no breaks?",
+    "option_blue": "spend a year living as a completely normal person in secret",
+    "option_red": "spend a year at the peak of your fame with no breaks",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "celebrity_0094",
+    "question": "Would you rather be followed by drones every time you leave home or have to wear a disguise every time you go out?",
+    "option_blue": "be followed by drones every time you leave home",
+    "option_red": "have to wear a disguise every time you go out",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  },
+  {
+    "id": "celebrity_0095",
+    "question": "Would you rather have all your social media accounts run by a publicist or manage all your social media but face constant scrutiny?",
+    "option_blue": "have all your social media accounts run by a publicist",
+    "option_red": "manage all your social media but face constant scrutiny",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "celebrity_0096",
+    "question": "Would you rather have a long and successful career but never win any awards or win many awards early on, but then your career quickly fizzles out?",
+    "option_blue": "have a long and successful career but never win any awards",
+    "option_red": "win many awards early on, but then your career quickly fizzles out",
+    "global_votes_blue": 70,
+    "global_votes_red": 30
+  },
+  {
+    "id": "celebrity_0097",
+    "question": "Would you rather be a movie star who only does indie films or be a TV star on a wildly popular network show?",
+    "option_blue": "be a movie star who only does indie films",
+    "option_red": "be a TV star on a wildly popular network show",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "celebrity_0098",
+    "question": "Would you rather always be recognized but for the wrong reason or never be recognized at all, even for your work?",
+    "option_blue": "always be recognized but for the wrong reason",
+    "option_red": "never be recognized at all, even for your work",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "celebrity_0099",
+    "question": "Would you rather always get the lead role in bad movies or always get supporting roles in great movies?",
+    "option_blue": "always get the lead role in bad movies",
+    "option_red": "always get supporting roles in great movies",
+    "global_votes_blue": 19,
+    "global_votes_red": 81
+  },
+  {
+    "id": "celebrity_0100",
+    "question": "Would you rather accidentally reveal a major movie spoiler on live TV or accidentally call your co-star by the wrong name in an interview?",
+    "option_blue": "accidentally reveal a major movie spoiler on live TV",
+    "option_red": "accidentally call your co-star by the wrong name in an interview",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "celebrity_0101",
+    "question": "Would you rather be a critically acclaimed actor with no commercial success or be a commercially successful actor with no critical acclaim?",
+    "option_blue": "be a critically acclaimed actor with no commercial success",
+    "option_red": "be a commercially successful actor with no critical acclaim",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "celebrity_0102",
+    "question": "Would you rather constantly run into your famous ex at events or never run into your ex, but they're always cast as your love interest?",
+    "option_blue": "constantly run into your famous ex at events",
+    "option_red": "never run into your ex, but they're always cast as your love interest",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "celebrity_0103",
+    "question": "Would you rather be a celebrity known for always being late or be a celebrity known for constantly being overdressed?",
+    "option_blue": "be a celebrity known for always being late",
+    "option_red": "be a celebrity known for constantly being overdressed",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "celebrity_0104",
+    "question": "Would you rather have your every word analyzed by critics or speak to empty rooms your entire career?",
+    "option_blue": "have your every word analyzed by critics",
+    "option_red": "speak to empty rooms your entire career",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "celebrity_0105",
+    "question": "Would you rather be asked to endorse products you hate for huge money or only endorse products you love, but for very little money?",
+    "option_blue": "be asked to endorse products you hate for huge money",
+    "option_red": "only endorse products you love, but for very little money",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "celebrity_0106",
+    "question": "Would you rather have an iconic catchphrase you secretly despise or be constantly asked to reenact a scene from an old role?",
+    "option_blue": "have an iconic catchphrase you secretly despise",
+    "option_red": "be constantly asked to reenact a scene from an old role",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "celebrity_0107",
+    "question": "Would you rather only receive fan mail from angry critics or only receive fan mail from obsessed, creepy fans?",
+    "option_blue": "only receive fan mail from angry critics",
+    "option_red": "only receive fan mail from obsessed, creepy fans",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "celebrity_0108",
+    "question": "Would you rather be the subject of endless memes or be entirely overlooked by popular culture?",
+    "option_blue": "be the subject of endless memes",
+    "option_red": "be entirely overlooked by popular culture",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "celebrity_0109",
+    "question": "Would you rather be known for one iconic role your whole life or have many small roles nobody remembers?",
+    "option_blue": "be known for one iconic role your whole life",
+    "option_red": "have many small roles nobody remembers",
+    "global_votes_blue": 70,
+    "global_votes_red": 30
+  },
+  {
+    "id": "celebrity_0110",
+    "question": "Would you rather be remembered as a celebrity who aged poorly or die young at the peak of your career?",
+    "option_blue": "be remembered as a celebrity who aged poorly",
+    "option_red": "die young at the peak of your career",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "celebrity_0111",
+    "question": "Would you rather be constantly asked to sing your hit song at parties or be constantly asked to talk about your famous movie role?",
+    "option_blue": "be constantly asked to sing your hit song at parties",
+    "option_red": "be constantly asked to talk about your famous movie role",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "celebrity_0112",
+    "question": "Would you rather collaborate with your least favorite artist or turn down a career-defining project because of creative differences?",
+    "option_blue": "collaborate with your least favorite artist",
+    "option_red": "turn down a career-defining project because of creative differences",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "celebrity_0113",
+    "question": "Would you rather have a stalker who sends you gifts daily or have no fans but also no recognition ever?",
+    "option_blue": "have a stalker who sends you gifts daily",
+    "option_red": "have no fans but also no recognition ever",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "celebrity_0114",
+    "question": "Would you rather star in a massively popular but critically panned film or star in a critically acclaimed but little-seen indie film?",
+    "option_blue": "star in a massively popular but critically panned film",
+    "option_red": "star in a critically acclaimed but little-seen indie film",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "celebrity_0115",
+    "question": "Would you rather have a fan base that's incredibly passionate but small or have a large fan base that's indifferent?",
+    "option_blue": "have a fan base that's incredibly passionate but small",
+    "option_red": "have a large fan base that's indifferent",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "celebrity_0116",
+    "question": "Would you rather be known for only selling out stadiums or be known for having a devoted cult following?",
+    "option_blue": "be known for only selling out stadiums",
+    "option_red": "be known for having a devoted cult following",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "celebrity_0117",
+    "question": "Would you rather have to sing all your dialogue in movies or have to dance through your dialogue in movies?",
+    "option_blue": "have to sing all your dialogue in movies",
+    "option_red": "have to dance through your dialogue in movies",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "celebrity_0118",
+    "question": "Would you rather win an Oscar but be hated by the public or be beloved by fans but never win an award?",
+    "option_blue": "win an Oscar but be hated by the public",
+    "option_red": "be beloved by fans but never win an award",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "celebrity_0119",
+    "question": "Would you rather have your phone constantly hacked by fans or live without a smartphone forever?",
+    "option_blue": "have your phone constantly hacked by fans",
+    "option_red": "live without a smartphone forever",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "celebrity_0120",
+    "question": "Would you rather attend every red carpet event in mismatched socks or never be invited to a major red carpet event again?",
+    "option_blue": "attend every red carpet event in mismatched socks",
+    "option_red": "never be invited to a major red carpet event again",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "celebrity_0121",
+    "question": "Would you rather have to perform a song you hate at every concert or have to recite a movie monologue you hate in every interview?",
+    "option_blue": "have to perform a song you hate at every concert",
+    "option_red": "have to recite a movie monologue you hate in every interview",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "celebrity_0122",
+    "question": "Would you rather date a celebrity everyone hates but you genuinely love or date a non-celebrity everyone loves but you find boring?",
+    "option_blue": "date a celebrity everyone hates but you genuinely love",
+    "option_red": "date a non-celebrity everyone loves but you find boring",
+    "global_votes_blue": 68,
+    "global_votes_red": 33
+  },
+  {
+    "id": "celebrity_0123",
+    "question": "Would you rather have your fashion choices constantly ridiculed or have your attempts at serious art always mocked?",
+    "option_blue": "have your fashion choices constantly ridiculed",
+    "option_red": "have your attempts at serious art always mocked",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "celebrity_0124",
+    "question": "Would you rather have a hit song that's embarrassing or release critically acclaimed music that nobody buys?",
+    "option_blue": "have a hit song that's embarrassing",
+    "option_red": "release critically acclaimed music that nobody buys",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "celebrity_0125",
+    "question": "Would you rather have your most embarrassing moment caught on camera or have your biggest personal achievement completely ignored by the media?",
+    "option_blue": "have your most embarrassing moment caught on camera",
+    "option_red": "have your biggest personal achievement completely ignored by the media",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "celebrity_0126",
+    "question": "Would you rather only be recognized when wearing a ridiculous disguise or be instantly recognizable by everyone, everywhere you go?",
+    "option_blue": "only be recognized when wearing a ridiculous disguise",
+    "option_red": "be instantly recognizable by everyone, everywhere you go",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "celebrity_0127",
+    "question": "Would you rather have your biggest fan be obsessed with you or have everyone politely indifferent to your work?",
+    "option_blue": "have your biggest fan be obsessed with you",
+    "option_red": "have everyone politely indifferent to your work",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "celebrity_0128",
+    "question": "Would you rather have a hit song that's a one-hit wonder or have a moderately successful career with no huge hits?",
+    "option_blue": "have a hit song that's a one-hit wonder",
+    "option_red": "have a moderately successful career with no huge hits",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "celebrity_0129",
+    "question": "Would you rather be a famous director whose films always flop at the box office or be a famous actor whose films are always critically despised?",
+    "option_blue": "be a famous director whose films always flop at the box office",
+    "option_red": "be a famous actor whose films are always critically despised",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "celebrity_0130",
+    "question": "Would you rather have a bad wax figure of yourself made or have an unrecognizably good portrait painted?",
+    "option_blue": "have a bad wax figure of yourself made",
+    "option_red": "have an unrecognizably good portrait painted",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "celebrity_0131",
+    "question": "Would you rather date a celebrity known for being extremely private or date a celebrity known for being extremely public?",
+    "option_blue": "date a celebrity known for being extremely private",
+    "option_red": "date a celebrity known for being extremely public",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "celebrity_0132",
+    "question": "Would you rather have a public scandal you didn't cause or have a private scandal that ruins your career?",
+    "option_blue": "have a public scandal you didn't cause",
+    "option_red": "have a private scandal that ruins your career",
+    "global_votes_blue": 66,
+    "global_votes_red": 34
+  },
+  {
+    "id": "celebrity_0133",
+    "question": "Would you rather be asked the exact same question in every interview or have every interview topic be incredibly offensive?",
+    "option_blue": "be asked the exact same question in every interview",
+    "option_red": "have every interview topic be incredibly offensive",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "celebrity_0134",
+    "question": "Would you rather have 10 million followers but only 10 true friends or have 100 followers but 100 true friends?",
+    "option_blue": "have 10 million followers but only 10 true friends",
+    "option_red": "have 100 followers but 100 true friends",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "celebrity_0135",
+    "question": "Would you rather be a wildly successful child star who fades away or struggle for years before achieving late-life success?",
+    "option_blue": "be a wildly successful child star who fades away",
+    "option_red": "struggle for years before achieving late-life success",
+    "global_votes_blue": 26,
+    "global_votes_red": 74
+  },
+  {
+    "id": "celebrity_0136",
+    "question": "Would you rather have an iconic catchphrase that you despise or have an iconic dance move that you're tired of doing?",
+    "option_blue": "have an iconic catchphrase that you despise",
+    "option_red": "have an iconic dance move that you're tired of doing",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "celebrity_0137",
+    "question": "Would you rather be famous for a single viral moment or be a respected but lesser-known character actor?",
+    "option_blue": "be famous for a single viral moment",
+    "option_red": "be a respected but lesser-known character actor",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "celebrity_0138",
+    "question": "Would you rather have your image used in embarrassing memes or have an AI version of you perform without your consent?",
+    "option_blue": "have your image used in embarrassing memes",
+    "option_red": "have an AI version of you perform without your consent",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "celebrity_0139",
+    "question": "Would you rather travel the world for filming in remote places or stay in one city for a long-running TV series?",
+    "option_blue": "travel the world for filming in remote places",
+    "option_red": "stay in one city for a long-running TV series",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "celebrity_0140",
+    "question": "Would you rather attend celebrity parties where everyone ignores you or attend fan conventions where everyone mobs you?",
+    "option_blue": "attend celebrity parties where everyone ignores you",
+    "option_red": "attend fan conventions where everyone mobs you",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "celebrity_0141",
+    "question": "Would you rather travel the world for free but always be working or stay home but have unlimited leisure time?",
+    "option_blue": "travel the world for free but always be working",
+    "option_red": "stay home but have unlimited leisure time",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "celebrity_0142",
+    "question": "Would you rather spend a year living under an assumed identity or spend a year with your every move documented by a reality show?",
+    "option_blue": "spend a year living under an assumed identity",
+    "option_red": "spend a year with your every move documented by a reality show",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "celebrity_0143",
+    "question": "Would you rather read every negative comment about yourself online or never read anything about yourself, positive or negative?",
+    "option_blue": "read every negative comment about yourself online",
+    "option_red": "never read anything about yourself, positive or negative",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "celebrity_0144",
+    "question": "Would you rather only get recognized in obscure foreign countries or only get recognized by people who dislike your work?",
+    "option_blue": "only get recognized in obscure foreign countries",
+    "option_red": "only get recognized by people who dislike your work",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "celebrity_0145",
+    "question": "Would you rather be a famous chef but hate cooking at home or be a famous fashion designer but only wear sweatsuits?",
+    "option_blue": "be a famous chef but hate cooking at home",
+    "option_red": "be a famous fashion designer but only wear sweatsuits",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "celebrity_0146",
+    "question": "Would you rather be celebrated for a talent you don't actually possess or be overlooked for a talent you genuinely possess?",
+    "option_blue": "be celebrated for a talent you don't actually possess",
+    "option_red": "be overlooked for a talent you genuinely possess",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "celebrity_0147",
+    "question": "Would you rather be friends with a group of struggling artists or be friends with a group of incredibly famous, busy celebrities?",
+    "option_blue": "be friends with a group of struggling artists",
+    "option_red": "be friends with a group of incredibly famous, busy celebrities",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "celebrity_0148",
+    "question": "Would you rather be a well-respected figure in a niche, obscure art form or be a widely recognized face in a universally popular but disposable art form?",
+    "option_blue": "be a well-respected figure in a niche, obscure art form",
+    "option_red": "be a widely recognized face in a universally popular but disposable art form",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "celebrity_0149",
+    "question": "Would you rather be super famous for one year and then completely forgotten or be moderately famous for your entire life?",
+    "option_blue": "be super famous for one year and then completely forgotten",
+    "option_red": "be moderately famous for your entire life",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "celebrity_0150",
+    "question": "Would you rather always be called by your character's name by fans or always be mistaken for another famous celebrity?",
+    "option_blue": "always be called by your character's name by fans",
+    "option_red": "always be mistaken for another famous celebrity",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "celebrity_0151",
+    "question": "Would you rather lose your voice right before a major performance or forget all your lines during a live broadcast?",
+    "option_blue": "lose your voice right before a major performance",
+    "option_red": "forget all your lines during a live broadcast",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "celebrity_0152",
+    "question": "Would you rather make millions from a role you hated doing or make very little from a role you absolutely loved doing?",
+    "option_blue": "make millions from a role you hated doing",
+    "option_red": "make very little from a role you absolutely loved doing",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "celebrity_0153",
+    "question": "Would you rather be cast as a major superhero but hate the role or be an unknown actor in an iconic indie film?",
+    "option_blue": "be cast as a major superhero but hate the role",
+    "option_red": "be an unknown actor in an iconic indie film",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "celebrity_0154",
+    "question": "Would you rather be constantly confused for another celebrity or have people mispronounce your name forever?",
+    "option_blue": "be constantly confused for another celebrity",
+    "option_red": "have people mispronounce your name forever",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "celebrity_0155",
+    "question": "Would you rather always have unflattering photos of yourself published or always have your interviews misquoted by the press?",
+    "option_blue": "always have unflattering photos of yourself published",
+    "option_red": "always have your interviews misquoted by the press",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "celebrity_0156",
+    "question": "Would you rather live in a huge mansion but be constantly lonely or live in a small apartment but always have friends over?",
+    "option_blue": "live in a huge mansion but be constantly lonely",
+    "option_red": "live in a small apartment but always have friends over",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "celebrity_0157",
+    "question": "Would you rather be great at comedic roles but bad at dramatic ones or be great at dramatic roles but bad at comedic ones?",
+    "option_blue": "be great at comedic roles but bad at dramatic ones",
+    "option_red": "be great at dramatic roles but bad at comedic ones",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "celebrity_0158",
+    "question": "Would you rather be a celebrity known for your dramatic personal life or be a celebrity known for being incredibly boring?",
+    "option_blue": "be a celebrity known for your dramatic personal life",
+    "option_red": "be a celebrity known for being incredibly boring",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "celebrity_0159",
+    "question": "Would you rather be unable to use social media for personal posts or be unable to read comments or messages on your social media?",
+    "option_blue": "be unable to use social media for personal posts",
+    "option_red": "be unable to read comments or messages on your social media",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "celebrity_0160",
+    "question": "Would you rather be forced to retire at the peak of your career or continue your career into old age with declining relevance?",
+    "option_blue": "be forced to retire at the peak of your career",
+    "option_red": "continue your career into old age with declining relevance",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "celebrity_0161",
+    "question": "Would you rather have to attend every event with a full face of clown makeup or have to attend every event dressed as a medieval jester?",
+    "option_blue": "have to attend every event with a full face of clown makeup",
+    "option_red": "have to attend every event dressed as a medieval jester",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "celebrity_0162",
+    "question": "Would you rather star in a commercial for a product you hate or work a normal job for minimum wage indefinitely?",
+    "option_blue": "star in a commercial for a product you hate",
+    "option_red": "work a normal job for minimum wage indefinitely",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "celebrity_0163",
+    "question": "Would you rather be a celebrity for your talent but hated by the public or be a celebrity for your personality but have little talent?",
+    "option_blue": "be a celebrity for your talent but hated by the public",
+    "option_red": "be a celebrity for your personality but have little talent",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "celebrity_0164",
+    "question": "Would you rather have to perform for hostile crowds every night or never perform live again, only in studios?",
+    "option_blue": "have to perform for hostile crowds every night",
+    "option_red": "never perform live again, only in studios",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "celebrity_0165",
+    "question": "Would you rather have your biggest hit song be a novelty track or have your critically praised album sell poorly?",
+    "option_blue": "have your biggest hit song be a novelty track",
+    "option_red": "have your critically praised album sell poorly",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "celebrity_0166",
+    "question": "Would you rather be a celebrity chef with terrible ratings or be a home cook whose food is legendary among friends?",
+    "option_blue": "be a celebrity chef with terrible ratings",
+    "option_red": "be a home cook whose food is legendary among friends",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "celebrity_0167",
+    "question": "Would you rather have your embarrassing childhood photos go viral or have your private diary published without consent?",
+    "option_blue": "have your embarrassing childhood photos go viral",
+    "option_red": "have your private diary published without consent",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "celebrity_0168",
+    "question": "Would you rather have your face on every billboard for a month or have your voice be the anonymous narrator of a popular show for a year?",
+    "option_blue": "have your face on every billboard for a month",
+    "option_red": "have your voice be the anonymous narrator of a popular show for a year",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "celebrity_0169",
+    "question": "Would you rather be constantly nominated for awards but never win or never be nominated for awards but win one obscure award unexpectedly?",
+    "option_blue": "be constantly nominated for awards but never win",
+    "option_red": "never be nominated for awards but win one obscure award unexpectedly",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "celebrity_0170",
+    "question": "Would you rather have a hit song that everyone loves but you hate performing or star in a critically acclaimed film that nobody watches?",
+    "option_blue": "have a hit song that everyone loves but you hate performing",
+    "option_red": "star in a critically acclaimed film that nobody watches",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "celebrity_0171",
+    "question": "Would you rather spend all your time on red carpet events or spend all your time recording voiceovers for commercials?",
+    "option_blue": "spend all your time on red carpet events",
+    "option_red": "spend all your time recording voiceovers for commercials",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "celebrity_0172",
+    "question": "Would you rather be known for a terrible movie you starred in or be known for a fantastic movie you nearly starred in?",
+    "option_blue": "be known for a terrible movie you starred in",
+    "option_red": "be known for a fantastic movie you nearly starred in",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "celebrity_0173",
+    "question": "Would you rather host a talk show where all your guests are dull or be a guest on a talk show where the host is rude to you?",
+    "option_blue": "host a talk show where all your guests are dull",
+    "option_red": "be a guest on a talk show where the host is rude to you",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "celebrity_0174",
+    "question": "Would you rather have to constantly pretend to be excited about product endorsements or have to personally respond to every fan mail letter you receive?",
+    "option_blue": "have to constantly pretend to be excited about product endorsements",
+    "option_red": "have to personally respond to every fan mail letter you receive",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "celebrity_0175",
+    "question": "Would you rather lose your voice right before a big concert or forget all your lines during a live play?",
+    "option_blue": "lose your voice right before a big concert",
+    "option_red": "forget all your lines during a live play",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "celebrity_0176",
+    "question": "Would you rather have your pet become more famous than you are or have a fictional character you played become more famous than you?",
+    "option_blue": "have your pet become more famous than you are",
+    "option_red": "have a fictional character you played become more famous than you",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "celebrity_0177",
+    "question": "Would you rather have all your exes write tell-all books about you or have all your future projects leaked before they're officially announced?",
+    "option_blue": "have all your exes write tell-all books about you",
+    "option_red": "have all your future projects leaked before they're officially announced",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "celebrity_0178",
+    "question": "Would you rather lose your social media accounts permanently or be forced to post embarrassing content on your social media daily?",
+    "option_blue": "lose your social media accounts permanently",
+    "option_red": "be forced to post embarrassing content on your social media daily",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "celebrity_0179",
+    "question": "Would you rather have your personal life be a reality TV show or live a secret life fraught with danger?",
+    "option_blue": "have your personal life be a reality TV show",
+    "option_red": "live a secret life fraught with danger",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "celebrity_0180",
+    "question": "Would you rather always have to wear uncomfortable shoes for public appearances or always have to wear an outfit you dislike for public appearances?",
+    "option_blue": "always have to wear uncomfortable shoes for public appearances",
+    "option_red": "always have to wear an outfit you dislike for public appearances",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "celebrity_0181",
+    "question": "Would you rather date a celebrity known for being a bad person or date a non-famous person but pretend they are famous?",
+    "option_blue": "date a celebrity known for being a bad person",
+    "option_red": "date a non-famous person but pretend they are famous",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "celebrity_0182",
+    "question": "Would you rather have to attend every awards show in person or have to host every awards show from home via video call?",
+    "option_blue": "have to attend every awards show in person",
+    "option_red": "have to host every awards show from home via video call",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "celebrity_0183",
+    "question": "Would you rather marry someone your fans disapprove of or be single and lonely your entire career?",
+    "option_blue": "marry someone your fans disapprove of",
+    "option_red": "be single and lonely your entire career",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  }
+]

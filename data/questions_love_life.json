@@ -1,0 +1,866 @@
+[
+  {
+    "id": "love_life_0001",
+    "question": "Would you rather write your partner a love letter or sing your partner a song?",
+    "option_blue": "write your partner a love letter",
+    "option_red": "sing your partner a song",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "love_life_0002",
+    "question": "Would you rather have a partner who’s bad at texting or have a partner who never stops texting?",
+    "option_blue": "have a partner who’s bad at texting",
+    "option_red": "have a partner who never stops texting",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "love_life_0003",
+    "question": "Would you rather have your partner only be able to use their hands during foreplay or have your partner only be able to use their mouth?",
+    "option_blue": "have your partner only be able to use their hands during foreplay",
+    "option_red": "have your partner only be able to use their mouth",
+    "global_votes_blue": 11,
+    "global_votes_red": 89
+  },
+  {
+    "id": "love_life_0004",
+    "question": "Would you rather invent a groundbreaking technology but never receive credit or be famous for a minor invention?",
+    "option_blue": "invent a groundbreaking technology but never receive credit",
+    "option_red": "be famous for a minor invention",
+    "global_votes_blue": 16,
+    "global_votes_red": 84
+  },
+  {
+    "id": "love_life_0005",
+    "question": "Would you rather always know what your crush thinks of you or never worry about anyone’s opinion again?",
+    "option_blue": "always know what your crush thinks of you",
+    "option_red": "never worry about anyone’s opinion again",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "love_life_0006",
+    "question": "Would you rather go on a date with Zendaya or Sydney Sweeney?",
+    "option_blue": "go on a date with Zendaya",
+    "option_red": "Sydney Sweeney",
+    "global_votes_blue": 11,
+    "global_votes_red": 89
+  },
+  {
+    "id": "love_life_0007",
+    "question": "Would you rather kiss someone who’s an amazing kisser but has bad breath or someone who’s not a great kisser but has minty-fresh breath?",
+    "option_blue": "kiss someone who’s an amazing kisser but has bad breath",
+    "option_red": "someone who’s not a great kisser but has minty-fresh breath",
+    "global_votes_blue": 11,
+    "global_votes_red": 89
+  },
+  {
+    "id": "love_life_0008",
+    "question": "Would you rather be caught cheating or catch your partner cheating?",
+    "option_blue": "be caught cheating",
+    "option_red": "catch your partner cheating",
+    "global_votes_blue": 6,
+    "global_votes_red": 94
+  },
+  {
+    "id": "love_life_0009",
+    "question": "Would you rather have a partner who calls you every hour or have a partner who never answers their phone?",
+    "option_blue": "have a partner who calls you every hour",
+    "option_red": "have a partner who never answers their phone",
+    "global_votes_blue": 77,
+    "global_votes_red": 23
+  },
+  {
+    "id": "love_life_0010",
+    "question": "Would you rather have a romantic partner or a funny partner?",
+    "option_blue": "have a romantic partner",
+    "option_red": "a funny partner",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "love_life_0011",
+    "question": "Would you rather date someone who is obsessed with astrology or someone who refuses to believe in anything spiritual?",
+    "option_blue": "date someone who is obsessed with astrology",
+    "option_red": "someone who refuses to believe in anything spiritual",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "love_life_0012",
+    "question": "Would you rather date someone who flirts with everyone or someone who never flirts, even with you?",
+    "option_blue": "date someone who flirts with everyone",
+    "option_red": "someone who never flirts, even with you",
+    "global_votes_blue": 20,
+    "global_votes_red": 80
+  },
+  {
+    "id": "love_life_0013",
+    "question": "Would you rather date someone who’s obsessed with their pet or someone who’s not into animals at all?",
+    "option_blue": "date someone who’s obsessed with their pet",
+    "option_red": "someone who’s not into animals at all",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "love_life_0014",
+    "question": "Would you rather have an open relationship or a monogamous relationship?",
+    "option_blue": "have an open relationship",
+    "option_red": "a monogamous relationship",
+    "global_votes_blue": 26,
+    "global_votes_red": 74
+  },
+  {
+    "id": "love_life_0015",
+    "question": "Would you rather have a human-size Godzilla as a partner or a partner who’s the size of Godzilla?",
+    "option_blue": "have a human-size Godzilla as a partner",
+    "option_red": "a partner who’s the size of Godzilla",
+    "global_votes_blue": 9,
+    "global_votes_red": 91
+  },
+  {
+    "id": "love_life_0016",
+    "question": "Would you rather have a crazy boyfriend or girlfriend or have an ugly boyfriend or girlfriend?",
+    "option_blue": "have a crazy boyfriend or girlfriend",
+    "option_red": "have an ugly boyfriend or girlfriend",
+    "global_votes_blue": 16,
+    "global_votes_red": 84
+  },
+  {
+    "id": "love_life_0017",
+    "question": "Would you rather have your partner be really close with their ex or have them be super close with someone who’s into them?",
+    "option_blue": "have your partner be really close with their ex",
+    "option_red": "have them be super close with someone who’s into them",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "love_life_0018",
+    "question": "Would you rather swipe right on someone posing with a fish or someone posing with a car they don't own?",
+    "option_blue": "swipe right on someone posing with a fish",
+    "option_red": "someone posing with a car they don't own",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "love_life_0019",
+    "question": "Would you rather be with someone who shows their love through gifts or through words of affirmation?",
+    "option_blue": "be with someone who shows their love through gifts",
+    "option_red": "through words of affirmation",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "love_life_0020",
+    "question": "Would you rather be the couple everyone envies or the couple everyone wants to be friends with?",
+    "option_blue": "be the couple everyone envies",
+    "option_red": "the couple everyone wants to be friends with",
+    "global_votes_blue": 7,
+    "global_votes_red": 93
+  },
+  {
+    "id": "love_life_0021",
+    "question": "Would you rather fart in front of your crush or get caught picking your nose by your crush?",
+    "option_blue": "fart in front of your crush",
+    "option_red": "get caught picking your nose by your crush",
+    "global_votes_blue": 12,
+    "global_votes_red": 88
+  },
+  {
+    "id": "love_life_0022",
+    "question": "Would you rather date an extrovert or an introvert?",
+    "option_blue": "date an extrovert",
+    "option_red": "an introvert",
+    "global_votes_blue": 10,
+    "global_votes_red": 90
+  },
+  {
+    "id": "love_life_0023",
+    "question": "Would you rather never find love or never again be able to have a sexual relationship?",
+    "option_blue": "never find love",
+    "option_red": "never again be able to have a sexual relationship",
+    "global_votes_blue": 7,
+    "global_votes_red": 93
+  },
+  {
+    "id": "love_life_0024",
+    "question": "Would you rather go on a vacation with your partner’s family or go on a vacation with your family?",
+    "option_blue": "go on a vacation with your partner’s family",
+    "option_red": "go on a vacation with your family",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "love_life_0025",
+    "question": "Would you rather stay single forever or date someone who has very different values than you?",
+    "option_blue": "stay single forever",
+    "option_red": "date someone who has very different values than you",
+    "global_votes_blue": 9,
+    "global_votes_red": 91
+  },
+  {
+    "id": "love_life_0026",
+    "question": "Would you rather date a \"psychic\" or someone who sells wellness products in an MLM?",
+    "option_blue": "date a \"psychic\"",
+    "option_red": "someone who sells wellness products in an MLM",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "love_life_0027",
+    "question": "Would you rather have a partner who's always late, but looks amazing or a partner who's always on time, but looks plain?",
+    "option_blue": "have a partner who's always late, but looks amazing",
+    "option_red": "a partner who's always on time, but looks plain",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "love_life_0028",
+    "question": "Would you rather be with someone shorter than you or someone taller than you?",
+    "option_blue": "be with someone shorter than you",
+    "option_red": "someone taller than you",
+    "global_votes_blue": 9,
+    "global_votes_red": 91
+  },
+  {
+    "id": "love_life_0029",
+    "question": "Would you rather get a kiss every day or a hug every day?",
+    "option_blue": "get a kiss every day",
+    "option_red": "a hug every day",
+    "global_votes_blue": 9,
+    "global_votes_red": 91
+  },
+  {
+    "id": "love_life_0030",
+    "question": "Would you rather swipe right on someone wearing a suit in every picture or someone shirtless in every picture?",
+    "option_blue": "swipe right on someone wearing a suit in every picture",
+    "option_red": "someone shirtless in every picture",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "love_life_0031",
+    "question": "Would you rather be with someone who insists on PDA everywhere or someone who won’t hold your hand in public?",
+    "option_blue": "be with someone who insists on PDA everywhere",
+    "option_red": "someone who won’t hold your hand in public",
+    "global_votes_blue": 10,
+    "global_votes_red": 90
+  },
+  {
+    "id": "love_life_0032",
+    "question": "Would you rather swipe right on someone whose profile says “family first” or someone whose profile says “work hard, play hard”?",
+    "option_blue": "swipe right on someone whose profile says “family first”",
+    "option_red": "someone whose profile says “work hard, play hard”",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "love_life_0033",
+    "question": "Would you rather receive a surprise gift every week or have your partner surprise you with little acts of service?",
+    "option_blue": "receive a surprise gift every week",
+    "option_red": "have your partner surprise you with little acts of service",
+    "global_votes_blue": 4,
+    "global_votes_red": 96
+  },
+  {
+    "id": "love_life_0034",
+    "question": "Would you rather celebrate lots of little relationship milestones or just one big one every year?",
+    "option_blue": "celebrate lots of little relationship milestones",
+    "option_red": "just one big one every year",
+    "global_votes_blue": 9,
+    "global_votes_red": 91
+  },
+  {
+    "id": "love_life_0035",
+    "question": "Would you rather be with someone who has a different religion or someone with different political views?",
+    "option_blue": "be with someone who has a different religion",
+    "option_red": "someone with different political views",
+    "global_votes_blue": 7,
+    "global_votes_red": 93
+  },
+  {
+    "id": "love_life_0036",
+    "question": "Would you rather have a piece of food fly out of your mouth while talking on a first date or laugh so hard that you accidentally snort?",
+    "option_blue": "have a piece of food fly out of your mouth while talking on a first date",
+    "option_red": "laugh so hard that you accidentally snort",
+    "global_votes_blue": 17,
+    "global_votes_red": 83
+  },
+  {
+    "id": "love_life_0037",
+    "question": "Would you rather have the power to be invisible or be able to read your partner's mind?",
+    "option_blue": "have the power to be invisible",
+    "option_red": "be able to read your partner's mind",
+    "global_votes_blue": 7,
+    "global_votes_red": 93
+  },
+  {
+    "id": "love_life_0038",
+    "question": "Would you rather accidentally say \"I love you\" on a first date or forget your date’s name halfway through?",
+    "option_blue": "accidentally say \"I love you\" on a first date",
+    "option_red": "forget your date’s name halfway through",
+    "global_votes_blue": 7,
+    "global_votes_red": 93
+  },
+  {
+    "id": "love_life_0039",
+    "question": "Would you rather cuddle with your partner every day or shower with your partner every day?",
+    "option_blue": "cuddle with your partner every day",
+    "option_red": "shower with your partner every day",
+    "global_votes_blue": 14,
+    "global_votes_red": 86
+  },
+  {
+    "id": "love_life_0040",
+    "question": "Would you rather make love while listening to AC/DC or Tracy Chapman?",
+    "option_blue": "make love while listening to AC/DC",
+    "option_red": "Tracy Chapman",
+    "global_votes_blue": 8,
+    "global_votes_red": 92
+  },
+  {
+    "id": "love_life_0041",
+    "question": "Would you rather be set up on a blind date by your mom or by your ex?",
+    "option_blue": "be set up on a blind date by your mom",
+    "option_red": "by your ex",
+    "global_votes_blue": 8,
+    "global_votes_red": 92
+  },
+  {
+    "id": "love_life_0042",
+    "question": "Would you rather date someone who always has to document everything or someone who never takes a single photo?",
+    "option_blue": "date someone who always has to document everything",
+    "option_red": "someone who never takes a single photo",
+    "global_votes_blue": 6,
+    "global_votes_red": 94
+  },
+  {
+    "id": "love_life_0043",
+    "question": "Would you rather date Edward Cullen from Twilight or date Damon Salvatore from The Vampire Diaries?",
+    "option_blue": "date Edward Cullen from Twilight",
+    "option_red": "date Damon Salvatore from The Vampire Diaries",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "love_life_0044",
+    "question": "Would you rather date someone who’s TikTok famous or date someone who has no social media at all?",
+    "option_blue": "date someone who’s TikTok famous",
+    "option_red": "date someone who has no social media at all",
+    "global_votes_blue": 23,
+    "global_votes_red": 77
+  },
+  {
+    "id": "love_life_0045",
+    "question": "Would you rather be single forever but have amazing friendships or find true love but only have few friends?",
+    "option_blue": "be single forever but have amazing friendships",
+    "option_red": "find true love but only have few friends",
+    "global_votes_blue": 14,
+    "global_votes_red": 86
+  },
+  {
+    "id": "love_life_0046",
+    "question": "Would you rather a romantic picnic with Yoda or with Chewbacca?",
+    "option_blue": "a romantic picnic with Yoda",
+    "option_red": "with Chewbacca",
+    "global_votes_blue": 6,
+    "global_votes_red": 94
+  },
+  {
+    "id": "love_life_0047",
+    "question": "Would you rather get gas every time you're around your crush or burp loudly after every time you kiss?",
+    "option_blue": "get gas every time you're around your crush",
+    "option_red": "burp loudly after every time you kiss",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "love_life_0048",
+    "question": "Would you rather date someone who only eats super healthy or someone who loves indulging in junk food?",
+    "option_blue": "date someone who only eats super healthy",
+    "option_red": "someone who loves indulging in junk food",
+    "global_votes_blue": 6,
+    "global_votes_red": 94
+  },
+  {
+    "id": "love_life_0049",
+    "question": "Would you rather be forced to go to the other side of the world alone for 3 years after just finding the love of your life or stay at home and constantly get dumped?",
+    "option_blue": "be forced to go to the other side of the world alone for 3 years after just finding the love of your life",
+    "option_red": "stay at home and constantly get dumped",
+    "global_votes_blue": 11,
+    "global_votes_red": 89
+  },
+  {
+    "id": "love_life_0050",
+    "question": "Would you rather stay single forever or only date people your parents set you up with?",
+    "option_blue": "stay single forever",
+    "option_red": "only date people your parents set you up with",
+    "global_votes_blue": 3,
+    "global_votes_red": 97
+  },
+  {
+    "id": "love_life_0051",
+    "question": "Would you rather go through heartbreak 100 times and finally find someone you truly love or never experience heartbreak and be with someone you think you love?",
+    "option_blue": "go through heartbreak 100 times and finally find someone you truly love",
+    "option_red": "never experience heartbreak and be with someone you think you love",
+    "global_votes_blue": 7,
+    "global_votes_red": 93
+  },
+  {
+    "id": "love_life_0052",
+    "question": "Would you rather read an erotic novel or watch an erotic film?",
+    "option_blue": "read an erotic novel",
+    "option_red": "watch an erotic film",
+    "global_votes_blue": 3,
+    "global_votes_red": 97
+  },
+  {
+    "id": "love_life_0053",
+    "question": "Would you rather be ghosted after five dates or be broken up with via text?",
+    "option_blue": "be ghosted after five dates",
+    "option_red": "be broken up with via text",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "love_life_0054",
+    "question": "Would you rather go on a date with Selena Gomez or Taylor Swift?",
+    "option_blue": "go on a date with Selena Gomez",
+    "option_red": "Taylor Swift",
+    "global_votes_blue": 5,
+    "global_votes_red": 95
+  },
+  {
+    "id": "love_life_0055",
+    "question": "Would you rather marry the person of your dreams or have the career of your dreams?",
+    "option_blue": "marry the person of your dreams",
+    "option_red": "have the career of your dreams",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "love_life_0056",
+    "question": "Would you rather date someone who’s friends with all your friends or someone who stays out of your social circle?",
+    "option_blue": "date someone who’s friends with all your friends",
+    "option_red": "someone who stays out of your social circle",
+    "global_votes_blue": 4,
+    "global_votes_red": 96
+  },
+  {
+    "id": "love_life_0057",
+    "question": "Would you rather be cheated on (numerous times) and never know or cheat on someone else and have to tell them?",
+    "option_blue": "be cheated on (numerous times) and never know",
+    "option_red": "cheat on someone else and have to tell them",
+    "global_votes_blue": 4,
+    "global_votes_red": 96
+  },
+  {
+    "id": "love_life_0058",
+    "question": "Would you rather have all your exes meet each other or have to spend a whole day with one of their new partners?",
+    "option_blue": "have all your exes meet each other",
+    "option_red": "have to spend a whole day with one of their new partners",
+    "global_votes_blue": 4,
+    "global_votes_red": 96
+  },
+  {
+    "id": "love_life_0059",
+    "question": "Would you rather kiss someone who keeps their eyes wide open or someone who won’t stop making weird noises?",
+    "option_blue": "kiss someone who keeps their eyes wide open",
+    "option_red": "someone who won’t stop making weird noises",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "love_life_0060",
+    "question": "Would you rather have a partner who never listens to your advice or a partner who takes all your advice, even when it’s bad?",
+    "option_blue": "have a partner who never listens to your advice",
+    "option_red": "a partner who takes all your advice, even when it’s bad",
+    "global_votes_blue": 1,
+    "global_votes_red": 99
+  },
+  {
+    "id": "love_life_0061",
+    "question": "Would you rather make love while listening to Bob Marley or Daft Punk?",
+    "option_blue": "make love while listening to Bob Marley",
+    "option_red": "Daft Punk",
+    "global_votes_blue": 3,
+    "global_votes_red": 97
+  },
+  {
+    "id": "love_life_0062",
+    "question": "Would you rather go on a date with Tom Holland or Timothée Chalamet?",
+    "option_blue": "go on a date with Tom Holland",
+    "option_red": "Timothée Chalamet",
+    "global_votes_blue": 74,
+    "global_votes_red": 26
+  },
+  {
+    "id": "love_life_0063",
+    "question": "Would you rather flirt with your crush using emojis while texting or using memes while texting?",
+    "option_blue": "flirt with your crush using emojis while texting",
+    "option_red": "using memes while texting",
+    "global_votes_blue": 3,
+    "global_votes_red": 97
+  },
+  {
+    "id": "love_life_0064",
+    "question": "Would you rather be incredibly happy, but forever alone or unhappy, but with the love of your life?",
+    "option_blue": "be incredibly happy, but forever alone",
+    "option_red": "unhappy, but with the love of your life",
+    "global_votes_blue": 5,
+    "global_votes_red": 95
+  },
+  {
+    "id": "love_life_0065",
+    "question": "Would you rather your partner be skilled in bed and useless in the kitchen or a top chef with average skills in bed?",
+    "option_blue": "your partner be skilled in bed and useless in the kitchen",
+    "option_red": "a top chef with average skills in bed",
+    "global_votes_blue": 3,
+    "global_votes_red": 97
+  },
+  {
+    "id": "love_life_0066",
+    "question": "Would you rather be with someone who shows you only half of the affection you need or be alone?",
+    "option_blue": "be with someone who shows you only half of the affection you need",
+    "option_red": "be alone",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "love_life_0067",
+    "question": "Would you rather date someone 3 ft taller or someone 3 ft shorter?",
+    "option_blue": "date someone 3 ft taller",
+    "option_red": "someone 3 ft shorter",
+    "global_votes_blue": 4,
+    "global_votes_red": 96
+  },
+  {
+    "id": "love_life_0068",
+    "question": "Would you rather date someone who always says exactly what they think or someone who rarely shares their real feelings?",
+    "option_blue": "date someone who always says exactly what they think",
+    "option_red": "someone who rarely shares their real feelings",
+    "global_votes_blue": 5,
+    "global_votes_red": 95
+  },
+  {
+    "id": "love_life_0069",
+    "question": "Would you rather have a significant other who hates your parents or have a significant other who hates your dog?",
+    "option_blue": "have a significant other who hates your parents",
+    "option_red": "have a significant other who hates your dog",
+    "global_votes_blue": 2,
+    "global_votes_red": 98
+  },
+  {
+    "id": "love_life_0070",
+    "question": "Would you rather date someone who needs a lot of alone time or date someone who always wants to be around you?",
+    "option_blue": "date someone who needs a lot of alone time",
+    "option_red": "date someone who always wants to be around you",
+    "global_votes_blue": 1,
+    "global_votes_red": 99
+  },
+  {
+    "id": "love_life_0071",
+    "question": "Would you rather have an extreme SM experience but no one knows about it or a swinging experience with your partner?",
+    "option_blue": "have an extreme SM experience but no one knows about it",
+    "option_red": "a swinging experience with your partner",
+    "global_votes_blue": 3,
+    "global_votes_red": 97
+  },
+  {
+    "id": "love_life_0072",
+    "question": "Would you rather date an optimist or a nihilist?",
+    "option_blue": "date an optimist",
+    "option_red": "a nihilist",
+    "global_votes_blue": 87,
+    "global_votes_red": 13
+  },
+  {
+    "id": "love_life_0073",
+    "question": "Would you rather date someone who’s a gym fanatic or someone who never goes to the gym?",
+    "option_blue": "date someone who’s a gym fanatic",
+    "option_red": "someone who never goes to the gym",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "love_life_0074",
+    "question": "Would you rather be the big spoon or small spoon?",
+    "option_blue": "be the big spoon",
+    "option_red": "small spoon",
+    "global_votes_blue": 3,
+    "global_votes_red": 97
+  },
+  {
+    "id": "love_life_0075",
+    "question": "Would you rather kiss someone you don’t like or kiss your friend’s crush?",
+    "option_blue": "kiss someone you don’t like",
+    "option_red": "kiss your friend’s crush",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "love_life_0076",
+    "question": "Would you rather date someone who needs daily affirmations or someone who never talks about feelings?",
+    "option_blue": "date someone who needs daily affirmations",
+    "option_red": "someone who never talks about feelings",
+    "global_votes_blue": 80,
+    "global_votes_red": 20
+  },
+  {
+    "id": "love_life_0077",
+    "question": "Would you rather date someone who loves PDA or someone who refuses to show affection in public?",
+    "option_blue": "date someone who loves PDA",
+    "option_red": "someone who refuses to show affection in public",
+    "global_votes_blue": 1,
+    "global_votes_red": 99
+  },
+  {
+    "id": "love_life_0078",
+    "question": "Would you rather be emotionless or feel too much?",
+    "option_blue": "be emotionless",
+    "option_red": "feel too much",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "love_life_0079",
+    "question": "Would you rather fart while getting eaten out or burp while making out?",
+    "option_blue": "fart while getting eaten out",
+    "option_red": "burp while making out",
+    "global_votes_blue": 2,
+    "global_votes_red": 98
+  },
+  {
+    "id": "love_life_0080",
+    "question": "Would you rather go on a date with someone who only talks about themselves or go on a date with someone who only responds with one-word answers?",
+    "option_blue": "go on a date with someone who only talks about themselves",
+    "option_red": "go on a date with someone who only responds with one-word answers",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "love_life_0081",
+    "question": "Would you rather be able to snap your fingers and make pants disappear or a top disappear?",
+    "option_blue": "be able to snap your fingers and make pants disappear",
+    "option_red": "a top disappear",
+    "global_votes_blue": 2,
+    "global_votes_red": 98
+  },
+  {
+    "id": "love_life_0082",
+    "question": "Would you rather get stuck in an elevator with your crush or your favorite celebrity?",
+    "option_blue": "get stuck in an elevator with your crush",
+    "option_red": "your favorite celebrity",
+    "global_votes_blue": 2,
+    "global_votes_red": 98
+  },
+  {
+    "id": "love_life_0083",
+    "question": "Would you rather be with a polygamous partner for life or have relationships that never last more than 2 years?",
+    "option_blue": "be with a polygamous partner for life",
+    "option_red": "have relationships that never last more than 2 years",
+    "global_votes_blue": 2,
+    "global_votes_red": 98
+  },
+  {
+    "id": "love_life_0084",
+    "question": "Would you rather wait until marriage to have sex or never find your soulmate?",
+    "option_blue": "wait until marriage to have sex",
+    "option_red": "never find your soulmate",
+    "global_votes_blue": 4,
+    "global_votes_red": 96
+  },
+  {
+    "id": "love_life_0085",
+    "question": "Would you rather date someone who never makes plans or date someone who plans everything?",
+    "option_blue": "date someone who never makes plans",
+    "option_red": "date someone who plans everything",
+    "global_votes_blue": 1,
+    "global_votes_red": 99
+  },
+  {
+    "id": "love_life_0086",
+    "question": "Would you rather date someone who always overshares or someone who barely says a word?",
+    "option_blue": "date someone who always overshares",
+    "option_red": "someone who barely says a word",
+    "global_votes_blue": 87,
+    "global_votes_red": 13
+  },
+  {
+    "id": "love_life_0087",
+    "question": "Would you rather be with a partner who’s a workaholic or one who has no ambition at all?",
+    "option_blue": "be with a partner who’s a workaholic",
+    "option_red": "one who has no ambition at all",
+    "global_votes_blue": 2,
+    "global_votes_red": 98
+  },
+  {
+    "id": "love_life_0088",
+    "question": "Would you rather date someone who’s overly jealous or someone who never shows any jealousy?",
+    "option_blue": "date someone who’s overly jealous",
+    "option_red": "someone who never shows any jealousy",
+    "global_votes_blue": 1,
+    "global_votes_red": 99
+  },
+  {
+    "id": "love_life_0089",
+    "question": "Would you rather have a first date indoors or outdoors?",
+    "option_blue": "have a first date indoors",
+    "option_red": "outdoors",
+    "global_votes_blue": 1,
+    "global_votes_red": 99
+  },
+  {
+    "id": "love_life_0090",
+    "question": "Would you rather get diarrhea on a first date or run into your parents on a first date?",
+    "option_blue": "get diarrhea on a first date",
+    "option_red": "run into your parents on a first date",
+    "global_votes_blue": 1,
+    "global_votes_red": 99
+  },
+  {
+    "id": "love_life_0091",
+    "question": "Would you rather never have to deal with dating apps again or never have to deal with awkward first dates again?",
+    "option_blue": "never have to deal with dating apps again",
+    "option_red": "never have to deal with awkward first dates again",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "love_life_0092",
+    "question": "Would you rather date someone younger than you or older than you?",
+    "option_blue": "date someone younger than you",
+    "option_red": "older than you",
+    "global_votes_blue": 1,
+    "global_votes_red": 99
+  },
+  {
+    "id": "love_life_0093",
+    "question": "Would you rather no longer be able to have foreplay or no longer be able to make love?",
+    "option_blue": "no longer be able to have foreplay",
+    "option_red": "no longer be able to make love",
+    "global_votes_blue": 3,
+    "global_votes_red": 97
+  },
+  {
+    "id": "love_life_0094",
+    "question": "Would you rather live with your significant other as the last two people on Earth or as the first two people living on Mars?",
+    "option_blue": "live with your significant other as the last two people on Earth",
+    "option_red": "as the first two people living on Mars",
+    "global_votes_blue": 2,
+    "global_votes_red": 98
+  },
+  {
+    "id": "love_life_0095",
+    "question": "Would you rather go on a date to a fancy restaurant or go on a date to a food truck?",
+    "option_blue": "go on a date to a fancy restaurant",
+    "option_red": "go on a date to a food truck",
+    "global_votes_blue": 1,
+    "global_votes_red": 99
+  },
+  {
+    "id": "love_life_0096",
+    "question": "Would you rather date someone who needs a detailed relationship status talk weekly or someone who never defines the relationship?",
+    "option_blue": "date someone who needs a detailed relationship status talk weekly",
+    "option_red": "someone who never defines the relationship",
+    "global_votes_blue": 2,
+    "global_votes_red": 98
+  },
+  {
+    "id": "love_life_0097",
+    "question": "Would you rather be in a relationship, but forced to play Monopoly every night with your partner or single, but be able to do what you want at night?",
+    "option_blue": "be in a relationship, but forced to play Monopoly every night with your partner",
+    "option_red": "single, but be able to do what you want at night",
+    "global_votes_blue": 2,
+    "global_votes_red": 98
+  },
+  {
+    "id": "love_life_0098",
+    "question": "Would you rather appear unbelievably attractive to your partner and extremely unattractive to everyone else or appear unbelievably attractive to everyone else, but extremely unattractive to your partner?",
+    "option_blue": "appear unbelievably attractive to your partner and extremely unattractive to everyone else",
+    "option_red": "appear unbelievably attractive to everyone else, but extremely unattractive to your partner",
+    "global_votes_blue": 3,
+    "global_votes_red": 97
+  },
+  {
+    "id": "love_life_0099",
+    "question": "Would you rather spend two years with your soulmate only to have them die and you never love again or spend your life with someone nice you settled for?",
+    "option_blue": "spend two years with your soulmate only to have them die and you never love again",
+    "option_red": "spend your life with someone nice you settled for",
+    "global_votes_blue": 1,
+    "global_votes_red": 99
+  },
+  {
+    "id": "love_life_0100",
+    "question": "Would you rather have to live with your partner’s ex or with your ex?",
+    "option_blue": "have to live with your partner’s ex",
+    "option_red": "with your ex",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "love_life_0101",
+    "question": "Would you rather date someone who is attractive but dumb or someone who is smart but unattractive?",
+    "option_blue": "date someone who is attractive but dumb",
+    "option_red": "someone who is smart but unattractive",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "love_life_0102",
+    "question": "Would you rather participate in a dating show or a survival show?",
+    "option_blue": "participate in a dating show",
+    "option_red": "a survival show",
+    "global_votes_blue": 21,
+    "global_votes_red": 79
+  },
+  {
+    "id": "love_life_0103",
+    "question": "Would you rather find true love or win the lottery?",
+    "option_blue": "find true love",
+    "option_red": "win the lottery",
+    "global_votes_blue": 26,
+    "global_votes_red": 74
+  },
+  {
+    "id": "love_life_0104",
+    "question": "Would you rather date someone who’s adventurous but unpredictable or someone who’s reliable but routine?",
+    "option_blue": "date someone who’s adventurous but unpredictable",
+    "option_red": "someone who’s reliable but routine",
+    "global_votes_blue": 23,
+    "global_votes_red": 77
+  },
+  {
+    "id": "love_life_0105",
+    "question": "Would you rather have a partner who is obsessed with you or who is cheating on you?",
+    "option_blue": "have a partner who is obsessed with you",
+    "option_red": "who is cheating on you",
+    "global_votes_blue": 5,
+    "global_votes_red": 95
+  },
+  {
+    "id": "love_life_0106",
+    "question": "Would you rather have a partner who speaks nonstop or a partner who barely speaks?",
+    "option_blue": "have a partner who speaks nonstop",
+    "option_red": "a partner who barely speaks",
+    "global_votes_blue": 2,
+    "global_votes_red": 98
+  },
+  {
+    "id": "love_life_0107",
+    "question": "Would you rather date someone who’s way more extroverted than you or someone who’s way more introverted than you?",
+    "option_blue": "date someone who’s way more extroverted than you",
+    "option_red": "someone who’s way more introverted than you",
+    "global_votes_blue": 1,
+    "global_votes_red": 99
+  },
+  {
+    "id": "love_life_0108",
+    "question": "Would you rather always have to make the first move or never be able to make the first move?",
+    "option_blue": "always have to make the first move",
+    "option_red": "never be able to make the first move",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  }
+]

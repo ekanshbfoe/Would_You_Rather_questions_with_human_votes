@@ -1,0 +1,146 @@
+[
+  {
+    "id": "food_0001",
+    "question": "Would you rather have all your food taste bland or have all your food taste overpoweringly spicy?",
+    "option_blue": "have all your food taste bland",
+    "option_red": "have all your food taste overpoweringly spicy",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "food_0002",
+    "question": "Would you rather eat only circular foods or eat only square foods?",
+    "option_blue": "eat only circular foods",
+    "option_red": "eat only square foods",
+    "global_votes_blue": 79,
+    "global_votes_red": 21
+  },
+  {
+    "id": "food_0003",
+    "question": "Would you rather eat food that is too hot every time or eat food that is too cold every time?",
+    "option_blue": "eat food that is too hot every time",
+    "option_red": "eat food that is too cold every time",
+    "global_votes_blue": 75,
+    "global_votes_red": 25
+  },
+  {
+    "id": "food_0004",
+    "question": "Would you rather have a magical appliance that cooks anything perfectly or have a magical fridge that always refills with your favorite foods?",
+    "option_blue": "have a magical appliance that cooks anything perfectly",
+    "option_red": "have a magical fridge that always refills with your favorite foods",
+    "global_votes_blue": 26,
+    "global_votes_red": 74
+  },
+  {
+    "id": "food_0005",
+    "question": "Would you rather only eat bland food for the rest of your life or only eat extremely spicy food for the rest of your life?",
+    "option_blue": "only eat bland food for the rest of your life",
+    "option_red": "only eat extremely spicy food for the rest of your life",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "food_0006",
+    "question": "Would you rather be able to perfectly bake anything or be able to perfectly grill anything?",
+    "option_blue": "be able to perfectly bake anything",
+    "option_red": "be able to perfectly grill anything",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "food_0007",
+    "question": "Would you rather be an amazing chef but hate eating your own food or be a terrible cook but love everything you make?",
+    "option_blue": "be an amazing chef but hate eating your own food",
+    "option_red": "be a terrible cook but love everything you make",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "food_0008",
+    "question": "Would you rather be able to understand and speak any language when discussing food or be able to conjure any flavor you desire with your mind?",
+    "option_blue": "be able to understand and speak any language when discussing food",
+    "option_red": "be able to conjure any flavor you desire with your mind",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "food_0009",
+    "question": "Would you rather grow all your own food or hunt and fish for all your own food?",
+    "option_blue": "grow all your own food",
+    "option_red": "hunt and fish for all your own food",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "food_0010",
+    "question": "Would you rather eat every meal outdoors or eat every meal in bed?",
+    "option_blue": "eat every meal outdoors",
+    "option_red": "eat every meal in bed",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "food_0011",
+    "question": "Would you rather have every meal be a surprise party or eat every meal alone in perfect solitude?",
+    "option_blue": "have every meal be a surprise party",
+    "option_red": "eat every meal alone in perfect solitude",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "food_0012",
+    "question": "Would you rather have a personal chef for a year or eat at a Michelin-star restaurant once a week for a year?",
+    "option_blue": "have a personal chef for a year",
+    "option_red": "eat at a Michelin-star restaurant once a week for a year",
+    "global_votes_blue": 69,
+    "global_votes_red": 31
+  },
+  {
+    "id": "food_0013",
+    "question": "Would you rather eat a five-course meal everyday or only eat one-pot meals everyday?",
+    "option_blue": "eat a five-course meal everyday",
+    "option_red": "only eat one-pot meals everyday",
+    "global_votes_blue": 74,
+    "global_votes_red": 26
+  },
+  {
+    "id": "food_0014",
+    "question": "Would you rather cook all your own meals from scratch or have all your meals delivered pre-made?",
+    "option_blue": "cook all your own meals from scratch",
+    "option_red": "have all your meals delivered pre-made",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "food_0015",
+    "question": "Would you rather never be able to eat bread again or never be able to eat cheese again?",
+    "option_blue": "never be able to eat bread again",
+    "option_red": "never be able to eat cheese again",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "food_0016",
+    "question": "Would you rather eat everything with chopsticks or eat everything with only a spoon?",
+    "option_blue": "eat everything with chopsticks",
+    "option_red": "eat everything with only a spoon",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "food_0017",
+    "question": "Would you rather eat a meal with a celebrity you dislike or eat a meal with a talking animal?",
+    "option_blue": "eat a meal with a celebrity you dislike",
+    "option_red": "eat a meal with a talking animal",
+    "global_votes_blue": 15,
+    "global_votes_red": 85
+  },
+  {
+    "id": "food_0018",
+    "question": "Would you rather eat every meal upside down or eat every meal blindfolded?",
+    "option_blue": "eat every meal upside down",
+    "option_red": "eat every meal blindfolded",
+    "global_votes_blue": 22,
+    "global_votes_red": 78
+  }
+]

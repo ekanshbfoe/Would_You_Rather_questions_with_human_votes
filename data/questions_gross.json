@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "gross_0001",
+    "question": "Would you rather eat a sandwich filled with fingernail clippings or drink a smoothie made from hair and dirt?",
+    "option_blue": "eat a sandwich filled with fingernail clippings",
+    "option_red": "drink a smoothie made from hair and dirt",
+    "global_votes_blue": 70,
+    "global_votes_red": 30
+  },
+  {
+    "id": "gross_0002",
+    "question": "Would you rather eat a spoonful of expired mayonnaise or drink a cup of warm pickle juice?",
+    "option_blue": "eat a spoonful of expired mayonnaise",
+    "option_red": "drink a cup of warm pickle juice",
+    "global_votes_blue": 23,
+    "global_votes_red": 77
+  },
+  {
+    "id": "gross_0003",
+    "question": "Would you rather only eat food that has been licked by a stranger or only drink liquids that have been gargled by a stranger?",
+    "option_blue": "only eat food that has been licked by a stranger",
+    "option_red": "only drink liquids that have been gargled by a stranger",
+    "global_votes_blue": 93,
+    "global_votes_red": 7
+  },
+  {
+    "id": "gross_0004",
+    "question": "Would you rather feel bugs crawling on you constantly or feel spiders crawling on you constantly?",
+    "option_blue": "feel bugs crawling on you constantly",
+    "option_red": "feel spiders crawling on you constantly",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "gross_0005",
+    "question": "Would you rather live in a place with perpetually dripping water or live in a place with perpetually whistling wind?",
+    "option_blue": "live in a place with perpetually dripping water",
+    "option_red": "live in a place with perpetually whistling wind",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "gross_0006",
+    "question": "Would you rather always have a piece of food stuck in your teeth or always have an itch that you can't scratch?",
+    "option_blue": "always have a piece of food stuck in your teeth",
+    "option_red": "always have an itch that you can't scratch",
+    "global_votes_blue": 75,
+    "global_votes_red": 25
+  },
+  {
+    "id": "gross_0007",
+    "question": "Would you rather eat a hairball or drink someone else's spit?",
+    "option_blue": "eat a hairball",
+    "option_red": "drink someone else's spit",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "gross_0008",
+    "question": "Would you rather walk through mud barefoot every day or have your feet constantly feel itchy?",
+    "option_blue": "walk through mud barefoot every day",
+    "option_red": "have your feet constantly feel itchy",
+    "global_votes_blue": 88,
+    "global_votes_red": 12
+  },
+  {
+    "id": "gross_0009",
+    "question": "Would you rather have your hair always feel greasy or have your skin always feel oily?",
+    "option_blue": "have your hair always feel greasy",
+    "option_red": "have your skin always feel oily",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "gross_0010",
+    "question": "Would you rather live in a house covered in cobwebs or live in a house infested with cockroaches?",
+    "option_blue": "live in a house covered in cobwebs",
+    "option_red": "live in a house infested with cockroaches",
+    "global_votes_blue": 92,
+    "global_votes_red": 8
+  },
+  {
+    "id": "gross_0011",
+    "question": "Would you rather have to brush your teeth with hot sauce or have to wash your hair with motor oil?",
+    "option_blue": "have to brush your teeth with hot sauce",
+    "option_red": "have to wash your hair with motor oil",
+    "global_votes_blue": 83,
+    "global_votes_red": 17
+  },
+  {
+    "id": "gross_0012",
+    "question": "Would you rather eat a sandwich made with moldy bread or eat a hot dog found on the ground?",
+    "option_blue": "eat a sandwich made with moldy bread",
+    "option_red": "eat a hot dog found on the ground",
+    "global_votes_blue": 23,
+    "global_votes_red": 77
+  },
+  {
+    "id": "gross_0013",
+    "question": "Would you rather only be able to eat food that fell on the floor or only be able to drink from dirty puddles outside?",
+    "option_blue": "only be able to eat food that fell on the floor",
+    "option_red": "only be able to drink from dirty puddles outside",
+    "global_votes_blue": 93,
+    "global_votes_red": 7
+  },
+  {
+    "id": "gross_0014",
+    "question": "Would you rather have constantly chapped lips that never heal or have a constant sore throat that never heals?",
+    "option_blue": "have constantly chapped lips that never heal",
+    "option_red": "have a constant sore throat that never heals",
+    "global_votes_blue": 85,
+    "global_votes_red": 15
+  },
+  {
+    "id": "gross_0015",
+    "question": "Would you rather have earwax instead of hair or have snot instead of blood?",
+    "option_blue": "have earwax instead of hair",
+    "option_red": "have snot instead of blood",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  },
+  {
+    "id": "gross_0016",
+    "question": "Would you rather lick the bottom of your shoe or lick a stranger's armpit?",
+    "option_blue": "lick the bottom of your shoe",
+    "option_red": "lick a stranger's armpit",
+    "global_votes_blue": 69,
+    "global_votes_red": 31
+  },
+  {
+    "id": "gross_0017",
+    "question": "Would you rather swallow a mouthful of sand or swallow a mouthful of mud?",
+    "option_blue": "swallow a mouthful of sand",
+    "option_red": "swallow a mouthful of mud",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "gross_0018",
+    "question": "Would you rather wear wet gloves all day or wear sticky shoes all day?",
+    "option_blue": "wear wet gloves all day",
+    "option_red": "wear sticky shoes all day",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "gross_0019",
+    "question": "Would you rather drink a glass of lukewarm, milky water with chunks or drink a glass of fizzy, orange liquid that smells like feet?",
+    "option_blue": "drink a glass of lukewarm, milky water with chunks",
+    "option_red": "drink a glass of fizzy, orange liquid that smells like feet",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "gross_0020",
+    "question": "Would you rather have your food taste like dirt or have your water taste like dirt?",
+    "option_blue": "have your food taste like dirt",
+    "option_red": "have your water taste like dirt",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "gross_0021",
+    "question": "Would you rather wear clothes that are always slightly too small or wear clothes that are always slightly too big?",
+    "option_blue": "wear clothes that are always slightly too small",
+    "option_red": "wear clothes that are always slightly too big",
+    "global_votes_blue": 9,
+    "global_votes_red": 91
+  },
+  {
+    "id": "gross_0022",
+    "question": "Would you rather always feel like you need to sneeze but can't or always feel like you need to yawn but can't?",
+    "option_blue": "always feel like you need to sneeze but can't",
+    "option_red": "always feel like you need to yawn but can't",
+    "global_votes_blue": 20,
+    "global_votes_red": 80
+  },
+  {
+    "id": "gross_0023",
+    "question": "Would you rather drink sour milk every morning or eat moldy bread every morning?",
+    "option_blue": "drink sour milk every morning",
+    "option_red": "eat moldy bread every morning",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "gross_0024",
+    "question": "Would you rather feel sand in your bed every night or feel crumbs in your bed every night?",
+    "option_blue": "feel sand in your bed every night",
+    "option_red": "feel crumbs in your bed every night",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "gross_0025",
+    "question": "Would you rather wear underwear used by someone else for a week or wear a swimsuit used by someone else for a year?",
+    "option_blue": "wear underwear used by someone else for a week",
+    "option_red": "wear a swimsuit used by someone else for a year",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "gross_0026",
+    "question": "Would you rather eat a bowl of cold, lumpy oatmeal or eat a plate of soggy, undercooked vegetables?",
+    "option_blue": "eat a bowl of cold, lumpy oatmeal",
+    "option_red": "eat a plate of soggy, undercooked vegetables",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "gross_0027",
+    "question": "Would you rather only be able to shower with cold, muddy water or only be able to wash your hands with sticky honey?",
+    "option_blue": "only be able to shower with cold, muddy water",
+    "option_red": "only be able to wash your hands with sticky honey",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "gross_0028",
+    "question": "Would you rather have a constant feeling of sand in your mouth or always feel like you have dust in your eyes?",
+    "option_blue": "have a constant feeling of sand in your mouth",
+    "option_red": "always feel like you have dust in your eyes",
+    "global_votes_blue": 80,
+    "global_votes_red": 20
+  },
+  {
+    "id": "gross_0029",
+    "question": "Would you rather have a perpetually itchy butt or have a perpetually runny nose?",
+    "option_blue": "have a perpetually itchy butt",
+    "option_red": "have a perpetually runny nose",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "gross_0030",
+    "question": "Would you rather be covered in a non-stop cold sweat or always feel like you need to sneeze but can't?",
+    "option_blue": "be covered in a non-stop cold sweat",
+    "option_red": "always feel like you need to sneeze but can't",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "gross_0031",
+    "question": "Would you rather have a colony of ants living in your hair or have a swarm of flies feasting on your skin?",
+    "option_blue": "have a colony of ants living in your hair",
+    "option_red": "have a swarm of flies feasting on your skin",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "gross_0032",
+    "question": "Would you rather eat food that looks disgusting but tastes great or eat food that looks great but tastes disgusting?",
+    "option_blue": "eat food that looks disgusting but tastes great",
+    "option_red": "eat food that looks great but tastes disgusting",
+    "global_votes_blue": 95,
+    "global_votes_red": 5
+  },
+  {
+    "id": "gross_0033",
+    "question": "Would you rather live in a house with a constant sewer smell or live in a house with a constant garbage smell?",
+    "option_blue": "live in a house with a constant sewer smell",
+    "option_red": "live in a house with a constant garbage smell",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "gross_0034",
+    "question": "Would you rather swim in a pool of sweat or swim in a pool of lukewarm, cloudy water from an unknown source?",
+    "option_blue": "swim in a pool of sweat",
+    "option_red": "swim in a pool of lukewarm, cloudy water from an unknown source",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "gross_0035",
+    "question": "Would you rather have to chew gum that tastes like old onions or have to chew gum that tastes like raw garlic?",
+    "option_blue": "have to chew gum that tastes like old onions",
+    "option_red": "have to chew gum that tastes like raw garlic",
+    "global_votes_blue": 26,
+    "global_votes_red": 74
+  },
+  {
+    "id": "gross_0036",
+    "question": "Would you rather only be able to eat food that has been dropped on the floor or only be able to drink from puddles?",
+    "option_blue": "only be able to eat food that has been dropped on the floor",
+    "option_red": "only be able to drink from puddles",
+    "global_votes_blue": 87,
+    "global_votes_red": 13
+  },
+  {
+    "id": "gross_0037",
+    "question": "Would you rather walk barefoot through a puddle of unknown slime or put your hand into a dark, squishy hole?",
+    "option_blue": "walk barefoot through a puddle of unknown slime",
+    "option_red": "put your hand into a dark, squishy hole",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "gross_0038",
+    "question": "Would you rather live in a house with no windows or live in a house with a constant unpleasant odor?",
+    "option_blue": "live in a house with no windows",
+    "option_red": "live in a house with a constant unpleasant odor",
+    "global_votes_blue": 80,
+    "global_votes_red": 20
+  },
+  {
+    "id": "gross_0039",
+    "question": "Would you rather swim in a pool of lukewarm, sticky liquid or bathe in a tub of cold, lumpy gravy?",
+    "option_blue": "swim in a pool of lukewarm, sticky liquid",
+    "option_red": "bathe in a tub of cold, lumpy gravy",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "gross_0040",
+    "question": "Would you rather always have a feeling of something crawling on you or always have a sensation of being watched?",
+    "option_blue": "always have a feeling of something crawling on you",
+    "option_red": "always have a sensation of being watched",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "gross_0041",
+    "question": "Would you rather only eat food that smells like garbage or only eat food that feels like snot?",
+    "option_blue": "only eat food that smells like garbage",
+    "option_red": "only eat food that feels like snot",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "gross_0042",
+    "question": "Would you rather eat a spoonful of expired mayonnaise or drink a shot of warm, flat soda found on a bus?",
+    "option_blue": "eat a spoonful of expired mayonnaise",
+    "option_red": "drink a shot of warm, flat soda found on a bus",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "gross_0043",
+    "question": "Would you rather have sticky residue on your hands forever or have itchy powder on your feet forever?",
+    "option_blue": "have sticky residue on your hands forever",
+    "option_red": "have itchy powder on your feet forever",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "gross_0044",
+    "question": "Would you rather smell only strong body odor or smell only strong garbage?",
+    "option_blue": "smell only strong body odor",
+    "option_red": "smell only strong garbage",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "gross_0045",
+    "question": "Would you rather drink water collected from condensation on pipes or eat food found under a stranger's couch?",
+    "option_blue": "drink water collected from condensation on pipes",
+    "option_red": "eat food found under a stranger's couch",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "gross_0046",
+    "question": "Would you rather only be able to eat food off the floor or only be able to drink water from a leaky faucet?",
+    "option_blue": "only be able to eat food off the floor",
+    "option_red": "only be able to drink water from a leaky faucet",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "gross_0047",
+    "question": "Would you rather have your eyes constantly water or always have a dry, scratchy throat?",
+    "option_blue": "have your eyes constantly water",
+    "option_red": "always have a dry, scratchy throat",
+    "global_votes_blue": 77,
+    "global_votes_red": 23
+  },
+  {
+    "id": "gross_0048",
+    "question": "Would you rather eat a meal that looks like vomit but tastes fine or eat a meal that looks delicious but tastes like rotten eggs?",
+    "option_blue": "eat a meal that looks like vomit but tastes fine",
+    "option_red": "eat a meal that looks delicious but tastes like rotten eggs",
+    "global_votes_blue": 87,
+    "global_votes_red": 13
+  },
+  {
+    "id": "gross_0049",
+    "question": "Would you rather have a fly constantly buzzing in your ear or have a mosquito constantly biting your ankle?",
+    "option_blue": "have a fly constantly buzzing in your ear",
+    "option_red": "have a mosquito constantly biting your ankle",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "gross_0050",
+    "question": "Would you rather have sticky residue on your hands all the time or have dirt under your fingernails all the time?",
+    "option_blue": "have sticky residue on your hands all the time",
+    "option_red": "have dirt under your fingernails all the time",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "gross_0051",
+    "question": "Would you rather sleep in a room filled with cobwebs or sleep in a room with a constant dripping sound?",
+    "option_blue": "sleep in a room filled with cobwebs",
+    "option_red": "sleep in a room with a constant dripping sound",
+    "global_votes_blue": 38,
+    "global_votes_red": 63
+  },
+  {
+    "id": "gross_0052",
+    "question": "Would you rather sit on a chair covered in wet, unknown goo or lie on a bed covered in sticky, unknown crumbs?",
+    "option_blue": "sit on a chair covered in wet, unknown goo",
+    "option_red": "lie on a bed covered in sticky, unknown crumbs",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "gross_0053",
+    "question": "Would you rather wear clothes that are always slightly too tight or wear clothes that are always slightly too loose?",
+    "option_blue": "wear clothes that are always slightly too tight",
+    "option_red": "wear clothes that are always slightly too loose",
+    "global_votes_blue": 15,
+    "global_votes_red": 85
+  },
+  {
+    "id": "gross_0054",
+    "question": "Would you rather be covered in non-itchy but sticky goo or be covered in itchy but not sticky dust?",
+    "option_blue": "be covered in non-itchy but sticky goo",
+    "option_red": "be covered in itchy but not sticky dust",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "gross_0055",
+    "question": "Would you rather only ever wear clothes that feel slimy or only ever wear clothes that feel scratchy and irritating?",
+    "option_blue": "only ever wear clothes that feel slimy",
+    "option_red": "only ever wear clothes that feel scratchy and irritating",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "gross_0056",
+    "question": "Would you rather only be able to watch incredibly boring documentaries or only be able to listen to incredibly annoying music?",
+    "option_blue": "only be able to watch incredibly boring documentaries",
+    "option_red": "only be able to listen to incredibly annoying music",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "gross_0057",
+    "question": "Would you rather live in a room with peeling paint and mold or live in a room with sticky floors and bad smells?",
+    "option_blue": "live in a room with peeling paint and mold",
+    "option_red": "live in a room with sticky floors and bad smells",
+    "global_votes_blue": 69,
+    "global_votes_red": 31
+  },
+  {
+    "id": "gross_0058",
+    "question": "Would you rather chew on a used bandage or suck on a dirty pacifier found on the street?",
+    "option_blue": "chew on a used bandage",
+    "option_red": "suck on a dirty pacifier found on the street",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "gross_0059",
+    "question": "Would you rather sleep on a bed of live worms every night or bathe in a tub of lukewarm, congealed fat?",
+    "option_blue": "sleep on a bed of live worms every night",
+    "option_red": "bathe in a tub of lukewarm, congealed fat",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "gross_0060",
+    "question": "Would you rather have a constant feeling of something crawling on you or have a constant itching sensation that never goes away?",
+    "option_blue": "have a constant feeling of something crawling on you",
+    "option_red": "have a constant itching sensation that never goes away",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "gross_0061",
+    "question": "Would you rather eat a food you hate every day for a year or drink a beverage you hate every day for a year?",
+    "option_blue": "eat a food you hate every day for a year",
+    "option_red": "drink a beverage you hate every day for a year",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "gross_0062",
+    "question": "Would you rather live in a house covered in spiderwebs or live in a house infested with cockroaches?",
+    "option_blue": "live in a house covered in spiderwebs",
+    "option_red": "live in a house infested with cockroaches",
+    "global_votes_blue": 74,
+    "global_votes_red": 26
+  },
+  {
+    "id": "gross_0063",
+    "question": "Would you rather sleep on a bed that's always slightly damp or sleep under a blanket that's always slightly scratchy?",
+    "option_blue": "sleep on a bed that's always slightly damp",
+    "option_red": "sleep under a blanket that's always slightly scratchy",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "gross_0064",
+    "question": "Would you rather touch a slimy, unknown creature in the dark or step barefoot into a puddle of warm, opaque liquid?",
+    "option_blue": "touch a slimy, unknown creature in the dark",
+    "option_red": "step barefoot into a puddle of warm, opaque liquid",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "gross_0065",
+    "question": "Would you rather have constantly wet socks or have something stuck in your teeth forever?",
+    "option_blue": "have constantly wet socks",
+    "option_red": "have something stuck in your teeth forever",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "gross_0066",
+    "question": "Would you rather only be able to use a dull razor or only be able to use a broken toothbrush?",
+    "option_blue": "only be able to use a dull razor",
+    "option_red": "only be able to use a broken toothbrush",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "gross_0067",
+    "question": "Would you rather live in a house where the toilet never flushes properly or live in a house where the sink always drips loudly?",
+    "option_blue": "live in a house where the toilet never flushes properly",
+    "option_red": "live in a house where the sink always drips loudly",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  },
+  {
+    "id": "gross_0068",
+    "question": "Would you rather eat a bowl of mashed up insects or drink a smoothie made from blended vegetables you hate?",
+    "option_blue": "eat a bowl of mashed up insects",
+    "option_red": "drink a smoothie made from blended vegetables you hate",
+    "global_votes_blue": 19,
+    "global_votes_red": 81
+  },
+  {
+    "id": "gross_0069",
+    "question": "Would you rather have a constant crick in your neck or have a constant buzzing in your ears?",
+    "option_blue": "have a constant crick in your neck",
+    "option_red": "have a constant buzzing in your ears",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "gross_0070",
+    "question": "Would you rather have perpetually crusty eyes or have perpetually chapped lips?",
+    "option_blue": "have perpetually crusty eyes",
+    "option_red": "have perpetually chapped lips",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "gross_0071",
+    "question": "Would you rather always have an unpleasant texture in your mouth or always have a strange taste in your mouth?",
+    "option_blue": "always have an unpleasant texture in your mouth",
+    "option_red": "always have a strange taste in your mouth",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "gross_0072",
+    "question": "Would you rather have a permanent rash or have permanent dry, flaky skin?",
+    "option_blue": "have a permanent rash",
+    "option_red": "have permanent dry, flaky skin",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "gross_0073",
+    "question": "Would you rather have your nose constantly run or always have a persistent cough?",
+    "option_blue": "have your nose constantly run",
+    "option_red": "always have a persistent cough",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "gross_0074",
+    "question": "Would you rather wear a hat that's always too tight or wear gloves that are always too loose?",
+    "option_blue": "wear a hat that's always too tight",
+    "option_red": "wear gloves that are always too loose",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "gross_0075",
+    "question": "Would you rather walk barefoot through a puddle of unknown liquid or walk barefoot through a patch of thorns?",
+    "option_blue": "walk barefoot through a puddle of unknown liquid",
+    "option_red": "walk barefoot through a patch of thorns",
+    "global_votes_blue": 69,
+    "global_votes_red": 31
+  },
+  {
+    "id": "gross_0076",
+    "question": "Would you rather touch a live, wriggling rat with your bare hands or hold a squirming, slimy slug in your mouth?",
+    "option_blue": "touch a live, wriggling rat with your bare hands",
+    "option_red": "hold a squirming, slimy slug in your mouth",
+    "global_votes_blue": 79,
+    "global_votes_red": 21
+  },
+  {
+    "id": "gross_0077",
+    "question": "Would you rather only eat food that looks disgusting but tastes delicious or only eat food that looks delicious but tastes disgusting?",
+    "option_blue": "only eat food that looks disgusting but tastes delicious",
+    "option_red": "only eat food that looks delicious but tastes disgusting",
+    "global_votes_blue": 81,
+    "global_votes_red": 19
+  },
+  {
+    "id": "gross_0078",
+    "question": "Would you rather only be able to wear clothes made of burlap or only be able to wear shoes made of sandpaper?",
+    "option_blue": "only be able to wear clothes made of burlap",
+    "option_red": "only be able to wear shoes made of sandpaper",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "gross_0079",
+    "question": "Would you rather never be able to brush your teeth again or never be able to wash your hair again?",
+    "option_blue": "never be able to brush your teeth again",
+    "option_red": "never be able to wash your hair again",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "gross_0080",
+    "question": "Would you rather have to lick the bottom of your shoe or have to eat a hairball from a pet?",
+    "option_blue": "have to lick the bottom of your shoe",
+    "option_red": "have to eat a hairball from a pet",
+    "global_votes_blue": 66,
+    "global_votes_red": 34
+  },
+  {
+    "id": "gross_0081",
+    "question": "Would you rather sit on a chair that always wobbles or sleep on a bed that always creaks?",
+    "option_blue": "sit on a chair that always wobbles",
+    "option_red": "sleep on a bed that always creaks",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "gross_0082",
+    "question": "Would you rather always have bad breath that you can taste or always have body odor that you can smell?",
+    "option_blue": "always have bad breath that you can taste",
+    "option_red": "always have body odor that you can smell",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "gross_0083",
+    "question": "Would you rather eat a piece of cheese covered in hair or eat a piece of fruit riddled with tiny holes?",
+    "option_blue": "eat a piece of cheese covered in hair",
+    "option_red": "eat a piece of fruit riddled with tiny holes",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "gross_0084",
+    "question": "Would you rather eat a spoonful of unidentifiable sludge or drink a glass of murky pond water?",
+    "option_blue": "eat a spoonful of unidentifiable sludge",
+    "option_red": "drink a glass of murky pond water",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "gross_0085",
+    "question": "Would you rather have constant crumbs in your bed or have constant wet spots on your clothes?",
+    "option_blue": "have constant crumbs in your bed",
+    "option_red": "have constant wet spots on your clothes",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "gross_0086",
+    "question": "Would you rather be unable to swallow anything solid or be unable to chew anything solid?",
+    "option_blue": "be unable to swallow anything solid",
+    "option_red": "be unable to chew anything solid",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "gross_0087",
+    "question": "Would you rather drink water with tiny, floating particles or drink water with a metallic aftertaste?",
+    "option_blue": "drink water with tiny, floating particles",
+    "option_red": "drink water with a metallic aftertaste",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "gross_0088",
+    "question": "Would you rather eat cereal with warm milk or eat soup with cold broth?",
+    "option_blue": "eat cereal with warm milk",
+    "option_red": "eat soup with cold broth",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "gross_0089",
+    "question": "Would you rather have your skin constantly feel clammy or have your skin constantly feel itchy?",
+    "option_blue": "have your skin constantly feel clammy",
+    "option_red": "have your skin constantly feel itchy",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "gross_0090",
+    "question": "Would you rather only be able to eat food covered in glitter or only be able to eat food colored bright green?",
+    "option_blue": "only be able to eat food covered in glitter",
+    "option_red": "only be able to eat food colored bright green",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "gross_0091",
+    "question": "Would you rather only eat food that smells like vomit or only eat food that tastes like dirt?",
+    "option_blue": "only eat food that smells like vomit",
+    "option_red": "only eat food that tastes like dirt",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "gross_0092",
+    "question": "Would you rather eat a bowl of cold, watery oatmeal for every meal or eat a dry, unseasoned cracker for every meal?",
+    "option_blue": "eat a bowl of cold, watery oatmeal for every meal",
+    "option_red": "eat a dry, unseasoned cracker for every meal",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "gross_0093",
+    "question": "Would you rather wear a hat that's permanently glued to your head or wear gloves that are permanently stuck on your hands?",
+    "option_blue": "wear a hat that's permanently glued to your head",
+    "option_red": "wear gloves that are permanently stuck on your hands",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "gross_0094",
+    "question": "Would you rather touch a slimy, unknown object every minute or taste a bitter, unknown liquid every minute?",
+    "option_blue": "touch a slimy, unknown object every minute",
+    "option_red": "taste a bitter, unknown liquid every minute",
+    "global_votes_blue": 66,
+    "global_votes_red": 34
+  },
+  {
+    "id": "gross_0095",
+    "question": "Would you rather have sweat constantly dripping into your eyes or have saliva constantly dripping down your chin?",
+    "option_blue": "have sweat constantly dripping into your eyes",
+    "option_red": "have saliva constantly dripping down your chin",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "gross_0096",
+    "question": "Would you rather eat food that's always slightly burnt or eat food that's always slightly undercooked?",
+    "option_blue": "eat food that's always slightly burnt",
+    "option_red": "eat food that's always slightly undercooked",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "gross_0097",
+    "question": "Would you rather eat a spoonful of live worms or drink a glass of pond scum?",
+    "option_blue": "eat a spoonful of live worms",
+    "option_red": "drink a glass of pond scum",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "gross_0098",
+    "question": "Would you rather sleep on a pillow filled with rocks or sleep under a blanket made of thorny branches?",
+    "option_blue": "sleep on a pillow filled with rocks",
+    "option_red": "sleep under a blanket made of thorny branches",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "gross_0099",
+    "question": "Would you rather eat a piece of food that has fallen on the floor or eat food that has been licked by an animal?",
+    "option_blue": "eat a piece of food that has fallen on the floor",
+    "option_red": "eat food that has been licked by an animal",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "gross_0100",
+    "question": "Would you rather have to smell someone else's dirty laundry every day or have to taste someone else's earwax every day?",
+    "option_blue": "have to smell someone else's dirty laundry every day",
+    "option_red": "have to taste someone else's earwax every day",
+    "global_votes_blue": 70,
+    "global_votes_red": 30
+  },
+  {
+    "id": "gross_0101",
+    "question": "Would you rather only be able to eat food that’s been licked by a stranger or only be able to drink from public toilets?",
+    "option_blue": "only be able to eat food that’s been licked by a stranger",
+    "option_red": "only be able to drink from public toilets",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "gross_0102",
+    "question": "Would you rather always have a feeling of being too hot or always have a feeling of being too cold?",
+    "option_blue": "always have a feeling of being too hot",
+    "option_red": "always have a feeling of being too cold",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "gross_0103",
+    "question": "Would you rather only be able to whisper wetly or only be able to speak with a constantly cracking voice?",
+    "option_blue": "only be able to whisper wetly",
+    "option_red": "only be able to speak with a constantly cracking voice",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "gross_0104",
+    "question": "Would you rather have green slime ooze from your ears or have endless snot dripping from your nose?",
+    "option_blue": "have green slime ooze from your ears",
+    "option_red": "have endless snot dripping from your nose",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "gross_0105",
+    "question": "Would you rather lick a public toilet seat or chew on a used piece of gum from the street?",
+    "option_blue": "lick a public toilet seat",
+    "option_red": "chew on a used piece of gum from the street",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "gross_0106",
+    "question": "Would you rather have to clean a public toilet with your bare hands or have to unclog a drain full of hair and grime?",
+    "option_blue": "have to clean a public toilet with your bare hands",
+    "option_red": "have to unclog a drain full of hair and grime",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "gross_0107",
+    "question": "Would you rather have to wear only sandpaper clothes or have to wear only velvet clothes in extreme heat?",
+    "option_blue": "have to wear only sandpaper clothes",
+    "option_red": "have to wear only velvet clothes in extreme heat",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "gross_0108",
+    "question": "Would you rather wear clothes that are always one size too small or wear clothes that are always one size too big?",
+    "option_blue": "wear clothes that are always one size too small",
+    "option_red": "wear clothes that are always one size too big",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "gross_0109",
+    "question": "Would you rather have an uncontrollable twitch in your eye or have an uncontrollable cough forever?",
+    "option_blue": "have an uncontrollable twitch in your eye",
+    "option_red": "have an uncontrollable cough forever",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "gross_0110",
+    "question": "Would you rather have food stuck between your teeth all the time or have a hangnail that never goes away?",
+    "option_blue": "have food stuck between your teeth all the time",
+    "option_red": "have a hangnail that never goes away",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "gross_0111",
+    "question": "Would you rather have perpetually bad breath or have perpetually smelly feet?",
+    "option_blue": "have perpetually bad breath",
+    "option_red": "have perpetually smelly feet",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "gross_0112",
+    "question": "Would you rather only hear nails on a chalkboard or only hear a baby crying loudly?",
+    "option_blue": "only hear nails on a chalkboard",
+    "option_red": "only hear a baby crying loudly",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "gross_0113",
+    "question": "Would you rather wear shoes always filled with sand or wear socks always soaked in pond water?",
+    "option_blue": "wear shoes always filled with sand",
+    "option_red": "wear socks always soaked in pond water",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "gross_0114",
+    "question": "Would you rather only be able to communicate through burps or only be able to communicate through farts?",
+    "option_blue": "only be able to communicate through burps",
+    "option_red": "only be able to communicate through farts",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "gross_0115",
+    "question": "Would you rather have hair growing on your eyeball or have teeth growing on your tongue?",
+    "option_blue": "have hair growing on your eyeball",
+    "option_red": "have teeth growing on your tongue",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "gross_0116",
+    "question": "Would you rather sleep on a bed made of toenail clippings or sleep under a blanket made of human hair?",
+    "option_blue": "sleep on a bed made of toenail clippings",
+    "option_red": "sleep under a blanket made of human hair",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "gross_0117",
+    "question": "Would you rather have constant static electricity shocks or have constant tiny electric currents running through you?",
+    "option_blue": "have constant static electricity shocks",
+    "option_red": "have constant tiny electric currents running through you",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "gross_0118",
+    "question": "Would you rather sleep in a bed of used cat litter or sleep under a blanket made of tangled hair?",
+    "option_blue": "sleep in a bed of used cat litter",
+    "option_red": "sleep under a blanket made of tangled hair",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "gross_0119",
+    "question": "Would you rather always have a persistent, faint smell of rotting eggs around you or always have a persistent, faint taste of spoiled milk in your mouth?",
+    "option_blue": "always have a persistent, faint smell of rotting eggs around you",
+    "option_red": "always have a persistent, faint taste of spoiled milk in your mouth",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "gross_0120",
+    "question": "Would you rather have a constant feeling of greasy hands or always have a sticky feeling on your feet?",
+    "option_blue": "have a constant feeling of greasy hands",
+    "option_red": "always have a sticky feeling on your feet",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "gross_0121",
+    "question": "Would you rather have to lick a public toilet seat clean or have to scrub a public urinal with your toothbrush?",
+    "option_blue": "have to lick a public toilet seat clean",
+    "option_red": "have to scrub a public urinal with your toothbrush",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "gross_0122",
+    "question": "Would you rather smell like rotten eggs for a month or taste like dirty socks for a month?",
+    "option_blue": "smell like rotten eggs for a month",
+    "option_red": "taste like dirty socks for a month",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "gross_0123",
+    "question": "Would you rather eat a sandwich with a live fly inside or drink a smoothie with a dead spider inside?",
+    "option_blue": "eat a sandwich with a live fly inside",
+    "option_red": "drink a smoothie with a dead spider inside",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "gross_0124",
+    "question": "Would you rather always have an unbearable itch on your back or always have an irritating tickle in your throat?",
+    "option_blue": "always have an unbearable itch on your back",
+    "option_red": "always have an irritating tickle in your throat",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "gross_0125",
+    "question": "Would you rather wear shoes full of mud for a month or wear clothes covered in dirt for a month?",
+    "option_blue": "wear shoes full of mud for a month",
+    "option_red": "wear clothes covered in dirt for a month",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "gross_0126",
+    "question": "Would you rather sleep on a pillow filled with sand or sleep on a mattress filled with crunchy leaves?",
+    "option_blue": "sleep on a pillow filled with sand",
+    "option_red": "sleep on a mattress filled with crunchy leaves",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "gross_0127",
+    "question": "Would you rather only be able to whisper wetly or only be able to shout hoarsely?",
+    "option_blue": "only be able to whisper wetly",
+    "option_red": "only be able to shout hoarsely",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "gross_0128",
+    "question": "Would you rather wear underwear made of sandpaper or wear a hat made of human teeth?",
+    "option_blue": "wear underwear made of sandpaper",
+    "option_red": "wear a hat made of human teeth",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "gross_0129",
+    "question": "Would you rather only speak in a nasally voice or only speak in a croaky voice?",
+    "option_blue": "only speak in a nasally voice",
+    "option_red": "only speak in a croaky voice",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "gross_0130",
+    "question": "Would you rather have to touch a decomposing animal every hour or have to smell a garbage truck up close every hour?",
+    "option_blue": "have to touch a decomposing animal every hour",
+    "option_red": "have to smell a garbage truck up close every hour",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "gross_0131",
+    "question": "Would you rather eat a spoonful of expired mayonnaise or drink a glass of brownish, cloudy water?",
+    "option_blue": "eat a spoonful of expired mayonnaise",
+    "option_red": "drink a glass of brownish, cloudy water",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "gross_0132",
+    "question": "Would you rather have to stick your hand into a toilet everyday or have to clean a public restroom with your tongue everyday?",
+    "option_blue": "have to stick your hand into a toilet everyday",
+    "option_red": "have to clean a public restroom with your tongue everyday",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "gross_0133",
+    "question": "Would you rather have to wear socks that are perpetually damp or have to wear shoes that are perpetually sticky?",
+    "option_blue": "have to wear socks that are perpetually damp",
+    "option_red": "have to wear shoes that are perpetually sticky",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "gross_0134",
+    "question": "Would you rather chew on your own toenail clippings or chew on your own fingernail clippings?",
+    "option_blue": "chew on your own toenail clippings",
+    "option_red": "chew on your own fingernail clippings",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "gross_0135",
+    "question": "Would you rather wear clothes made from used tissues or wear shoes filled with sand?",
+    "option_blue": "wear clothes made from used tissues",
+    "option_red": "wear shoes filled with sand",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "gross_0136",
+    "question": "Would you rather never be able to shower again or never be able to brush your teeth again?",
+    "option_blue": "never be able to shower again",
+    "option_red": "never be able to brush your teeth again",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "gross_0137",
+    "question": "Would you rather touch a dead, decaying animal or step on a slug barefoot?",
+    "option_blue": "touch a dead, decaying animal",
+    "option_red": "step on a slug barefoot",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "gross_0138",
+    "question": "Would you rather wear wet socks for the rest of your life or wear tight shoes that are two sizes too small?",
+    "option_blue": "wear wet socks for the rest of your life",
+    "option_red": "wear tight shoes that are two sizes too small",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "gross_0139",
+    "question": "Would you rather only be able to eat food that is overly salty or only be able to eat food that is overly bland?",
+    "option_blue": "only be able to eat food that is overly salty",
+    "option_red": "only be able to eat food that is overly bland",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "gross_0140",
+    "question": "Would you rather sleep on a rock-hard surface or sleep on a squishy, unsupportive surface?",
+    "option_blue": "sleep on a rock-hard surface",
+    "option_red": "sleep on a squishy, unsupportive surface",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "gross_0141",
+    "question": "Would you rather only be able to communicate by burping or only be able to communicate by farting?",
+    "option_blue": "only be able to communicate by burping",
+    "option_red": "only be able to communicate by farting",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "gross_0142",
+    "question": "Would you rather have all your clothes feel slightly damp or have all your shoes feel slightly squishy?",
+    "option_blue": "have all your clothes feel slightly damp",
+    "option_red": "have all your shoes feel slightly squishy",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "gross_0143",
+    "question": "Would you rather eat a spoonful of solidified bacon grease or drink a cup of melted butter?",
+    "option_blue": "eat a spoonful of solidified bacon grease",
+    "option_red": "drink a cup of melted butter",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "gross_0144",
+    "question": "Would you rather sleep on a bed of slimy worms or bathe in a tub of cold congealed gravy?",
+    "option_blue": "sleep on a bed of slimy worms",
+    "option_red": "bathe in a tub of cold congealed gravy",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "gross_0145",
+    "question": "Would you rather drink sour milk that is chunky or eat moldy bread with live maggots?",
+    "option_blue": "drink sour milk that is chunky",
+    "option_red": "eat moldy bread with live maggots",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "gross_0146",
+    "question": "Would you rather have to brush your teeth with a dirty sock or have to comb your hair with a fork used to eat spaghetti?",
+    "option_blue": "have to brush your teeth with a dirty sock",
+    "option_red": "have to comb your hair with a fork used to eat spaghetti",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "gross_0147",
+    "question": "Would you rather have to watch a gross-out video for an hour or have to listen to gross-out sounds for an hour?",
+    "option_blue": "have to watch a gross-out video for an hour",
+    "option_red": "have to listen to gross-out sounds for an hour",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "gross_0148",
+    "question": "Would you rather touch a wet, hairless rat or lick a public toilet seat?",
+    "option_blue": "touch a wet, hairless rat",
+    "option_red": "lick a public toilet seat",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "gross_0149",
+    "question": "Would you rather eat a cold, rubbery hotdog from a dumpster or drink a warm, flat soda from a public trash can?",
+    "option_blue": "eat a cold, rubbery hotdog from a dumpster",
+    "option_red": "drink a warm, flat soda from a public trash can",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "gross_0150",
+    "question": "Would you rather drink a glass of lukewarm pickle juice or eat a spoonful of old, hard expired yogurt?",
+    "option_blue": "drink a glass of lukewarm pickle juice",
+    "option_red": "eat a spoonful of old, hard expired yogurt",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "gross_0151",
+    "question": "Would you rather have a constant buzzing sensation in your teeth or always feel like your skin is crawling?",
+    "option_blue": "have a constant buzzing sensation in your teeth",
+    "option_red": "always feel like your skin is crawling",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "gross_0152",
+    "question": "Would you rather listen to someone chew with their mouth open forever or listen to someone slurp loudly forever?",
+    "option_blue": "listen to someone chew with their mouth open forever",
+    "option_red": "listen to someone slurp loudly forever",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "gross_0153",
+    "question": "Would you rather have bad breath that can never be fixed or have body odor that can never be fixed?",
+    "option_blue": "have bad breath that can never be fixed",
+    "option_red": "have body odor that can never be fixed",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "gross_0154",
+    "question": "Would you rather chew on fingernail clippings or eat earwax?",
+    "option_blue": "chew on fingernail clippings",
+    "option_red": "eat earwax",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "gross_0155",
+    "question": "Would you rather always have a splinter under your fingernail or always have a piece of grit in your eye?",
+    "option_blue": "always have a splinter under your fingernail",
+    "option_red": "always have a piece of grit in your eye",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "gross_0156",
+    "question": "Would you rather have a constant feeling of needing to sneeze but can't or have a constant feeling of needing to itch but can't?",
+    "option_blue": "have a constant feeling of needing to sneeze but can't",
+    "option_red": "have a constant feeling of needing to itch but can't",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "gross_0157",
+    "question": "Would you rather have to clean up someone else's vomit everyday or have to clean up someone else's faeces everyday?",
+    "option_blue": "have to clean up someone else's vomit everyday",
+    "option_red": "have to clean up someone else's faeces everyday",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "gross_0158",
+    "question": "Would you rather have a perpetually itchy scalp or have a perpetually dry and flaky scalp?",
+    "option_blue": "have a perpetually itchy scalp",
+    "option_red": "have a perpetually dry and flaky scalp",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "gross_0159",
+    "question": "Would you rather sleep on a mattress filled with spiders or wear clothes infested with fleas?",
+    "option_blue": "sleep on a mattress filled with spiders",
+    "option_red": "wear clothes infested with fleas",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "gross_0160",
+    "question": "Would you rather have a splinter under your fingernail always or have an ingrown toenail always?",
+    "option_blue": "have a splinter under your fingernail always",
+    "option_red": "have an ingrown toenail always",
+    "global_votes_blue": 48,
+    "global_votes_red": 53
+  },
+  {
+    "id": "gross_0161",
+    "question": "Would you rather be covered in non-toxic, bright green slime or be covered in non-toxic, brownish-yellow goo?",
+    "option_blue": "be covered in non-toxic, bright green slime",
+    "option_red": "be covered in non-toxic, brownish-yellow goo",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "gross_0162",
+    "question": "Would you rather have to eat a spoonful of mayonnaise that has been left in the sun all day or drink a glass of milk that has gone slightly sour?",
+    "option_blue": "have to eat a spoonful of mayonnaise that has been left in the sun all day",
+    "option_red": "drink a glass of milk that has gone slightly sour",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "gross_0163",
+    "question": "Would you rather eat a spoonful of live worms or drink a glass of blended insects?",
+    "option_blue": "eat a spoonful of live worms",
+    "option_red": "drink a glass of blended insects",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "gross_0164",
+    "question": "Would you rather eat a spoonful of pure sugar or eat a spoonful of pure salt?",
+    "option_blue": "eat a spoonful of pure sugar",
+    "option_red": "eat a spoonful of pure salt",
+    "global_votes_blue": 66,
+    "global_votes_red": 34
+  },
+  {
+    "id": "gross_0165",
+    "question": "Would you rather smell like rotten eggs everyday or taste like dirty gym socks everyday?",
+    "option_blue": "smell like rotten eggs everyday",
+    "option_red": "taste like dirty gym socks everyday",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "gross_0166",
+    "question": "Would you rather have a persistent feeling of something crawling on you or have a persistent feeling of something watching you?",
+    "option_blue": "have a persistent feeling of something crawling on you",
+    "option_red": "have a persistent feeling of something watching you",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "gross_0167",
+    "question": "Would you rather sleep on a bed of itchy hay or wear clothes made of sandpaper?",
+    "option_blue": "sleep on a bed of itchy hay",
+    "option_red": "wear clothes made of sandpaper",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "gross_0168",
+    "question": "Would you rather never be able to cut your nails or never be able to brush your teeth?",
+    "option_blue": "never be able to cut your nails",
+    "option_red": "never be able to brush your teeth",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "gross_0169",
+    "question": "Would you rather have eternally chapped lips or have eternally peeling skin on your nose?",
+    "option_blue": "have eternally chapped lips",
+    "option_red": "have eternally peeling skin on your nose",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "gross_0170",
+    "question": "Would you rather only listen to nails on a chalkboard or only listen to incessant chewing sounds?",
+    "option_blue": "only listen to nails on a chalkboard",
+    "option_red": "only listen to incessant chewing sounds",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "gross_0171",
+    "question": "Would you rather have a swarm of flies follow you everywhere or have a cloud of mosquitos follow you everywhere?",
+    "option_blue": "have a swarm of flies follow you everywhere",
+    "option_red": "have a cloud of mosquitos follow you everywhere",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "gross_0172",
+    "question": "Would you rather only be able to eat food that has been pre-chewed or only be able to drink liquids from a communal spittoon?",
+    "option_blue": "only be able to eat food that has been pre-chewed",
+    "option_red": "only be able to drink liquids from a communal spittoon",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "gross_0173",
+    "question": "Would you rather eat lukewarm, watery soup for every meal or eat cold, stale crackers for every meal?",
+    "option_blue": "eat lukewarm, watery soup for every meal",
+    "option_red": "eat cold, stale crackers for every meal",
+    "global_votes_blue": 38,
+    "global_votes_red": 63
+  },
+  {
+    "id": "gross_0174",
+    "question": "Would you rather have your voice sound like a perpetually cracking frog or have all your sneezes sound like a loud pig snort?",
+    "option_blue": "have your voice sound like a perpetually cracking frog",
+    "option_red": "have all your sneezes sound like a loud pig snort",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "gross_0175",
+    "question": "Would you rather eat a spoonful of live ants or drink a glass of lukewarm spit?",
+    "option_blue": "eat a spoonful of live ants",
+    "option_red": "drink a glass of lukewarm spit",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "gross_0176",
+    "question": "Would you rather have a constant metallic taste in your mouth or always have the sensation of hair in your mouth?",
+    "option_blue": "have a constant metallic taste in your mouth",
+    "option_red": "always have the sensation of hair in your mouth",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "gross_0177",
+    "question": "Would you rather eat a raw potato or drink a cup of raw egg yolks?",
+    "option_blue": "eat a raw potato",
+    "option_red": "drink a cup of raw egg yolks",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "gross_0178",
+    "question": "Would you rather eat a live insect every day or drink a glass of pond water every day?",
+    "option_blue": "eat a live insect every day",
+    "option_red": "drink a glass of pond water every day",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "gross_0179",
+    "question": "Would you rather only be able to breathe through your mouth or only be able to breathe through one nostril?",
+    "option_blue": "only be able to breathe through your mouth",
+    "option_red": "only be able to breathe through one nostril",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "gross_0180",
+    "question": "Would you rather only be able to eat lukewarm, slimy oysters or only be able to eat crunchy, overcooked insects?",
+    "option_blue": "only be able to eat lukewarm, slimy oysters",
+    "option_red": "only be able to eat crunchy, overcooked insects",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  }
+]

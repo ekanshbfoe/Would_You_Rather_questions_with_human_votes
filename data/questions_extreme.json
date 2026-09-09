@@ -1,0 +1,322 @@
+[
+  {
+    "id": "extreme_0001",
+    "question": "Would you rather have the animals you touch die or the computers you touch crash?",
+    "option_blue": "have the animals you touch die",
+    "option_red": "the computers you touch crash",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "extreme_0002",
+    "question": "Would you rather be buried up to the neck in full sunlight for 8 hours or buried up to the neck surrounded by red fire ants for 20 minutes?",
+    "option_blue": "be buried up to the neck in full sunlight for 8 hours",
+    "option_red": "buried up to the neck surrounded by red fire ants for 20 minutes",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "extreme_0003",
+    "question": "Would you rather bathe every morning in a sewage treatment plant or have to sleep twice a week completely naked in a public place?",
+    "option_blue": "bathe every morning in a sewage treatment plant",
+    "option_red": "have to sleep twice a week completely naked in a public place",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "extreme_0004",
+    "question": "Would you rather bump your little toe against the edge of a piece of furniture every day or shower only twice a week?",
+    "option_blue": "bump your little toe against the edge of a piece of furniture every day",
+    "option_red": "shower only twice a week",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "extreme_0005",
+    "question": "Would you rather have absolute freedom with no security or complete security with no freedom?",
+    "option_blue": "have absolute freedom with no security",
+    "option_red": "complete security with no freedom",
+    "global_votes_blue": 77,
+    "global_votes_red": 23
+  },
+  {
+    "id": "extreme_0006",
+    "question": "Would you rather eat only date nut bread for the rest of your life or never taste any bread again?",
+    "option_blue": "eat only date nut bread for the rest of your life",
+    "option_red": "never taste any bread again",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  },
+  {
+    "id": "extreme_0007",
+    "question": "Would you rather have an anus on your forehead or have sticks instead of arms and legs?",
+    "option_blue": "have an anus on your forehead",
+    "option_red": "have sticks instead of arms and legs",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "extreme_0008",
+    "question": "Would you rather have a cockroach that lives and eats in your ear or have a fly that lays its larvae under your toenails?",
+    "option_blue": "have a cockroach that lives and eats in your ear",
+    "option_red": "have a fly that lays its larvae under your toenails",
+    "global_votes_blue": 26,
+    "global_votes_red": 74
+  },
+  {
+    "id": "extreme_0009",
+    "question": "Would you rather die if you didn’t slap a new person on the butt every 12 hours or die if you didn’t kill someone every two years?",
+    "option_blue": "die if you didn’t slap a new person on the butt every 12 hours",
+    "option_red": "die if you didn’t kill someone every two years",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "extreme_0010",
+    "question": "Would you rather donate one of your organs or all of your fortune?",
+    "option_blue": "donate one of your organs",
+    "option_red": "all of your fortune",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "extreme_0011",
+    "question": "Would you rather your asshole gets itchy every 5 mins or your finger smells like poop for life?",
+    "option_blue": "your asshole gets itchy every 5 mins",
+    "option_red": "your finger smells like poop for life",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "extreme_0012",
+    "question": "Would you rather have a hairline touching your eyebrows (no forehead) or a pig’s snout for a nose?",
+    "option_blue": "have a hairline touching your eyebrows (no forehead)",
+    "option_red": "a pig’s snout for a nose",
+    "global_votes_blue": 74,
+    "global_votes_red": 26
+  },
+  {
+    "id": "extreme_0013",
+    "question": "Would you rather have the power to convince people of whatever you want simply by touching their a-hole or have the power to teleport to any place you have pooped?",
+    "option_blue": "have the power to convince people of whatever you want simply by touching their a-hole",
+    "option_red": "have the power to teleport to any place you have pooped",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "extreme_0014",
+    "question": "Would you rather lick the floor of a NYC subway station or the bowl of a public toilet?",
+    "option_blue": "lick the floor of a NYC subway station",
+    "option_red": "the bowl of a public toilet",
+    "global_votes_blue": 69,
+    "global_votes_red": 31
+  },
+  {
+    "id": "extreme_0015",
+    "question": "Would you rather have the power to cure cancer but never be able to share it or ensure everyone has access to current treatments but they remain only partially effective?",
+    "option_blue": "have the power to cure cancer but never be able to share it",
+    "option_red": "ensure everyone has access to current treatments but they remain only partially effective",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "extreme_0016",
+    "question": "Would you rather only listen to government-controlled radio stations for the rest of your life or have access to all radio stations but never be able to trust any news you hear?",
+    "option_blue": "only listen to government-controlled radio stations for the rest of your life",
+    "option_red": "have access to all radio stations but never be able to trust any news you hear",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "extreme_0017",
+    "question": "Would you rather use sandpaper as toilet paper or use vinegar as eye drops?",
+    "option_blue": "use sandpaper as toilet paper",
+    "option_red": "use vinegar as eye drops",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "extreme_0018",
+    "question": "Would you rather wear a stranger’s underwear or your dirty underwear?",
+    "option_blue": "wear a stranger’s underwear",
+    "option_red": "your dirty underwear",
+    "global_votes_blue": 22,
+    "global_votes_red": 78
+  },
+  {
+    "id": "extreme_0019",
+    "question": "Would you rather crash in a plane or drown during a boat trip?",
+    "option_blue": "crash in a plane",
+    "option_red": "drown during a boat trip",
+    "global_votes_blue": 83,
+    "global_votes_red": 17
+  },
+  {
+    "id": "extreme_0020",
+    "question": "Would you rather be forced to obey someone you hate or have to give awful orders to someone you love?",
+    "option_blue": "be forced to obey someone you hate",
+    "option_red": "have to give awful orders to someone you love",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "extreme_0021",
+    "question": "Would you rather be crushed to death by an elephant or murdered by a serial killer?",
+    "option_blue": "be crushed to death by an elephant",
+    "option_red": "murdered by a serial killer",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "extreme_0022",
+    "question": "Would you rather die by drowning or by being electrocuted?",
+    "option_blue": "die by drowning",
+    "option_red": "by being electrocuted",
+    "global_votes_blue": 19,
+    "global_votes_red": 81
+  },
+  {
+    "id": "extreme_0023",
+    "question": "Would you rather live on the streets with neither friends nor money or eat both your hands?",
+    "option_blue": "live on the streets with neither friends nor money",
+    "option_red": "eat both your hands",
+    "global_votes_blue": 70,
+    "global_votes_red": 30
+  },
+  {
+    "id": "extreme_0024",
+    "question": "Would you rather kill 5 innocent children yourself, it would end all bloodshed in the Middle East for 25 years or have ongoing wars, terrorism, and fighting in the Middle East?",
+    "option_blue": "kill 5 innocent children yourself, it would end all bloodshed in the Middle East for 25 years",
+    "option_red": "have ongoing wars, terrorism, and fighting in the Middle East",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "extreme_0025",
+    "question": "Would you rather have three wives, but no children or three children, but no wife?",
+    "option_blue": "have three wives, but no children",
+    "option_red": "three children, but no wife",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "extreme_0026",
+    "question": "Would you rather be stuck in a room with corpses overnight or swim in a septic tank for two hours?",
+    "option_blue": "be stuck in a room with corpses overnight",
+    "option_red": "swim in a septic tank for two hours",
+    "global_votes_blue": 81,
+    "global_votes_red": 19
+  },
+  {
+    "id": "extreme_0027",
+    "question": "Would you rather dip your foot in acid or set your foot on fire?",
+    "option_blue": "dip your foot in acid",
+    "option_red": "set your foot on fire",
+    "global_votes_blue": 23,
+    "global_votes_red": 77
+  },
+  {
+    "id": "extreme_0028",
+    "question": "Would you rather constantly have your hand down your trousers or swear in every sentence forever?",
+    "option_blue": "constantly have your hand down your trousers",
+    "option_red": "swear in every sentence forever",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "extreme_0029",
+    "question": "Would you rather eat a dead bug or a live worm?",
+    "option_blue": "eat a dead bug",
+    "option_red": "a live worm",
+    "global_votes_blue": 79,
+    "global_votes_red": 21
+  },
+  {
+    "id": "extreme_0030",
+    "question": "Would you rather snort cocaine or snort your boyfriend’s load?",
+    "option_blue": "snort cocaine",
+    "option_red": "snort your boyfriend’s load",
+    "global_votes_blue": 70,
+    "global_votes_red": 30
+  },
+  {
+    "id": "extreme_0031",
+    "question": "Would you rather be homeless all your life or live your life alone on a deserted island?",
+    "option_blue": "be homeless all your life",
+    "option_red": "live your life alone on a deserted island",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "extreme_0032",
+    "question": "Would you rather walk on a bed of hot coals or walk on a bed of nails?",
+    "option_blue": "walk on a bed of hot coals",
+    "option_red": "walk on a bed of nails",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "extreme_0033",
+    "question": "Would you rather sing carols door-to-door in a blizzard or listen to off-key carolers outside your window all night?",
+    "option_blue": "sing carols door-to-door in a blizzard",
+    "option_red": "listen to off-key carolers outside your window all night",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "extreme_0034",
+    "question": "Would you rather have a partner that likes to touch your poop or have a partner that likes to drink your piss?",
+    "option_blue": "have a partner that likes to touch your poop",
+    "option_red": "have a partner that likes to drink your piss",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "extreme_0035",
+    "question": "Would you rather be a vegetarian for the rest of your life or kill an animal every day?",
+    "option_blue": "be a vegetarian for the rest of your life",
+    "option_red": "kill an animal every day",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "extreme_0036",
+    "question": "Would you rather smell the butt of a stranger or the butt of a dog?",
+    "option_blue": "smell the butt of a stranger",
+    "option_red": "the butt of a dog",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "extreme_0037",
+    "question": "Would you rather be captured by a wild tribe in the jungle or captured by pirates at sea?",
+    "option_blue": "be captured by a wild tribe in the jungle",
+    "option_red": "captured by pirates at sea",
+    "global_votes_blue": 25,
+    "global_votes_red": 75
+  },
+  {
+    "id": "extreme_0038",
+    "question": "Would you rather be shot by a blind man or violently stabbed by a penguin?",
+    "option_blue": "be shot by a blind man",
+    "option_red": "violently stabbed by a penguin",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "extreme_0039",
+    "question": "Would you rather take a laxative before a family meal or Viagra before going to a public swimming pool?",
+    "option_blue": "take a laxative before a family meal",
+    "option_red": "Viagra before going to a public swimming pool",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "extreme_0040",
+    "question": "Would you rather eat a plate of oysters when you wake up every morning or drink a glass of vinegar every night before going to bed?",
+    "option_blue": "eat a plate of oysters when you wake up every morning",
+    "option_red": "drink a glass of vinegar every night before going to bed",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  }
+]

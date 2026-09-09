@@ -1,0 +1,1426 @@
+[
+  {
+    "id": "survival_0001",
+    "question": "Would you rather survive alone in an arctic tundra or survive alone in a scorching desert?",
+    "option_blue": "survive alone in an arctic tundra",
+    "option_red": "survive alone in a scorching desert",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "survival_0002",
+    "question": "Would you rather be forced to hunt for all your food every day or be forced to scavenge for all your food every day?",
+    "option_blue": "be forced to hunt for all your food every day",
+    "option_red": "be forced to scavenge for all your food every day",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "survival_0003",
+    "question": "Would you rather be stranded on a deserted island with a machete or be stranded in a dense jungle with a lighter?",
+    "option_blue": "be stranded on a deserted island with a machete",
+    "option_red": "be stranded in a dense jungle with a lighter",
+    "global_votes_blue": 69,
+    "global_votes_red": 31
+  },
+  {
+    "id": "survival_0004",
+    "question": "Would you rather have perfect camouflage but move very slowly or be fast but have very noticeable bright clothing?",
+    "option_blue": "have perfect camouflage but move very slowly",
+    "option_red": "be fast but have very noticeable bright clothing",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "survival_0005",
+    "question": "Would you rather live underground in a dark tunnel system or live above ground in a constantly bombarded area?",
+    "option_blue": "live underground in a dark tunnel system",
+    "option_red": "live above ground in a constantly bombarded area",
+    "global_votes_blue": 81,
+    "global_votes_red": 19
+  },
+  {
+    "id": "survival_0006",
+    "question": "Would you rather rely on your wits alone for survival or rely on a broken radio for potential rescue?",
+    "option_blue": "rely on your wits alone for survival",
+    "option_red": "rely on a broken radio for potential rescue",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "survival_0007",
+    "question": "Would you rather cross a raging river using a makeshift raft or climb down a sheer cliff face with a frayed rope?",
+    "option_blue": "cross a raging river using a makeshift raft",
+    "option_red": "climb down a sheer cliff face with a frayed rope",
+    "global_votes_blue": 77,
+    "global_votes_red": 23
+  },
+  {
+    "id": "survival_0008",
+    "question": "Would you rather only eat what you can hunt or only eat what you can grow?",
+    "option_blue": "only eat what you can hunt",
+    "option_red": "only eat what you can grow",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "survival_0009",
+    "question": "Would you rather live underground in a safe bunker or live above ground in a heavily fortified stronghold?",
+    "option_blue": "live underground in a safe bunker",
+    "option_red": "live above ground in a heavily fortified stronghold",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "survival_0010",
+    "question": "Would you rather rebuild civilization from scratch with 10 random people or live a solitary life in a hidden, self-sufficient bunker?",
+    "option_blue": "rebuild civilization from scratch with 10 random people",
+    "option_red": "live a solitary life in a hidden, self-sufficient bunker",
+    "global_votes_blue": 66,
+    "global_votes_red": 34
+  },
+  {
+    "id": "survival_0011",
+    "question": "Would you rather only eat food that is completely raw or only eat food that is slightly burnt?",
+    "option_blue": "only eat food that is completely raw",
+    "option_red": "only eat food that is slightly burnt",
+    "global_votes_blue": 9,
+    "global_votes_red": 91
+  },
+  {
+    "id": "survival_0012",
+    "question": "Would you rather only eat bugs for the rest of your life or only eat bland, nutrient paste for the rest of your life?",
+    "option_blue": "only eat bugs for the rest of your life",
+    "option_red": "only eat bland, nutrient paste for the rest of your life",
+    "global_votes_blue": 18,
+    "global_votes_red": 82
+  },
+  {
+    "id": "survival_0013",
+    "question": "Would you rather carry all your supplies on your back or repeatedly retrieve supplies from a distant cache?",
+    "option_blue": "carry all your supplies on your back",
+    "option_red": "repeatedly retrieve supplies from a distant cache",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "survival_0014",
+    "question": "Would you rather always know exactly what time it is (even without a clock) or always know exactly where north is (even without a compass)?",
+    "option_blue": "always know exactly what time it is (even without a clock)",
+    "option_red": "always know exactly where north is (even without a compass)",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "survival_0015",
+    "question": "Would you rather be able to perfectly mimic any sound or be able to perfectly mimic any appearance?",
+    "option_blue": "be able to perfectly mimic any sound",
+    "option_red": "be able to perfectly mimic any appearance",
+    "global_votes_blue": 25,
+    "global_votes_red": 75
+  },
+  {
+    "id": "survival_0016",
+    "question": "Would you rather face extreme heat every day or face extreme cold every day?",
+    "option_blue": "face extreme heat every day",
+    "option_red": "face extreme cold every day",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "survival_0017",
+    "question": "Would you rather have to make fire using only sticks and kindling or have to purify all your drinking water by boiling it?",
+    "option_blue": "have to make fire using only sticks and kindling",
+    "option_red": "have to purify all your drinking water by boiling it",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "survival_0018",
+    "question": "Would you rather discover an ancient, powerful artifact or find a fully stocked, impenetrable bunker?",
+    "option_blue": "discover an ancient, powerful artifact",
+    "option_red": "find a fully stocked, impenetrable bunker",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "survival_0019",
+    "question": "Would you rather live in a treehouse permanently or live in an underground dugout permanently?",
+    "option_blue": "live in a treehouse permanently",
+    "option_red": "live in an underground dugout permanently",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "survival_0020",
+    "question": "Would you rather have a constantly bleeding minor wound or have a constantly aching major joint?",
+    "option_blue": "have a constantly bleeding minor wound",
+    "option_red": "have a constantly aching major joint",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "survival_0021",
+    "question": "Would you rather be the only human left on Earth or be surrounded by humans but unable to communicate with them?",
+    "option_blue": "be the only human left on Earth",
+    "option_red": "be surrounded by humans but unable to communicate with them",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "survival_0022",
+    "question": "Would you rather only speak to animals for communication or only be able to communicate through drawing?",
+    "option_blue": "only speak to animals for communication",
+    "option_red": "only be able to communicate through drawing",
+    "global_votes_blue": 69,
+    "global_votes_red": 31
+  },
+  {
+    "id": "survival_0023",
+    "question": "Would you rather be responsible for the lives of children or be solely responsible for your own survival?",
+    "option_blue": "be responsible for the lives of children",
+    "option_red": "be solely responsible for your own survival",
+    "global_votes_blue": 20,
+    "global_votes_red": 80
+  },
+  {
+    "id": "survival_0024",
+    "question": "Would you rather live with constant fear of the unknown or live with absolute certainty of impending doom?",
+    "option_blue": "live with constant fear of the unknown",
+    "option_red": "live with absolute certainty of impending doom",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "survival_0025",
+    "question": "Would you rather only drink water that tastes slightly salty or only drink water that tastes slightly muddy?",
+    "option_blue": "only drink water that tastes slightly salty",
+    "option_red": "only drink water that tastes slightly muddy",
+    "global_votes_blue": 80,
+    "global_votes_red": 20
+  },
+  {
+    "id": "survival_0026",
+    "question": "Would you rather build a shelter from scratch every night or always be searching for a new water source?",
+    "option_blue": "build a shelter from scratch every night",
+    "option_red": "always be searching for a new water source",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "survival_0027",
+    "question": "Would you rather discover a secret, thriving underground community or discover a deserted, well-preserved former society?",
+    "option_blue": "discover a secret, thriving underground community",
+    "option_red": "discover a deserted, well-preserved former society",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "survival_0028",
+    "question": "Would you rather have your memory selectively wiped daily or have all your future predictions be wrong?",
+    "option_blue": "have your memory selectively wiped daily",
+    "option_red": "have all your future predictions be wrong",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "survival_0029",
+    "question": "Would you rather lose your sense of taste and smell or lose your sense of touch and hearing?",
+    "option_blue": "lose your sense of taste and smell",
+    "option_red": "lose your sense of touch and hearing",
+    "global_votes_blue": 84,
+    "global_votes_red": 16
+  },
+  {
+    "id": "survival_0030",
+    "question": "Would you rather be hunted by a skilled human tracker or be pursued by a dangerous wild animal?",
+    "option_blue": "be hunted by a skilled human tracker",
+    "option_red": "be pursued by a dangerous wild animal",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "survival_0031",
+    "question": "Would you rather face a horde of zombies in close combat or outsmart a single, highly intelligent monster?",
+    "option_blue": "face a horde of zombies in close combat",
+    "option_red": "outsmart a single, highly intelligent monster",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "survival_0032",
+    "question": "Would you rather wear the same dirty clothes for a year or never be able to properly clean yourself?",
+    "option_blue": "wear the same dirty clothes for a year",
+    "option_red": "never be able to properly clean yourself",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "survival_0033",
+    "question": "Would you rather be forced to abandon all personal belongings or be forced to abandon all hope of rescue?",
+    "option_blue": "be forced to abandon all personal belongings",
+    "option_red": "be forced to abandon all hope of rescue",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "survival_0034",
+    "question": "Would you rather be able to teleport once a month or be able to turn invisible for one minute everyday?",
+    "option_blue": "be able to teleport once a month",
+    "option_red": "be able to turn invisible for one minute everyday",
+    "global_votes_blue": 66,
+    "global_votes_red": 34
+  },
+  {
+    "id": "survival_0035",
+    "question": "Would you rather only walk barefoot over rough terrain or only wear shoes that are three sizes too small?",
+    "option_blue": "only walk barefoot over rough terrain",
+    "option_red": "only wear shoes that are three sizes too small",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "survival_0036",
+    "question": "Would you rather have to outsmart natural disasters regularly or have to outwit intelligent predators regularly?",
+    "option_blue": "have to outsmart natural disasters regularly",
+    "option_red": "have to outwit intelligent predators regularly",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "survival_0037",
+    "question": "Would you rather have an unhealing minor injury forever or have a constant buzzing sound in your ear?",
+    "option_blue": "have an unhealing minor injury forever",
+    "option_red": "have a constant buzzing sound in your ear",
+    "global_votes_blue": 74,
+    "global_votes_red": 26
+  },
+  {
+    "id": "survival_0038",
+    "question": "Would you rather have to rely on pre-packaged, bland meals or have to rely on whatever you can forage, no matter how bad?",
+    "option_blue": "have to rely on pre-packaged, bland meals",
+    "option_red": "have to rely on whatever you can forage, no matter how bad",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "survival_0039",
+    "question": "Would you rather fight bravely and die quickly or hide forever and live in fear?",
+    "option_blue": "fight bravely and die quickly",
+    "option_red": "hide forever and live in fear",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "survival_0040",
+    "question": "Would you rather have perfect navigation skills but no strength or have immense strength but no navigation skills?",
+    "option_blue": "have perfect navigation skills but no strength",
+    "option_red": "have immense strength but no navigation skills",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "survival_0041",
+    "question": "Would you rather be constantly pursued by a relentless enemy or be constantly lost in unfamiliar territory?",
+    "option_blue": "be constantly pursued by a relentless enemy",
+    "option_red": "be constantly lost in unfamiliar territory",
+    "global_votes_blue": 23,
+    "global_votes_red": 77
+  },
+  {
+    "id": "survival_0042",
+    "question": "Would you rather live in an abandoned city infested with scavengers or live in a remote wilderness with dangerous predators?",
+    "option_blue": "live in an abandoned city infested with scavengers",
+    "option_red": "live in a remote wilderness with dangerous predators",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "survival_0043",
+    "question": "Would you rather fight off wildlife with your bare hands daily or constantly outsmart human scavengers daily?",
+    "option_blue": "fight off wildlife with your bare hands daily",
+    "option_red": "constantly outsmart human scavengers daily",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "survival_0044",
+    "question": "Would you rather build a shelter with only natural materials or find an abandoned, decaying building to shelter in?",
+    "option_blue": "build a shelter with only natural materials",
+    "option_red": "find an abandoned, decaying building to shelter in",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "survival_0045",
+    "question": "Would you rather be able to instantly find valuable resources but not know how to use them or be able to perfectly use any tool but never find resources?",
+    "option_blue": "be able to instantly find valuable resources but not know how to use them",
+    "option_red": "be able to perfectly use any tool but never find resources",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "survival_0046",
+    "question": "Would you rather live in a world where plants are carnivorous or live in a world where animals are highly intelligent and hostile?",
+    "option_blue": "live in a world where plants are carnivorous",
+    "option_red": "live in a world where animals are highly intelligent and hostile",
+    "global_votes_blue": 72,
+    "global_votes_red": 28
+  },
+  {
+    "id": "survival_0047",
+    "question": "Would you rather be able to instantly heal yourself once a day or be able to become invisible for five minutes once a day?",
+    "option_blue": "be able to instantly heal yourself once a day",
+    "option_red": "be able to become invisible for five minutes once a day",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "survival_0048",
+    "question": "Would you rather have unlimited clean water but no food or have unlimited food but no clean water?",
+    "option_blue": "have unlimited clean water but no food",
+    "option_red": "have unlimited food but no clean water",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "survival_0049",
+    "question": "Would you rather have unlimited rope but no cutting tool or have unlimited cutting tools but no rope?",
+    "option_blue": "have unlimited rope but no cutting tool",
+    "option_red": "have unlimited cutting tools but no rope",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "survival_0050",
+    "question": "Would you rather be a silent hunter, never making a sound or be a loud, intimidating defender of your territory?",
+    "option_blue": "be a silent hunter, never making a sound",
+    "option_red": "be a loud, intimidating defender of your territory",
+    "global_votes_blue": 81,
+    "global_votes_red": 19
+  },
+  {
+    "id": "survival_0051",
+    "question": "Would you rather always know where north is or always know the nearest water source?",
+    "option_blue": "always know where north is",
+    "option_red": "always know the nearest water source",
+    "global_votes_blue": 12,
+    "global_votes_red": 88
+  },
+  {
+    "id": "survival_0052",
+    "question": "Would you rather only be able to speak in whispers or only be able to speak in shouts?",
+    "option_blue": "only be able to speak in whispers",
+    "option_red": "only be able to speak in shouts",
+    "global_votes_blue": 85,
+    "global_votes_red": 15
+  },
+  {
+    "id": "survival_0053",
+    "question": "Would you rather have an allergic reaction to sunlight or have an allergic reaction to water?",
+    "option_blue": "have an allergic reaction to sunlight",
+    "option_red": "have an allergic reaction to water",
+    "global_votes_blue": 82,
+    "global_votes_red": 18
+  },
+  {
+    "id": "survival_0054",
+    "question": "Would you rather survive alone in an arctic wasteland for a year or survive alone in a desert wasteland for a year?",
+    "option_blue": "survive alone in an arctic wasteland for a year",
+    "option_red": "survive alone in a desert wasteland for a year",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "survival_0055",
+    "question": "Would you rather save only yourself in a disaster or save one other person and die yourself?",
+    "option_blue": "save only yourself in a disaster",
+    "option_red": "save one other person and die yourself",
+    "global_votes_blue": 66,
+    "global_votes_red": 34
+  },
+  {
+    "id": "survival_0056",
+    "question": "Would you rather only consume cold food and drink or only consume bland and unseasoned food?",
+    "option_blue": "only consume cold food and drink",
+    "option_red": "only consume bland and unseasoned food",
+    "global_votes_blue": 72,
+    "global_votes_red": 28
+  },
+  {
+    "id": "survival_0057",
+    "question": "Would you rather start a new life with no memory of the old one or remember everything but never speak of it?",
+    "option_blue": "start a new life with no memory of the old one",
+    "option_red": "remember everything but never speak of it",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "survival_0058",
+    "question": "Would you rather be stranded on a deserted island with endless supplies but no hope of rescue or be lost in a vast and dangerous jungle with limited supplies but a map to civilization?",
+    "option_blue": "be stranded on a deserted island with endless supplies but no hope of rescue",
+    "option_red": "be lost in a vast and dangerous jungle with limited supplies but a map to civilization",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "survival_0059",
+    "question": "Would you rather only have a rusty can opener for a tool or only have a single matchstick for warmth?",
+    "option_blue": "only have a rusty can opener for a tool",
+    "option_red": "only have a single matchstick for warmth",
+    "global_votes_blue": 69,
+    "global_votes_red": 31
+  },
+  {
+    "id": "survival_0060",
+    "question": "Would you rather be immune to all diseases but feel constant pain or be perfectly healthy but highly susceptible to illness?",
+    "option_blue": "be immune to all diseases but feel constant pain",
+    "option_red": "be perfectly healthy but highly susceptible to illness",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "survival_0061",
+    "question": "Would you rather be constantly hunted by a small group or have to survive in a territory with dangerous wildlife?",
+    "option_blue": "be constantly hunted by a small group",
+    "option_red": "have to survive in a territory with dangerous wildlife",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "survival_0062",
+    "question": "Would you rather only travel on foot, always exposed or only travel in a slow, noisy vehicle?",
+    "option_blue": "only travel on foot, always exposed",
+    "option_red": "only travel in a slow, noisy vehicle",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "survival_0063",
+    "question": "Would you rather fight off feral animals every day or fight off desperate humans every day?",
+    "option_blue": "fight off feral animals every day",
+    "option_red": "fight off desperate humans every day",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "survival_0064",
+    "question": "Would you rather only have dull tools that break easily or only have rusty tools that work inconsistently?",
+    "option_blue": "only have dull tools that break easily",
+    "option_red": "only have rusty tools that work inconsistently",
+    "global_votes_blue": 22,
+    "global_votes_red": 78
+  },
+  {
+    "id": "survival_0065",
+    "question": "Would you rather face a horde of zombies with a baseball bat or face a giant monster with a hunting rifle?",
+    "option_blue": "face a horde of zombies with a baseball bat",
+    "option_red": "face a giant monster with a hunting rifle",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "survival_0066",
+    "question": "Would you rather have a pet wolf as your only companion or have a pet falcon as your only companion?",
+    "option_blue": "have a pet wolf as your only companion",
+    "option_red": "have a pet falcon as your only companion",
+    "global_votes_blue": 63,
+    "global_votes_red": 38
+  },
+  {
+    "id": "survival_0067",
+    "question": "Would you rather find a fully stocked but booby-trapped cabin or find an empty but safe cave?",
+    "option_blue": "find a fully stocked but booby-trapped cabin",
+    "option_red": "find an empty but safe cave",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "survival_0068",
+    "question": "Would you rather be able to start a fire instantly without tools or be able to purify any water instantly without tools?",
+    "option_blue": "be able to start a fire instantly without tools",
+    "option_red": "be able to purify any water instantly without tools",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "survival_0069",
+    "question": "Would you rather survive only on calorie-rich insects or survive only on nutrient-deficient fruit?",
+    "option_blue": "survive only on calorie-rich insects",
+    "option_red": "survive only on nutrient-deficient fruit",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "survival_0070",
+    "question": "Would you rather lose your sense of taste and smell or lose your sense of touch?",
+    "option_blue": "lose your sense of taste and smell",
+    "option_red": "lose your sense of touch",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "survival_0071",
+    "question": "Would you rather live completely off the land indefinitely or scavenge essential supplies from ruined cities?",
+    "option_blue": "live completely off the land indefinitely",
+    "option_red": "scavenge essential supplies from ruined cities",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "survival_0072",
+    "question": "Would you rather lose your ability to speak or lose your ability to hear?",
+    "option_blue": "lose your ability to speak",
+    "option_red": "lose your ability to hear",
+    "global_votes_blue": 78,
+    "global_votes_red": 22
+  },
+  {
+    "id": "survival_0073",
+    "question": "Would you rather travel by foot everywhere for the rest of your life or travel by bike everywhere for the rest of your life (if available)?",
+    "option_blue": "travel by foot everywhere for the rest of your life",
+    "option_red": "travel by bike everywhere for the rest of your life (if available)",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "survival_0074",
+    "question": "Would you rather carry a heavy weapon everywhere or carry a cumbersome medical kit everywhere?",
+    "option_blue": "carry a heavy weapon everywhere",
+    "option_red": "carry a cumbersome medical kit everywhere",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "survival_0075",
+    "question": "Would you rather have excellent night vision but poor daytime vision or have excellent daytime vision but poor night vision?",
+    "option_blue": "have excellent night vision but poor daytime vision",
+    "option_red": "have excellent daytime vision but poor night vision",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "survival_0076",
+    "question": "Would you rather be perpetually hungry but never starve or be perpetually tired but never fall asleep?",
+    "option_blue": "be perpetually hungry but never starve",
+    "option_red": "be perpetually tired but never fall asleep",
+    "global_votes_blue": 78,
+    "global_votes_red": 22
+  },
+  {
+    "id": "survival_0077",
+    "question": "Would you rather only eat raw meat for survival or only eat raw vegetables for survival?",
+    "option_blue": "only eat raw meat for survival",
+    "option_red": "only eat raw vegetables for survival",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "survival_0078",
+    "question": "Would you rather only communicate through written notes or only communicate through a single, unfamiliar language?",
+    "option_blue": "only communicate through written notes",
+    "option_red": "only communicate through a single, unfamiliar language",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "survival_0079",
+    "question": "Would you rather be unable to feel pain but unable to feel joy or feel every pain intensely but also every joy intensely?",
+    "option_blue": "be unable to feel pain but unable to feel joy",
+    "option_red": "feel every pain intensely but also every joy intensely",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "survival_0080",
+    "question": "Would you rather be the last person alive on Earth or be the only person without memory on Earth?",
+    "option_blue": "be the last person alive on Earth",
+    "option_red": "be the only person without memory on Earth",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "survival_0081",
+    "question": "Would you rather only have uncomfortable, worn-out shoes or only have ill-fitting, patched-up clothes?",
+    "option_blue": "only have uncomfortable, worn-out shoes",
+    "option_red": "only have ill-fitting, patched-up clothes",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "survival_0082",
+    "question": "Would you rather only wear clothes made from animal hides or only wear clothes made from plant fibers?",
+    "option_blue": "only wear clothes made from animal hides",
+    "option_red": "only wear clothes made from plant fibers",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "survival_0083",
+    "question": "Would you rather be lost at sea during a storm or be lost in a collapsing mine?",
+    "option_blue": "be lost at sea during a storm",
+    "option_red": "be lost in a collapsing mine",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "survival_0084",
+    "question": "Would you rather be stranded on a deserted island with a machete or be stranded in a dense jungle with a compass?",
+    "option_blue": "be stranded on a deserted island with a machete",
+    "option_red": "be stranded in a dense jungle with a compass",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "survival_0085",
+    "question": "Would you rather navigate exclusively by stars or navigate exclusively by moss growth?",
+    "option_blue": "navigate exclusively by stars",
+    "option_red": "navigate exclusively by moss growth",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "survival_0086",
+    "question": "Would you rather have to dig for water every day or have to hunt for food every day?",
+    "option_blue": "have to dig for water every day",
+    "option_red": "have to hunt for food every day",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "survival_0087",
+    "question": "Would you rather be able to breathe underwater for 30 minutes or be able to run at superhuman speed for 5 minutes?",
+    "option_blue": "be able to breathe underwater for 30 minutes",
+    "option_red": "be able to run at superhuman speed for 5 minutes",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "survival_0088",
+    "question": "Would you rather be immune to poison but vulnerable to disease or be immune to disease but vulnerable to poison?",
+    "option_blue": "be immune to poison but vulnerable to disease",
+    "option_red": "be immune to disease but vulnerable to poison",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "survival_0089",
+    "question": "Would you rather rely on primitive tools indefinitely or rely on broken modern technology indefinitely?",
+    "option_blue": "rely on primitive tools indefinitely",
+    "option_red": "rely on broken modern technology indefinitely",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "survival_0090",
+    "question": "Would you rather live in constant fog or live in perpetual twilight?",
+    "option_blue": "live in constant fog",
+    "option_red": "live in perpetual twilight",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "survival_0091",
+    "question": "Would you rather never be able to trust anyone ever again or always be too trusting and often get betrayed?",
+    "option_blue": "never be able to trust anyone ever again",
+    "option_red": "always be too trusting and often get betrayed",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "survival_0092",
+    "question": "Would you rather always smell faint smoke or always hear distant sirens?",
+    "option_blue": "always smell faint smoke",
+    "option_red": "always hear distant sirens",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "survival_0093",
+    "question": "Would you rather rely on a broken, unreliable radio for news or have no information at all about the outside world?",
+    "option_blue": "rely on a broken, unreliable radio for news",
+    "option_red": "have no information at all about the outside world",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "survival_0094",
+    "question": "Would you rather only eat bugs for nourishment or only eat tasteless nutrient paste for nourishment?",
+    "option_blue": "only eat bugs for nourishment",
+    "option_red": "only eat tasteless nutrient paste for nourishment",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  },
+  {
+    "id": "survival_0095",
+    "question": "Would you rather get a severe injury that heals slowly or suffer from constant, debilitating exhaustion?",
+    "option_blue": "get a severe injury that heals slowly",
+    "option_red": "suffer from constant, debilitating exhaustion",
+    "global_votes_blue": 74,
+    "global_votes_red": 26
+  },
+  {
+    "id": "survival_0096",
+    "question": "Would you rather only eat insects for survival or only eat wild plants you identify yourself?",
+    "option_blue": "only eat insects for survival",
+    "option_red": "only eat wild plants you identify yourself",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "survival_0097",
+    "question": "Would you rather have unlimited strength for one hour a day or have perfect aim for all your shots?",
+    "option_blue": "have unlimited strength for one hour a day",
+    "option_red": "have perfect aim for all your shots",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "survival_0098",
+    "question": "Would you rather have the ability to instantly build any shelter or have the ability to instantly find any food source?",
+    "option_blue": "have the ability to instantly build any shelter",
+    "option_red": "have the ability to instantly find any food source",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "survival_0099",
+    "question": "Would you rather have perfect navigation skills but no survival tools or have every survival tool but no sense of direction?",
+    "option_blue": "have perfect navigation skills but no survival tools",
+    "option_red": "have every survival tool but no sense of direction",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "survival_0100",
+    "question": "Would you rather never feel warm again or never feel cool again?",
+    "option_blue": "never feel warm again",
+    "option_red": "never feel cool again",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "survival_0101",
+    "question": "Would you rather build a shelter perfectly strong but uncomfortable or build a shelter perfectly comfortable but weak?",
+    "option_blue": "build a shelter perfectly strong but uncomfortable",
+    "option_red": "build a shelter perfectly comfortable but weak",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "survival_0102",
+    "question": "Would you rather have a permanent wound that never fully heals or have a permanent illness that causes fatigue?",
+    "option_blue": "have a permanent wound that never fully heals",
+    "option_red": "have a permanent illness that causes fatigue",
+    "global_votes_blue": 72,
+    "global_votes_red": 28
+  },
+  {
+    "id": "survival_0103",
+    "question": "Would you rather be constantly pursued but never caught or be safe in one place but always alone?",
+    "option_blue": "be constantly pursued but never caught",
+    "option_red": "be safe in one place but always alone",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "survival_0104",
+    "question": "Would you rather only have access to clean water through rain collection or only have access to clean water through deep well digging?",
+    "option_blue": "only have access to clean water through rain collection",
+    "option_red": "only have access to clean water through deep well digging",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "survival_0105",
+    "question": "Would you rather only wear uncomfortable, stiff clothing or only wear ripped, inadequate clothing?",
+    "option_blue": "only wear uncomfortable, stiff clothing",
+    "option_red": "only wear ripped, inadequate clothing",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "survival_0106",
+    "question": "Would you rather be able to breathe underwater for 5 minutes or be able to hold your breath for 5 minutes?",
+    "option_blue": "be able to breathe underwater for 5 minutes",
+    "option_red": "be able to hold your breath for 5 minutes",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "survival_0107",
+    "question": "Would you rather be incredibly strong but very slow or be incredibly fast but very weak?",
+    "option_blue": "be incredibly strong but very slow",
+    "option_red": "be incredibly fast but very weak",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "survival_0108",
+    "question": "Would you rather communicate only through hand signals or communicate only through written messages?",
+    "option_blue": "communicate only through hand signals",
+    "option_red": "communicate only through written messages",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "survival_0109",
+    "question": "Would you rather be able to instantly teleport short distances (10 feet) or be able to instantly heal minor wounds?",
+    "option_blue": "be able to instantly teleport short distances (10 feet)",
+    "option_red": "be able to instantly heal minor wounds",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "survival_0110",
+    "question": "Would you rather sleep on the hard ground every night or never have a moment of complete silence?",
+    "option_blue": "sleep on the hard ground every night",
+    "option_red": "never have a moment of complete silence",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "survival_0111",
+    "question": "Would you rather only eat bland, tasteless sustenance or eat delicious but potentially poisonous food?",
+    "option_blue": "only eat bland, tasteless sustenance",
+    "option_red": "eat delicious but potentially poisonous food",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "survival_0112",
+    "question": "Would you rather only eat bugs for nourishment or only drink dirty water that has been filtered?",
+    "option_blue": "only eat bugs for nourishment",
+    "option_red": "only drink dirty water that has been filtered",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "survival_0113",
+    "question": "Would you rather survive a perpetual sandstorm or survive a perpetual blizzard?",
+    "option_blue": "survive a perpetual sandstorm",
+    "option_red": "survive a perpetual blizzard",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "survival_0114",
+    "question": "Would you rather live in a post-apocalyptic world with no electricity or live in a post-apocalyptic world with no clean water?",
+    "option_blue": "live in a post-apocalyptic world with no electricity",
+    "option_red": "live in a post-apocalyptic world with no clean water",
+    "global_votes_blue": 73,
+    "global_votes_red": 27
+  },
+  {
+    "id": "survival_0115",
+    "question": "Would you rather only be able to whisper or only be able to shout?",
+    "option_blue": "only be able to whisper",
+    "option_red": "only be able to shout",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "survival_0116",
+    "question": "Would you rather survive a global flood or survive a planetary ice age?",
+    "option_blue": "survive a global flood",
+    "option_red": "survive a planetary ice age",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "survival_0117",
+    "question": "Would you rather be constantly wet and cold or be constantly dry and thirsty?",
+    "option_blue": "be constantly wet and cold",
+    "option_red": "be constantly dry and thirsty",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "survival_0118",
+    "question": "Would you rather be immune to all diseases but feel constant pain or be perfectly healthy but age twice as fast?",
+    "option_blue": "be immune to all diseases but feel constant pain",
+    "option_red": "be perfectly healthy but age twice as fast",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "survival_0119",
+    "question": "Would you rather spend your life foraging for food or spend your life constantly defending a small garden?",
+    "option_blue": "spend your life foraging for food",
+    "option_red": "spend your life constantly defending a small garden",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "survival_0120",
+    "question": "Would you rather live in a bunker underground for 5 years or live on a raft at sea for 5 years?",
+    "option_blue": "live in a bunker underground for 5 years",
+    "option_red": "live on a raft at sea for 5 years",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "survival_0121",
+    "question": "Would you rather be trapped on a desert island with fresh water or be trapped in a lifeboat in the ocean with no water?",
+    "option_blue": "be trapped on a desert island with fresh water",
+    "option_red": "be trapped in a lifeboat in the ocean with no water",
+    "global_votes_blue": 73,
+    "global_votes_red": 27
+  },
+  {
+    "id": "survival_0122",
+    "question": "Would you rather carry all your supplies on your back or drag all your supplies on a broken cart?",
+    "option_blue": "carry all your supplies on your back",
+    "option_red": "drag all your supplies on a broken cart",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "survival_0123",
+    "question": "Would you rather only have a rusty machete for defense or only have a single bullet for a high-powered rifle?",
+    "option_blue": "only have a rusty machete for defense",
+    "option_red": "only have a single bullet for a high-powered rifle",
+    "global_votes_blue": 66,
+    "global_votes_red": 34
+  },
+  {
+    "id": "survival_0124",
+    "question": "Would you rather only communicate through charades or only be able to whisper everything you say?",
+    "option_blue": "only communicate through charades",
+    "option_red": "only be able to whisper everything you say",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "survival_0125",
+    "question": "Would you rather fight a pack of hungry wolves with a spear or outrun a bear through thick forest?",
+    "option_blue": "fight a pack of hungry wolves with a spear",
+    "option_red": "outrun a bear through thick forest",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "survival_0126",
+    "question": "Would you rather have superhuman strength but be very slow or have superhuman speed but be very weak?",
+    "option_blue": "have superhuman strength but be very slow",
+    "option_red": "have superhuman speed but be very weak",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "survival_0127",
+    "question": "Would you rather travel only by foot everywhere or only be able to paddle a small boat everywhere?",
+    "option_blue": "travel only by foot everywhere",
+    "option_red": "only be able to paddle a small boat everywhere",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "survival_0128",
+    "question": "Would you rather have a constant, dull ache that never goes away or have a recurring, sharp pain that comes and goes?",
+    "option_blue": "have a constant, dull ache that never goes away",
+    "option_red": "have a recurring, sharp pain that comes and goes",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "survival_0129",
+    "question": "Would you rather be an expert in crafting but terrible at combat or be an expert in combat but terrible at crafting?",
+    "option_blue": "be an expert in crafting but terrible at combat",
+    "option_red": "be an expert in combat but terrible at crafting",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "survival_0130",
+    "question": "Would you rather be able to start fires with your mind or be able to find water with your mind?",
+    "option_blue": "be able to start fires with your mind",
+    "option_red": "be able to find water with your mind",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "survival_0131",
+    "question": "Would you rather survive a zombie apocalypse alone or survive a natural disaster with ten strangers?",
+    "option_blue": "survive a zombie apocalypse alone",
+    "option_red": "survive a natural disaster with ten strangers",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "survival_0132",
+    "question": "Would you rather only communicate through sign language or only communicate through muffled sounds?",
+    "option_blue": "only communicate through sign language",
+    "option_red": "only communicate through muffled sounds",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "survival_0133",
+    "question": "Would you rather only have a single, dim flashlight or only have a few candles and a box of matches?",
+    "option_blue": "only have a single, dim flashlight",
+    "option_red": "only have a few candles and a box of matches",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "survival_0134",
+    "question": "Would you rather live in a bunker indefinitely with strangers or live outdoors indefinitely completely alone?",
+    "option_blue": "live in a bunker indefinitely with strangers",
+    "option_red": "live outdoors indefinitely completely alone",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "survival_0135",
+    "question": "Would you rather be the last person on Earth or be one of five survivors in a world overrun by zombies?",
+    "option_blue": "be the last person on Earth",
+    "option_red": "be one of five survivors in a world overrun by zombies",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "survival_0136",
+    "question": "Would you rather be immune to all diseases but feel constant pain or be completely healthy but highly susceptible to illness?",
+    "option_blue": "be immune to all diseases but feel constant pain",
+    "option_red": "be completely healthy but highly susceptible to illness",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "survival_0137",
+    "question": "Would you rather have to kill an animal for food daily or have to tend to a difficult garden daily for food?",
+    "option_blue": "have to kill an animal for food daily",
+    "option_red": "have to tend to a difficult garden daily for food",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "survival_0138",
+    "question": "Would you rather face a natural disaster every month or face a life-threatening illness every year?",
+    "option_blue": "face a natural disaster every month",
+    "option_red": "face a life-threatening illness every year",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "survival_0139",
+    "question": "Would you rather never sleep again or only sleep for 30 minutes a day?",
+    "option_blue": "never sleep again",
+    "option_red": "only sleep for 30 minutes a day",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "survival_0140",
+    "question": "Would you rather lose one sense permanently to survive or sacrifice a limb to survive a critical injury?",
+    "option_blue": "lose one sense permanently to survive",
+    "option_red": "sacrifice a limb to survive a critical injury",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "survival_0141",
+    "question": "Would you rather be chased by a predator for an hour or be lost in a deep cave for a day?",
+    "option_blue": "be chased by a predator for an hour",
+    "option_red": "be lost in a deep cave for a day",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "survival_0142",
+    "question": "Would you rather have to cross a vast, frozen wasteland on foot or have to cross a treacherous, active volcano range?",
+    "option_blue": "have to cross a vast, frozen wasteland on foot",
+    "option_red": "have to cross a treacherous, active volcano range",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "survival_0143",
+    "question": "Would you rather be forced to adapt to zero gravity or be forced to adapt to crushing high gravity?",
+    "option_blue": "be forced to adapt to zero gravity",
+    "option_red": "be forced to adapt to crushing high gravity",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "survival_0144",
+    "question": "Would you rather always be sticky or always be itchy?",
+    "option_blue": "always be sticky",
+    "option_red": "always be itchy",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "survival_0145",
+    "question": "Would you rather witness unimaginable horrors daily or live in constant fear of unseen threats?",
+    "option_blue": "witness unimaginable horrors daily",
+    "option_red": "live in constant fear of unseen threats",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "survival_0146",
+    "question": "Would you rather be forced to trek through dense fog always or be forced to trek through blinding snowstorms always?",
+    "option_blue": "be forced to trek through dense fog always",
+    "option_red": "be forced to trek through blinding snowstorms always",
+    "global_votes_blue": 63,
+    "global_votes_red": 38
+  },
+  {
+    "id": "survival_0147",
+    "question": "Would you rather only wear clothes made from animal hides or only wear clothes made from scavenged materials?",
+    "option_blue": "only wear clothes made from animal hides",
+    "option_red": "only wear clothes made from scavenged materials",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "survival_0148",
+    "question": "Would you rather have a permanent source of fire but no light or have a permanent source of light but no fire?",
+    "option_blue": "have a permanent source of fire but no light",
+    "option_red": "have a permanent source of light but no fire",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "survival_0149",
+    "question": "Would you rather be permanently dirty and unkempt or be permanently clean but constantly smell bad?",
+    "option_blue": "be permanently dirty and unkempt",
+    "option_red": "be permanently clean but constantly smell bad",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "survival_0150",
+    "question": "Would you rather be forever alert and never sleep deeply or sleep deeply but be easily ambushed?",
+    "option_blue": "be forever alert and never sleep deeply",
+    "option_red": "sleep deeply but be easily ambushed",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "survival_0151",
+    "question": "Would you rather survive a nuclear winter or survive a global drought?",
+    "option_blue": "survive a nuclear winter",
+    "option_red": "survive a global drought",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "survival_0152",
+    "question": "Would you rather never be able to sleep soundly again or never be able to eat a satisfying meal again?",
+    "option_blue": "never be able to sleep soundly again",
+    "option_red": "never be able to eat a satisfying meal again",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "survival_0153",
+    "question": "Would you rather face a horde of zombies in a city or face a group of cannibals in the wilderness?",
+    "option_blue": "face a horde of zombies in a city",
+    "option_red": "face a group of cannibals in the wilderness",
+    "global_votes_blue": 66,
+    "global_votes_red": 34
+  },
+  {
+    "id": "survival_0154",
+    "question": "Would you rather live without any form of entertainment or live without any sense of hope or purpose?",
+    "option_blue": "live without any form of entertainment",
+    "option_red": "live without any sense of hope or purpose",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "survival_0155",
+    "question": "Would you rather eat the last rotten apple or drink the last murky puddle water?",
+    "option_blue": "eat the last rotten apple",
+    "option_red": "drink the last murky puddle water",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "survival_0156",
+    "question": "Would you rather have a compass that only points in random directions or have a map that is completely blank?",
+    "option_blue": "have a compass that only points in random directions",
+    "option_red": "have a map that is completely blank",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "survival_0157",
+    "question": "Would you rather be able to hear every sound within a mile radius or be able to see microscopic details from far away?",
+    "option_blue": "be able to hear every sound within a mile radius",
+    "option_red": "be able to see microscopic details from far away",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "survival_0158",
+    "question": "Would you rather have perfect night vision but be blind during day or have perfect day vision but be blind at night?",
+    "option_blue": "have perfect night vision but be blind during day",
+    "option_red": "have perfect day vision but be blind at night",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "survival_0159",
+    "question": "Would you rather always be slightly cold, no matter the weather or always be slightly hot, no matter the weather?",
+    "option_blue": "always be slightly cold, no matter the weather",
+    "option_red": "always be slightly hot, no matter the weather",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "survival_0160",
+    "question": "Would you rather be forced to eat raw food all the time or be forced to eat burnt food all the time?",
+    "option_blue": "be forced to eat raw food all the time",
+    "option_red": "be forced to eat burnt food all the time",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "survival_0161",
+    "question": "Would you rather encounter a friendly intelligent alien or encounter a friendly talking animal?",
+    "option_blue": "encounter a friendly intelligent alien",
+    "option_red": "encounter a friendly talking animal",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "survival_0162",
+    "question": "Would you rather live in a treehouse indefinitely or live in a cave indefinitely?",
+    "option_blue": "live in a treehouse indefinitely",
+    "option_red": "live in a cave indefinitely",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "survival_0163",
+    "question": "Would you rather survive a volcanic eruption or survive a massive earthquake?",
+    "option_blue": "survive a volcanic eruption",
+    "option_red": "survive a massive earthquake",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "survival_0164",
+    "question": "Would you rather always smell faintly of campfire smoke or always smell faintly of rotting vegetation?",
+    "option_blue": "always smell faintly of campfire smoke",
+    "option_red": "always smell faintly of rotting vegetation",
+    "global_votes_blue": 70,
+    "global_votes_red": 30
+  },
+  {
+    "id": "survival_0165",
+    "question": "Would you rather build a new civilization from scratch or integrate into a pre-existing, strict survival community?",
+    "option_blue": "build a new civilization from scratch",
+    "option_red": "integrate into a pre-existing, strict survival community",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "survival_0166",
+    "question": "Would you rather find a fully stocked bunker that's booby-trapped or find an empty but safe shelter?",
+    "option_blue": "find a fully stocked bunker that's booby-trapped",
+    "option_red": "find an empty but safe shelter",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "survival_0167",
+    "question": "Would you rather always know exactly where you are but be unable to move or wander aimlessly but be able to evade all dangers?",
+    "option_blue": "always know exactly where you are but be unable to move",
+    "option_red": "wander aimlessly but be able to evade all dangers",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "survival_0168",
+    "question": "Would you rather have a fully stocked medical kit but no weapons or have powerful weapons but no medical supplies?",
+    "option_blue": "have a fully stocked medical kit but no weapons",
+    "option_red": "have powerful weapons but no medical supplies",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "survival_0169",
+    "question": "Would you rather have access to unlimited knowledge but no tools or have access to unlimited tools but no knowledge?",
+    "option_blue": "have access to unlimited knowledge but no tools",
+    "option_red": "have access to unlimited tools but no knowledge",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "survival_0170",
+    "question": "Would you rather find a map to a hidden cache, but it's incomplete or receive perfect directions to supplies, but they're bait?",
+    "option_blue": "find a map to a hidden cache, but it's incomplete",
+    "option_red": "receive perfect directions to supplies, but they're bait",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "survival_0171",
+    "question": "Would you rather only eat fermented foods or only eat dried foods?",
+    "option_blue": "only eat fermented foods",
+    "option_red": "only eat dried foods",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "survival_0172",
+    "question": "Would you rather lose your dominant hand in an accident or lose your ability to speak in an accident?",
+    "option_blue": "lose your dominant hand in an accident",
+    "option_red": "lose your ability to speak in an accident",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "survival_0173",
+    "question": "Would you rather always carry a heavy pack with essentials or always travel light but forage constantly?",
+    "option_blue": "always carry a heavy pack with essentials",
+    "option_red": "always travel light but forage constantly",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "survival_0174",
+    "question": "Would you rather have one loyal dog as your only companion or have an entire community that distrusts you?",
+    "option_blue": "have one loyal dog as your only companion",
+    "option_red": "have an entire community that distrusts you",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "survival_0175",
+    "question": "Would you rather be the last person on Earth or be one of five survivors in a hostile world?",
+    "option_blue": "be the last person on Earth",
+    "option_red": "be one of five survivors in a hostile world",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "survival_0176",
+    "question": "Would you rather only drink water collected from morning dew or only eat plants you identify and forage?",
+    "option_blue": "only drink water collected from morning dew",
+    "option_red": "only eat plants you identify and forage",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "survival_0177",
+    "question": "Would you rather build a fire using only friction every time or catch all your food using only a fishing wire?",
+    "option_blue": "build a fire using only friction every time",
+    "option_red": "catch all your food using only a fishing wire",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "survival_0178",
+    "question": "Would you rather only be able to forage for food during the day or only be able to forage for food during the night?",
+    "option_blue": "only be able to forage for food during the day",
+    "option_red": "only be able to forage for food during the night",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  }
+]

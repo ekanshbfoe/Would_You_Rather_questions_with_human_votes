@@ -1,0 +1,1482 @@
+[
+  {
+    "id": "time_travel_0001",
+    "question": "Would you rather watch the Big Bang unfold or watch the end of the universe?",
+    "option_blue": "watch the Big Bang unfold",
+    "option_red": "watch the end of the universe",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "time_travel_0002",
+    "question": "Would you rather spend a week researching in the Library of Alexandria in its prime or spend a week researching in Earth's ultimate future digital archive?",
+    "option_blue": "spend a week researching in the Library of Alexandria in its prime",
+    "option_red": "spend a week researching in Earth's ultimate future digital archive",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "time_travel_0003",
+    "question": "Would you rather relive your favorite day over and over again or relive your most embarrassing day over and over again?",
+    "option_blue": "relive your favorite day over and over again",
+    "option_red": "relive your most embarrassing day over and over again",
+    "global_votes_blue": 94,
+    "global_votes_red": 6
+  },
+  {
+    "id": "time_travel_0004",
+    "question": "Would you rather know the exact date and time of your own death or know the exact date and time of the end of humanity?",
+    "option_blue": "know the exact date and time of your own death",
+    "option_red": "know the exact date and time of the end of humanity",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "time_travel_0005",
+    "question": "Would you rather have the ability to stop time for an hour each day or have the ability to fast-forward time for an hour each day?",
+    "option_blue": "have the ability to stop time for an hour each day",
+    "option_red": "have the ability to fast-forward time for an hour each day",
+    "global_votes_blue": 85,
+    "global_votes_red": 15
+  },
+  {
+    "id": "time_travel_0006",
+    "question": "Would you rather have a perfect memory of all past timelines you've visited or have perfect foresight of all future timelines you could visit?",
+    "option_blue": "have a perfect memory of all past timelines you've visited",
+    "option_red": "have perfect foresight of all future timelines you could visit",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "time_travel_0007",
+    "question": "Would you rather be able to speak to your past self exactly once or be able to speak to your future self exactly once?",
+    "option_blue": "be able to speak to your past self exactly once",
+    "option_red": "be able to speak to your future self exactly once",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "time_travel_0008",
+    "question": "Would you rather witness the birth of the universe or see the end of the universe?",
+    "option_blue": "witness the birth of the universe",
+    "option_red": "see the end of the universe",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "time_travel_0009",
+    "question": "Would you rather have every decision you ever made automatically optimized or know the ultimate outcome of every decision you could ever make?",
+    "option_blue": "have every decision you ever made automatically optimized",
+    "option_red": "know the ultimate outcome of every decision you could ever make",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "time_travel_0010",
+    "question": "Would you rather accidentally erase yourself from existence travelling to the past or become stuck in a time loop, repeating the same day forever?",
+    "option_blue": "accidentally erase yourself from existence travelling to the past",
+    "option_red": "become stuck in a time loop, repeating the same day forever",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "time_travel_0011",
+    "question": "Would you rather know all the secrets of the past or know all the possibilities of the future?",
+    "option_blue": "know all the secrets of the past",
+    "option_red": "know all the possibilities of the future",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "time_travel_0012",
+    "question": "Would you rather see how all your decisions in life could have turned out differently or see how your country's history could have turned out differently?",
+    "option_blue": "see how all your decisions in life could have turned out differently",
+    "option_red": "see how your country's history could have turned out differently",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "time_travel_0013",
+    "question": "Would you rather relive your best memory repeatedly or experience new incredible moments in the future?",
+    "option_blue": "relive your best memory repeatedly",
+    "option_red": "experience new incredible moments in the future",
+    "global_votes_blue": 16,
+    "global_votes_red": 84
+  },
+  {
+    "id": "time_travel_0014",
+    "question": "Would you rather be tasked with correcting historical anomalies or be tasked with preventing future dystopias?",
+    "option_blue": "be tasked with correcting historical anomalies",
+    "option_red": "be tasked with preventing future dystopias",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "time_travel_0015",
+    "question": "Would you rather visit the age of dinosaurs for an hour or visit the end of the universe for an hour?",
+    "option_blue": "visit the age of dinosaurs for an hour",
+    "option_red": "visit the end of the universe for an hour",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "time_travel_0016",
+    "question": "Would you rather prevent the invention of social media or discover a future technology that makes social media obsolete?",
+    "option_blue": "prevent the invention of social media",
+    "option_red": "discover a future technology that makes social media obsolete",
+    "global_votes_blue": 25,
+    "global_votes_red": 75
+  },
+  {
+    "id": "time_travel_0017",
+    "question": "Would you rather prevent a major historical disaster you know will happen or create a new technology that radically improves the future?",
+    "option_blue": "prevent a major historical disaster you know will happen",
+    "option_red": "create a new technology that radically improves the future",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "time_travel_0018",
+    "question": "Would you rather travel to a past where you can meet yourself or travel to a future where you can meet your future self?",
+    "option_blue": "travel to a past where you can meet yourself",
+    "option_red": "travel to a future where you can meet your future self",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "time_travel_0019",
+    "question": "Would you rather know all future lottery numbers for a year or know all past stock market trends for a year?",
+    "option_blue": "know all future lottery numbers for a year",
+    "option_red": "know all past stock market trends for a year",
+    "global_votes_blue": 80,
+    "global_votes_red": 20
+  },
+  {
+    "id": "time_travel_0020",
+    "question": "Would you rather go back and teach Shakespeare modern English or go forward and teach future humans ancient languages?",
+    "option_blue": "go back and teach Shakespeare modern English",
+    "option_red": "go forward and teach future humans ancient languages",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "time_travel_0021",
+    "question": "Would you rather experience childhood again with your current knowledge or experience old age in the future with your current knowledge?",
+    "option_blue": "experience childhood again with your current knowledge",
+    "option_red": "experience old age in the future with your current knowledge",
+    "global_votes_blue": 88,
+    "global_votes_red": 12
+  },
+  {
+    "id": "time_travel_0022",
+    "question": "Would you rather go back and save one endangered species or go forward and discover one new species?",
+    "option_blue": "go back and save one endangered species",
+    "option_red": "go forward and discover one new species",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "time_travel_0023",
+    "question": "Would you rather live in a time where dinosaurs roam the Earth or live in an advanced future where humans live among aliens?",
+    "option_blue": "live in a time where dinosaurs roam the Earth",
+    "option_red": "live in an advanced future where humans live among aliens",
+    "global_votes_blue": 20,
+    "global_votes_red": 80
+  },
+  {
+    "id": "time_travel_0024",
+    "question": "Would you rather have infinite knowledge of the past but no knowledge of the future or have infinite knowledge of the future but no knowledge of the past?",
+    "option_blue": "have infinite knowledge of the past but no knowledge of the future",
+    "option_red": "have infinite knowledge of the future but no knowledge of the past",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "time_travel_0025",
+    "question": "Would you rather save a beloved historical figure from an early death or save a potential future genius from an early death?",
+    "option_blue": "save a beloved historical figure from an early death",
+    "option_red": "save a potential future genius from an early death",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "time_travel_0026",
+    "question": "Would you rather see how the world recovers after a global catastrophe or see the world before humans truly impacted it?",
+    "option_blue": "see how the world recovers after a global catastrophe",
+    "option_red": "see the world before humans truly impacted it",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "time_travel_0027",
+    "question": "Would you rather be able to stop time at will for short periods or be able to rewind time at will for short periods?",
+    "option_blue": "be able to stop time at will for short periods",
+    "option_red": "be able to rewind time at will for short periods",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "time_travel_0028",
+    "question": "Would you rather be the cause of a historical paradox or be the solution to a historical paradox?",
+    "option_blue": "be the cause of a historical paradox",
+    "option_red": "be the solution to a historical paradox",
+    "global_votes_blue": 19,
+    "global_votes_red": 81
+  },
+  {
+    "id": "time_travel_0029",
+    "question": "Would you rather prevent a major historical tragedy from happening or ensure a major scientific breakthrough occurs centuries early?",
+    "option_blue": "prevent a major historical tragedy from happening",
+    "option_red": "ensure a major scientific breakthrough occurs centuries early",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "time_travel_0030",
+    "question": "Would you rather be a time traveler who can only go backward or be a time traveler who can only go forward?",
+    "option_blue": "be a time traveler who can only go backward",
+    "option_red": "be a time traveler who can only go forward",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "time_travel_0031",
+    "question": "Would you rather travel to the future and bring back a game-changing invention or travel to the past and introduce a game-changing idea?",
+    "option_blue": "travel to the future and bring back a game-changing invention",
+    "option_red": "travel to the past and introduce a game-changing idea",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "time_travel_0032",
+    "question": "Would you rather change the outcome of the Titanic disaster or prevent a future global warming catastrophe?",
+    "option_blue": "change the outcome of the Titanic disaster",
+    "option_red": "prevent a future global warming catastrophe",
+    "global_votes_blue": 13,
+    "global_votes_red": 87
+  },
+  {
+    "id": "time_travel_0033",
+    "question": "Would you rather witness Shakespeare's first play or witness a revolutionary new art form in 2500?",
+    "option_blue": "witness Shakespeare's first play",
+    "option_red": "witness a revolutionary new art form in 2500",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "time_travel_0034",
+    "question": "Would you rather experience the dawn of agriculture or experience the dawn of interstellar travel?",
+    "option_blue": "experience the dawn of agriculture",
+    "option_red": "experience the dawn of interstellar travel",
+    "global_votes_blue": 13,
+    "global_votes_red": 87
+  },
+  {
+    "id": "time_travel_0035",
+    "question": "Would you rather meet your biological ancestors from 10,000 years ago or meet your biological descendants from 10,000 years in the future?",
+    "option_blue": "meet your biological ancestors from 10,000 years ago",
+    "option_red": "meet your biological descendants from 10,000 years in the future",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "time_travel_0036",
+    "question": "Would you rather see Earth before any human existence or see Earth after humans have long left it?",
+    "option_blue": "see Earth before any human existence",
+    "option_red": "see Earth after humans have long left it",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "time_travel_0037",
+    "question": "Would you rather go back and prevent an embarrassing moment of yours or go forward and know every embarrassing moment to come?",
+    "option_blue": "go back and prevent an embarrassing moment of yours",
+    "option_red": "go forward and know every embarrassing moment to come",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "time_travel_0038",
+    "question": "Would you rather be revered as a god in the past or be revered as a prophet in the future?",
+    "option_blue": "be revered as a god in the past",
+    "option_red": "be revered as a prophet in the future",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "time_travel_0039",
+    "question": "Would you rather witness the writing of the U.S. Constitution or witness the drafting of a universal galactic constitution?",
+    "option_blue": "witness the writing of the U.S. Constitution",
+    "option_red": "witness the drafting of a universal galactic constitution",
+    "global_votes_blue": 17,
+    "global_votes_red": 83
+  },
+  {
+    "id": "time_travel_0040",
+    "question": "Would you rather travel to a time where humans never existed or travel to a time where humans are long extinct?",
+    "option_blue": "travel to a time where humans never existed",
+    "option_red": "travel to a time where humans are long extinct",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "time_travel_0041",
+    "question": "Would you rather live in a utopian future for one year then return to your present or live in a golden age of ancient history for one year then return?",
+    "option_blue": "live in a utopian future for one year then return to your present",
+    "option_red": "live in a golden age of ancient history for one year then return",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "time_travel_0042",
+    "question": "Would you rather live through the 1920s in Paris or live through the 2220s in a space colony?",
+    "option_blue": "live through the 1920s in Paris",
+    "option_red": "live through the 2220s in a space colony",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "time_travel_0043",
+    "question": "Would you rather be able to communicate with historical figures through a time-phone or be able to communicate with future figures through a time-phone?",
+    "option_blue": "be able to communicate with historical figures through a time-phone",
+    "option_red": "be able to communicate with future figures through a time-phone",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "time_travel_0044",
+    "question": "Would you rather witness a truly pivotal moment in ancient history or witness a truly pivotal moment in humanity's distant future?",
+    "option_blue": "witness a truly pivotal moment in ancient history",
+    "option_red": "witness a truly pivotal moment in humanity's distant future",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "time_travel_0045",
+    "question": "Would you rather be a fly on the wall during major historical negotiations or be a fly on the wall during major future scientific breakthroughs?",
+    "option_blue": "be a fly on the wall during major historical negotiations",
+    "option_red": "be a fly on the wall during major future scientific breakthroughs",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "time_travel_0046",
+    "question": "Would you rather be able to understand and communicate with historical figures or be able to understand and communicate with future beings?",
+    "option_blue": "be able to understand and communicate with historical figures",
+    "option_red": "be able to understand and communicate with future beings",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "time_travel_0047",
+    "question": "Would you rather witness the building of the Great Pyramids or witness the first human colony on Mars?",
+    "option_blue": "witness the building of the Great Pyramids",
+    "option_red": "witness the first human colony on Mars",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "time_travel_0048",
+    "question": "Would you rather be known as the greatest historian of all time or be known as the greatest futurist of all time?",
+    "option_blue": "be known as the greatest historian of all time",
+    "option_red": "be known as the greatest futurist of all time",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "time_travel_0049",
+    "question": "Would you rather live through the Golden Age of Islam or live through the peak of a future space exploration era?",
+    "option_blue": "live through the Golden Age of Islam",
+    "option_red": "live through the peak of a future space exploration era",
+    "global_votes_blue": 18,
+    "global_votes_red": 82
+  },
+  {
+    "id": "time_travel_0050",
+    "question": "Would you rather witness the signing of the Declaration of Independence or witness the signing of a galactic peace treaty?",
+    "option_blue": "witness the signing of the Declaration of Independence",
+    "option_red": "witness the signing of a galactic peace treaty",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "time_travel_0051",
+    "question": "Would you rather bring a modern invention to the past or bring a future invention to the present?",
+    "option_blue": "bring a modern invention to the past",
+    "option_red": "bring a future invention to the present",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "time_travel_0052",
+    "question": "Would you rather have flawless knowledge of all past events or have flawless knowledge of all future events?",
+    "option_blue": "have flawless knowledge of all past events",
+    "option_red": "have flawless knowledge of all future events",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "time_travel_0053",
+    "question": "Would you rather understand every ancient language perfectly or understand every future technology perfectly?",
+    "option_blue": "understand every ancient language perfectly",
+    "option_red": "understand every future technology perfectly",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "time_travel_0054",
+    "question": "Would you rather have a time machine that can only go backward or have a time machine that can only go forward?",
+    "option_blue": "have a time machine that can only go backward",
+    "option_red": "have a time machine that can only go forward",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "time_travel_0055",
+    "question": "Would you rather bring back an extinct animal to the present or bring forward a future animal to the present?",
+    "option_blue": "bring back an extinct animal to the present",
+    "option_red": "bring forward a future animal to the present",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "time_travel_0056",
+    "question": "Would you rather travel to an alternate past where dinosaurs never went extinct or travel to an alternate future where AI rules the world peacefully?",
+    "option_blue": "travel to an alternate past where dinosaurs never went extinct",
+    "option_red": "travel to an alternate future where AI rules the world peacefully",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "time_travel_0057",
+    "question": "Would you rather know the exact date and time of your death or know the exact date and time of humanity's end?",
+    "option_blue": "know the exact date and time of your death",
+    "option_red": "know the exact date and time of humanity's end",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "time_travel_0058",
+    "question": "Would you rather be a ghost haunting your childhood home through its history or be an invisible observer of your future self's life?",
+    "option_blue": "be a ghost haunting your childhood home through its history",
+    "option_red": "be an invisible observer of your future self's life",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "time_travel_0059",
+    "question": "Would you rather live your entire life in slow motion or live your entire life in fast motion?",
+    "option_blue": "live your entire life in slow motion",
+    "option_red": "live your entire life in fast motion",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "time_travel_0060",
+    "question": "Would you rather be a silent observer in any moment of history or be an active participant in any moment of the future?",
+    "option_blue": "be a silent observer in any moment of history",
+    "option_red": "be an active participant in any moment of the future",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "time_travel_0061",
+    "question": "Would you rather witness the discovery of fire by early humans or witness the discovery of faster-than-light travel?",
+    "option_blue": "witness the discovery of fire by early humans",
+    "option_red": "witness the discovery of faster-than-light travel",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "time_travel_0062",
+    "question": "Would you rather visit the moment the universe began or visit the moment the universe ends?",
+    "option_blue": "visit the moment the universe began",
+    "option_red": "visit the moment the universe ends",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "time_travel_0063",
+    "question": "Would you rather experience life as a peasant in medieval times for a year or experience life as a worker on a futuristic space station for a year?",
+    "option_blue": "experience life as a peasant in medieval times for a year",
+    "option_red": "experience life as a worker on a futuristic space station for a year",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "time_travel_0064",
+    "question": "Would you rather relive your best day on repeat for a year or experience your best possible future day once?",
+    "option_blue": "relive your best day on repeat for a year",
+    "option_red": "experience your best possible future day once",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "time_travel_0065",
+    "question": "Would you rather possess a device that can only send you 100 years into the past or possess a device that can only send you 100 years into the future?",
+    "option_blue": "possess a device that can only send you 100 years into the past",
+    "option_red": "possess a device that can only send you 100 years into the future",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "time_travel_0066",
+    "question": "Would you rather be present for the signing of the Declaration of Independence or be present for the first human landing on Mars?",
+    "option_blue": "be present for the signing of the Declaration of Independence",
+    "option_red": "be present for the first human landing on Mars",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  },
+  {
+    "id": "time_travel_0067",
+    "question": "Would you rather have complete control over the speed of your personal aging or have complete control over the speed of the world's aging?",
+    "option_blue": "have complete control over the speed of your personal aging",
+    "option_red": "have complete control over the speed of the world's aging",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "time_travel_0068",
+    "question": "Would you rather have the ability to experience any past event as a ghost or have the ability to experience any future event as a ghost?",
+    "option_blue": "have the ability to experience any past event as a ghost",
+    "option_red": "have the ability to experience any future event as a ghost",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "time_travel_0069",
+    "question": "Would you rather live your life over again from the beginning with all your current memories or live a completely new life in a different historical era?",
+    "option_blue": "live your life over again from the beginning with all your current memories",
+    "option_red": "live a completely new life in a different historical era",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "time_travel_0070",
+    "question": "Would you rather have the ability to stop time permanently for yourself or be able to fast forward through boring parts of your life?",
+    "option_blue": "have the ability to stop time permanently for yourself",
+    "option_red": "be able to fast forward through boring parts of your life",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "time_travel_0071",
+    "question": "Would you rather have the power to instantly rewind small mistakes or have the power to instantly fast-forward boring moments?",
+    "option_blue": "have the power to instantly rewind small mistakes",
+    "option_red": "have the power to instantly fast-forward boring moments",
+    "global_votes_blue": 73,
+    "global_votes_red": 27
+  },
+  {
+    "id": "time_travel_0072",
+    "question": "Would you rather be trapped in the Stone Age or be trapped in a dystopian future?",
+    "option_blue": "be trapped in the Stone Age",
+    "option_red": "be trapped in a dystopian future",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "time_travel_0073",
+    "question": "Would you rather go back in time to change one major historical event or go forward in time to see the world 1000 years from now?",
+    "option_blue": "go back in time to change one major historical event",
+    "option_red": "go forward in time to see the world 1000 years from now",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "time_travel_0074",
+    "question": "Would you rather experience the Roaring Twenties or experience life in a utopian space colony?",
+    "option_blue": "experience the Roaring Twenties",
+    "option_red": "experience life in a utopian space colony",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "time_travel_0075",
+    "question": "Would you rather have a device that predicts the next day's stock market or have a device that tells you the winner of every major historical conflict?",
+    "option_blue": "have a device that predicts the next day's stock market",
+    "option_red": "have a device that tells you the winner of every major historical conflict",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "time_travel_0076",
+    "question": "Would you rather accidently alter the past and create a new timeline or accidently alter the future and erase your existence?",
+    "option_blue": "accidently alter the past and create a new timeline",
+    "option_red": "accidently alter the future and erase your existence",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "time_travel_0077",
+    "question": "Would you rather prevent the Library of Alexandria from burning or discover a lost civilization's knowledge in the future?",
+    "option_blue": "prevent the Library of Alexandria from burning",
+    "option_red": "discover a lost civilization's knowledge in the future",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "time_travel_0078",
+    "question": "Would you rather live 100 years in the past or live 100 years in the future?",
+    "option_blue": "live 100 years in the past",
+    "option_red": "live 100 years in the future",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "time_travel_0079",
+    "question": "Would you rather attend the first Olympic Games or attend the Intergalactic Olympic Games?",
+    "option_blue": "attend the first Olympic Games",
+    "option_red": "attend the Intergalactic Olympic Games",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "time_travel_0080",
+    "question": "Would you rather spend a day with a historical figure you admire or spend a day with your great-great-grandchildren?",
+    "option_blue": "spend a day with a historical figure you admire",
+    "option_red": "spend a day with your great-great-grandchildren",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "time_travel_0081",
+    "question": "Would you rather live forever by traveling through time without aging or live a normal life span but experience every century for a day?",
+    "option_blue": "live forever by traveling through time without aging",
+    "option_red": "live a normal life span but experience every century for a day",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "time_travel_0082",
+    "question": "Would you rather visit the library of Alexandria before its destruction or visit the galactic archive in the far future?",
+    "option_blue": "visit the library of Alexandria before its destruction",
+    "option_red": "visit the galactic archive in the far future",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "time_travel_0083",
+    "question": "Would you rather observe the lives of prehistoric hominids or observe the lives of a post-human species?",
+    "option_blue": "observe the lives of prehistoric hominids",
+    "option_red": "observe the lives of a post-human species",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "time_travel_0084",
+    "question": "Would you rather correct a critical mistake made by a historical leader or inspire a future leader to make a groundbreaking decision?",
+    "option_blue": "correct a critical mistake made by a historical leader",
+    "option_red": "inspire a future leader to make a groundbreaking decision",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "time_travel_0085",
+    "question": "Would you rather witness the building of Stonehenge or witness the construction of a Dyson Sphere?",
+    "option_blue": "witness the building of Stonehenge",
+    "option_red": "witness the construction of a Dyson Sphere",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "time_travel_0086",
+    "question": "Would you rather prevent the Titanic from sinking or prevent a major asteroid collision in the future?",
+    "option_blue": "prevent the Titanic from sinking",
+    "option_red": "prevent a major asteroid collision in the future",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "time_travel_0087",
+    "question": "Would you rather go back in time to meet your parents as children or go forward in time to meet your great-grandchildren as adults?",
+    "option_blue": "go back in time to meet your parents as children",
+    "option_red": "go forward in time to meet your great-grandchildren as adults",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "time_travel_0088",
+    "question": "Would you rather have conversations with historical figures before they gain fame or have conversations with future icons before they achieve greatness?",
+    "option_blue": "have conversations with historical figures before they gain fame",
+    "option_red": "have conversations with future icons before they achieve greatness",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "time_travel_0089",
+    "question": "Would you rather go back and give your younger self winning lottery numbers or travel to the future and steal technology that doesn't exist yet?",
+    "option_blue": "go back and give your younger self winning lottery numbers",
+    "option_red": "travel to the future and steal technology that doesn't exist yet",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "time_travel_0090",
+    "question": "Would you rather live in a timeline where magic exists but technology is stagnant or live in a timeline where technology is hyper-advanced but magic is a myth?",
+    "option_blue": "live in a timeline where magic exists but technology is stagnant",
+    "option_red": "live in a timeline where technology is hyper-advanced but magic is a myth",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "time_travel_0091",
+    "question": "Would you rather have a history book that updates with every time travel change or have a future prediction book that updates with every present action?",
+    "option_blue": "have a history book that updates with every time travel change",
+    "option_red": "have a future prediction book that updates with every present action",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "time_travel_0092",
+    "question": "Would you rather bring a modern invention back to ancient Rome or bring an ancient artifact from a lost civilization to the present?",
+    "option_blue": "bring a modern invention back to ancient Rome",
+    "option_red": "bring an ancient artifact from a lost civilization to the present",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "time_travel_0093",
+    "question": "Would you rather be able to visit any historical period for one day or be able to visit any future period for one day?",
+    "option_blue": "be able to visit any historical period for one day",
+    "option_red": "be able to visit any future period for one day",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "time_travel_0094",
+    "question": "Would you rather accidentally erase yourself from existence by changing the past or accidentally create a dystopian future by changing the future?",
+    "option_blue": "accidentally erase yourself from existence by changing the past",
+    "option_red": "accidentally create a dystopian future by changing the future",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "time_travel_0095",
+    "question": "Would you rather mess up the timeline unintentionally and cause chaos or be forced to meticulously fix minor historical anomalies forever?",
+    "option_blue": "mess up the timeline unintentionally and cause chaos",
+    "option_red": "be forced to meticulously fix minor historical anomalies forever",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "time_travel_0096",
+    "question": "Would you rather prevent a major historical disaster but create a new one or watch history unfold as it did, knowing you could have changed it?",
+    "option_blue": "prevent a major historical disaster but create a new one",
+    "option_red": "watch history unfold as it did, knowing you could have changed it",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "time_travel_0097",
+    "question": "Would you rather have only bad memories erased or have only good memories enhanced?",
+    "option_blue": "have only bad memories erased",
+    "option_red": "have only good memories enhanced",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "time_travel_0098",
+    "question": "Would you rather witness the eruption of Mount Vesuvius in Pompeii or witness the terraforming of Mars?",
+    "option_blue": "witness the eruption of Mount Vesuvius in Pompeii",
+    "option_red": "witness the terraforming of Mars",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "time_travel_0099",
+    "question": "Would you rather travel back to solve a famous historical mystery or travel forward to solve a pressing future mystery?",
+    "option_blue": "travel back to solve a famous historical mystery",
+    "option_red": "travel forward to solve a pressing future mystery",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "time_travel_0100",
+    "question": "Would you rather experience dinosaur-era Earth for one day or experience deep space exploration for one day?",
+    "option_blue": "experience dinosaur-era Earth for one day",
+    "option_red": "experience deep space exploration for one day",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "time_travel_0101",
+    "question": "Would you rather become an unsung hero in a past revolution or become a famous inventor in a future society?",
+    "option_blue": "become an unsung hero in a past revolution",
+    "option_red": "become a famous inventor in a future society",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "time_travel_0102",
+    "question": "Would you rather be stranded in the past with no way back to the present or be stranded in the future with no way back to the present?",
+    "option_blue": "be stranded in the past with no way back to the present",
+    "option_red": "be stranded in the future with no way back to the present",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "time_travel_0103",
+    "question": "Would you rather stop Hitler from rising to power or prevent a global pandemic in the next century?",
+    "option_blue": "stop Hitler from rising to power",
+    "option_red": "prevent a global pandemic in the next century",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "time_travel_0104",
+    "question": "Would you rather go back and witness any historical event or go forward and see your own future?",
+    "option_blue": "go back and witness any historical event",
+    "option_red": "go forward and see your own future",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "time_travel_0105",
+    "question": "Would you rather spend a day as a king in medieval times or spend a day as a leader of a space outpost?",
+    "option_blue": "spend a day as a king in medieval times",
+    "option_red": "spend a day as a leader of a space outpost",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "time_travel_0106",
+    "question": "Would you rather experience the building of every wonder of the ancient world or experience the building of every wonder of the future world?",
+    "option_blue": "experience the building of every wonder of the ancient world",
+    "option_red": "experience the building of every wonder of the future world",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "time_travel_0107",
+    "question": "Would you rather restart your life from a chosen point with all your current memories or see the entire trajectory of your future life instantly?",
+    "option_blue": "restart your life from a chosen point with all your current memories",
+    "option_red": "see the entire trajectory of your future life instantly",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "time_travel_0108",
+    "question": "Would you rather understand every ancient language instantly or understand every future technology instantly?",
+    "option_blue": "understand every ancient language instantly",
+    "option_red": "understand every future technology instantly",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "time_travel_0109",
+    "question": "Would you rather change your own past to avoid one major regret or change the collective past to make one global improvement?",
+    "option_blue": "change your own past to avoid one major regret",
+    "option_red": "change the collective past to make one global improvement",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "time_travel_0110",
+    "question": "Would you rather experience the birth of democracy in ancient Greece or experience the establishment of a universal human government?",
+    "option_blue": "experience the birth of democracy in ancient Greece",
+    "option_red": "experience the establishment of a universal human government",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "time_travel_0111",
+    "question": "Would you rather live for 1,000 years in the past or live for 1,000 years in the future?",
+    "option_blue": "live for 1,000 years in the past",
+    "option_red": "live for 1,000 years in the future",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "time_travel_0112",
+    "question": "Would you rather witness the construction of the Great Pyramids or witness the first human colony on Mars?",
+    "option_blue": "witness the construction of the Great Pyramids",
+    "option_red": "witness the first human colony on Mars",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "time_travel_0113",
+    "question": "Would you rather be famous in the past but forgotten in the present or be unknown in the past but celebrated in the future?",
+    "option_blue": "be famous in the past but forgotten in the present",
+    "option_red": "be unknown in the past but celebrated in the future",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "time_travel_0114",
+    "question": "Would you rather observe the extinction of the dinosaurs firsthand or observe the end of humanity from a safe distance in the future?",
+    "option_blue": "observe the extinction of the dinosaurs firsthand",
+    "option_red": "observe the end of humanity from a safe distance in the future",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "time_travel_0115",
+    "question": "Would you rather experience a major historical battle firsthand from a safe distance or experience the first contact with an alien civilization from a safe distance?",
+    "option_blue": "experience a major historical battle firsthand from a safe distance",
+    "option_red": "experience the first contact with an alien civilization from a safe distance",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "time_travel_0116",
+    "question": "Would you rather correct all historical inaccuracies in textbooks or predict all future scientific breakthroughs accurately?",
+    "option_blue": "correct all historical inaccuracies in textbooks",
+    "option_red": "predict all future scientific breakthroughs accurately",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "time_travel_0117",
+    "question": "Would you rather go back in time to change one major historical event or go to the future to see the outcome of one global crisis?",
+    "option_blue": "go back in time to change one major historical event",
+    "option_red": "go to the future to see the outcome of one global crisis",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "time_travel_0118",
+    "question": "Would you rather experience the dawn of human civilization or experience the peak of human evolution?",
+    "option_blue": "experience the dawn of human civilization",
+    "option_red": "experience the peak of human evolution",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "time_travel_0119",
+    "question": "Would you rather go back and live your life again with all your current knowledge or go forward and live a new life with an entirely new future?",
+    "option_blue": "go back and live your life again with all your current knowledge",
+    "option_red": "go forward and live a new life with an entirely new future",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "time_travel_0120",
+    "question": "Would you rather remember every dream you've ever had or predict every dream you will ever have?",
+    "option_blue": "remember every dream you've ever had",
+    "option_red": "predict every dream you will ever have",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "time_travel_0121",
+    "question": "Would you rather have your timeline branch into infinite possibilities with every choice you make or have a fixed, unchangeable timeline that predetermines your destiny?",
+    "option_blue": "have your timeline branch into infinite possibilities with every choice you make",
+    "option_red": "have a fixed, unchangeable timeline that predetermines your destiny",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "time_travel_0122",
+    "question": "Would you rather go back and prevent a major historical disaster or go forward and solve a major future crisis?",
+    "option_blue": "go back and prevent a major historical disaster",
+    "option_red": "go forward and solve a major future crisis",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "time_travel_0123",
+    "question": "Would you rather be able to send messages to the past or be able to receive messages from the future?",
+    "option_blue": "be able to send messages to the past",
+    "option_red": "be able to receive messages from the future",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "time_travel_0124",
+    "question": "Would you rather travel back to fix a personal regret or travel forward to avoid a predicted personal disaster?",
+    "option_blue": "travel back to fix a personal regret",
+    "option_red": "travel forward to avoid a predicted personal disaster",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "time_travel_0125",
+    "question": "Would you rather be forced to choose the exact moment you die or be forced to choose the exact year humanity ends?",
+    "option_blue": "be forced to choose the exact moment you die",
+    "option_red": "be forced to choose the exact year humanity ends",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "time_travel_0126",
+    "question": "Would you rather have perfect memory of every second lived or be able to perfectly foresee your next five minutes?",
+    "option_blue": "have perfect memory of every second lived",
+    "option_red": "be able to perfectly foresee your next five minutes",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "time_travel_0127",
+    "question": "Would you rather relive your favorite day infinitely or fast-forward through all your boring days?",
+    "option_blue": "relive your favorite day infinitely",
+    "option_red": "fast-forward through all your boring days",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "time_travel_0128",
+    "question": "Would you rather have conversations with famous historical figures or have conversations with famous future figures?",
+    "option_blue": "have conversations with famous historical figures",
+    "option_red": "have conversations with famous future figures",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "time_travel_0129",
+    "question": "Would you rather travel to a past where magic is real or travel to a future where super abilities are common?",
+    "option_blue": "travel to a past where magic is real",
+    "option_red": "travel to a future where super abilities are common",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "time_travel_0130",
+    "question": "Would you rather meet your great-great-grandparents or meet your great-great-grandchildren?",
+    "option_blue": "meet your great-great-grandparents",
+    "option_red": "meet your great-great-grandchildren",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "time_travel_0131",
+    "question": "Would you rather attend the signing of the Declaration of Independence or attend the signing of a galactic peace treaty?",
+    "option_blue": "attend the signing of the Declaration of Independence",
+    "option_red": "attend the signing of a galactic peace treaty",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "time_travel_0132",
+    "question": "Would you rather be immortal but only able to move forward in time or be immortal but only able to move backward in time?",
+    "option_blue": "be immortal but only able to move forward in time",
+    "option_red": "be immortal but only able to move backward in time",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "time_travel_0133",
+    "question": "Would you rather live in an alternate past where dinosaurs never died out or live in an alternate future where humans never left Earth?",
+    "option_blue": "live in an alternate past where dinosaurs never died out",
+    "option_red": "live in an alternate future where humans never left Earth",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "time_travel_0134",
+    "question": "Would you rather go back to witness the construction of the pyramids or travel to the future to see humanity colonize another planet?",
+    "option_blue": "go back to witness the construction of the pyramids",
+    "option_red": "travel to the future to see humanity colonize another planet",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "time_travel_0135",
+    "question": "Would you rather live through the entire Renaissance period or live through a period of 500 years in the far future?",
+    "option_blue": "live through the entire Renaissance period",
+    "option_red": "live through a period of 500 years in the far future",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "time_travel_0136",
+    "question": "Would you rather have a perfect memory of every past event in your life or have a perfect foresight of every future event in your life?",
+    "option_blue": "have a perfect memory of every past event in your life",
+    "option_red": "have a perfect foresight of every future event in your life",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "time_travel_0137",
+    "question": "Would you rather live for 1000 years in the past or live for 1000 years in the future?",
+    "option_blue": "live for 1000 years in the past",
+    "option_red": "live for 1000 years in the future",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "time_travel_0138",
+    "question": "Would you rather be stuck in a time loop of your last birthday or be stuck in a time loop of a random Tuesday 10 years ago?",
+    "option_blue": "be stuck in a time loop of your last birthday",
+    "option_red": "be stuck in a time loop of a random Tuesday 10 years ago",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "time_travel_0139",
+    "question": "Would you rather have the ability to pause time at will or have the ability to fast forward time at will?",
+    "option_blue": "have the ability to pause time at will",
+    "option_red": "have the ability to fast forward time at will",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "time_travel_0140",
+    "question": "Would you rather undo all wars and conflicts from a single century in the past or prevent all wars and conflicts from a single century in the future?",
+    "option_blue": "undo all wars and conflicts from a single century in the past",
+    "option_red": "prevent all wars and conflicts from a single century in the future",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "time_travel_0141",
+    "question": "Would you rather have a time-travel machine that only works once or have a time-travel machine that works unlimited times but only 1 minute at a time?",
+    "option_blue": "have a time-travel machine that only works once",
+    "option_red": "have a time-travel machine that works unlimited times but only 1 minute at a time",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "time_travel_0142",
+    "question": "Would you rather have a time-traveling pet or have a time-traveling vehicle?",
+    "option_blue": "have a time-traveling pet",
+    "option_red": "have a time-traveling vehicle",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "time_travel_0143",
+    "question": "Would you rather eat a meal with Leonardo da Vinci or eat a meal with the first human to live for 500 years?",
+    "option_blue": "eat a meal with Leonardo da Vinci",
+    "option_red": "eat a meal with the first human to live for 500 years",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "time_travel_0144",
+    "question": "Would you rather prevent the invention of one highly destructive weapon or introduce one highly beneficial technology early?",
+    "option_blue": "prevent the invention of one highly destructive weapon",
+    "option_red": "introduce one highly beneficial technology early",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "time_travel_0145",
+    "question": "Would you rather experience pivotal moments in human evolution firsthand or experience pivotal moments in extraterrestrial discovery firsthand?",
+    "option_blue": "experience pivotal moments in human evolution firsthand",
+    "option_red": "experience pivotal moments in extraterrestrial discovery firsthand",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "time_travel_0146",
+    "question": "Would you rather be the hidden influence behind a major past invention or be the hidden influence behind a major future discovery?",
+    "option_blue": "be the hidden influence behind a major past invention",
+    "option_red": "be the hidden influence behind a major future discovery",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "time_travel_0147",
+    "question": "Would you rather change one major decision a historical leader made or change one major invention that occurred in history?",
+    "option_blue": "change one major decision a historical leader made",
+    "option_red": "change one major invention that occurred in history",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "time_travel_0148",
+    "question": "Would you rather be able to undo one mistake from your past or be able to know all the consequences of one future choice?",
+    "option_blue": "be able to undo one mistake from your past",
+    "option_red": "be able to know all the consequences of one future choice",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "time_travel_0149",
+    "question": "Would you rather have a device that shows you short clips of your own past or have a device that shows you short clips of your own future?",
+    "option_blue": "have a device that shows you short clips of your own past",
+    "option_red": "have a device that shows you short clips of your own future",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "time_travel_0150",
+    "question": "Would you rather be able to bring a historical person to the present or be able to send a contemporary person to the past?",
+    "option_blue": "be able to bring a historical person to the present",
+    "option_red": "be able to send a contemporary person to the past",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "time_travel_0151",
+    "question": "Would you rather travel to the past and meet your ancestors or travel to the future and meet your descendants?",
+    "option_blue": "travel to the past and meet your ancestors",
+    "option_red": "travel to the future and meet your descendants",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "time_travel_0152",
+    "question": "Would you rather witness the daily life of a Roman citizen or witness the daily life of a Martian colonist?",
+    "option_blue": "witness the daily life of a Roman citizen",
+    "option_red": "witness the daily life of a Martian colonist",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "time_travel_0153",
+    "question": "Would you rather experience the invention of the wheel in person or experience the invention of teleportation in person?",
+    "option_blue": "experience the invention of the wheel in person",
+    "option_red": "experience the invention of teleportation in person",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "time_travel_0154",
+    "question": "Would you rather witness the birth of a star or witness the death of a galaxy?",
+    "option_blue": "witness the birth of a star",
+    "option_red": "witness the death of a galaxy",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "time_travel_0155",
+    "question": "Would you rather meet a famous historical figure and change their fate or meet a famous future figure and influence their rise to power?",
+    "option_blue": "meet a famous historical figure and change their fate",
+    "option_red": "meet a famous future figure and influence their rise to power",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "time_travel_0156",
+    "question": "Would you rather be able to time travel but only to watch, never interact or be able to time travel but only interact minimally and with severe consequences?",
+    "option_blue": "be able to time travel but only to watch, never interact",
+    "option_red": "be able to time travel but only interact minimally and with severe consequences",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "time_travel_0157",
+    "question": "Would you rather travel to the past but lose all your modern knowledge or travel to the future but be unable to interact with anything?",
+    "option_blue": "travel to the past but lose all your modern knowledge",
+    "option_red": "travel to the future but be unable to interact with anything",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "time_travel_0158",
+    "question": "Would you rather live for a month in a truly primitive human society or live for a month in a post-human advanced society?",
+    "option_blue": "live for a month in a truly primitive human society",
+    "option_red": "live for a month in a post-human advanced society",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "time_travel_0159",
+    "question": "Would you rather be a silent observer of historical events or be an active participant in future historical events?",
+    "option_blue": "be a silent observer of historical events",
+    "option_red": "be an active participant in future historical events",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "time_travel_0160",
+    "question": "Would you rather see how a historical figure's life would have been different with modern medicine or see how your life would be different with future technology?",
+    "option_blue": "see how a historical figure's life would have been different with modern medicine",
+    "option_red": "see how your life would be different with future technology",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "time_travel_0161",
+    "question": "Would you rather know the exact date and circumstances of your death or know the exact date and circumstances of humanity's downfall?",
+    "option_blue": "know the exact date and circumstances of your death",
+    "option_red": "know the exact date and circumstances of humanity's downfall",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "time_travel_0162",
+    "question": "Would you rather have a magical hourglass that can reverse time by an hour or have a magical compass that can show you future locations?",
+    "option_blue": "have a magical hourglass that can reverse time by an hour",
+    "option_red": "have a magical compass that can show you future locations",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "time_travel_0163",
+    "question": "Would you rather learn the true history of all ancient myths or learn the true future of all modern prophecies?",
+    "option_blue": "learn the true history of all ancient myths",
+    "option_red": "learn the true future of all modern prophecies",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "time_travel_0164",
+    "question": "Would you rather talk to Isaac Newton about physics or talk to the inventor of time travel about its mechanics?",
+    "option_blue": "talk to Isaac Newton about physics",
+    "option_red": "talk to the inventor of time travel about its mechanics",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "time_travel_0165",
+    "question": "Would you rather spend a year in the past without modern technology or spend a year in the future relying solely on future tech?",
+    "option_blue": "spend a year in the past without modern technology",
+    "option_red": "spend a year in the future relying solely on future tech",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "time_travel_0166",
+    "question": "Would you rather become a time-traveling detective solving historical mysteries or become a time-traveling explorer discovering lost future civilizations?",
+    "option_blue": "become a time-traveling detective solving historical mysteries",
+    "option_red": "become a time-traveling explorer discovering lost future civilizations",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "time_travel_0167",
+    "question": "Would you rather spend a week in Ancient Rome or spend a week in a utopian future city?",
+    "option_blue": "spend a week in Ancient Rome",
+    "option_red": "spend a week in a utopian future city",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "time_travel_0168",
+    "question": "Would you rather never be able to relive good memories or never be able to forget bad memories?",
+    "option_blue": "never be able to relive good memories",
+    "option_red": "never be able to forget bad memories",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "time_travel_0169",
+    "question": "Would you rather experience a major natural disaster from the past safely or experience a future technological singularity safely?",
+    "option_blue": "experience a major natural disaster from the past safely",
+    "option_red": "experience a future technological singularity safely",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "time_travel_0170",
+    "question": "Would you rather travel to the past but never be able to return to your present or travel to the future but never be able to return to your present?",
+    "option_blue": "travel to the past but never be able to return to your present",
+    "option_red": "travel to the future but never be able to return to your present",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "time_travel_0171",
+    "question": "Would you rather be able to communicate with your past self or be able to communicate with your future self?",
+    "option_blue": "be able to communicate with your past self",
+    "option_red": "be able to communicate with your future self",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "time_travel_0172",
+    "question": "Would you rather learn the true causes of all ancient mysteries or learn the true solutions to all future crises?",
+    "option_blue": "learn the true causes of all ancient mysteries",
+    "option_red": "learn the true solutions to all future crises",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "time_travel_0173",
+    "question": "Would you rather live during the age of steam engines and early industry or live during an age of widespread artificial intelligence and automation?",
+    "option_blue": "live during the age of steam engines and early industry",
+    "option_red": "live during an age of widespread artificial intelligence and automation",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "time_travel_0174",
+    "question": "Would you rather travel to an empty past Earth before human existence or travel to an empty future Earth after human extinction?",
+    "option_blue": "travel to an empty past Earth before human existence",
+    "option_red": "travel to an empty future Earth after human extinction",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "time_travel_0175",
+    "question": "Would you rather spend a decade living in the 1960s or spend a decade living in the 22nd century?",
+    "option_blue": "spend a decade living in the 1960s",
+    "option_red": "spend a decade living in the 22nd century",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "time_travel_0176",
+    "question": "Would you rather change one small decision that had huge historical ripple effects or change one small decision that will have huge future ripple effects?",
+    "option_blue": "change one small decision that had huge historical ripple effects",
+    "option_red": "change one small decision that will have huge future ripple effects",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "time_travel_0177",
+    "question": "Would you rather read the original writings of every major historical philosopher or read the ground-breaking thoughts of every major future philosopher?",
+    "option_blue": "read the original writings of every major historical philosopher",
+    "option_red": "read the ground-breaking thoughts of every major future philosopher",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "time_travel_0178",
+    "question": "Would you rather live through the 1920s Jazz Age or live through the development of warp drive in the future?",
+    "option_blue": "live through the 1920s Jazz Age",
+    "option_red": "live through the development of warp drive in the future",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "time_travel_0179",
+    "question": "Would you rather experience one day in ancient Rome or experience one day in a futuristic city on another planet?",
+    "option_blue": "experience one day in ancient Rome",
+    "option_red": "experience one day in a futuristic city on another planet",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "time_travel_0180",
+    "question": "Would you rather witness artistic masterpieces being created by their original artists or witness entirely new forms of art being created in the distant future?",
+    "option_blue": "witness artistic masterpieces being created by their original artists",
+    "option_red": "witness entirely new forms of art being created in the distant future",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "time_travel_0181",
+    "question": "Would you rather be able to change one small event in your personal past or be able to see one major event in humanity's future?",
+    "option_blue": "be able to change one small event in your personal past",
+    "option_red": "be able to see one major event in humanity's future",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "time_travel_0182",
+    "question": "Would you rather be able to communicate with ancestors or be able to communicate with descendants?",
+    "option_blue": "be able to communicate with ancestors",
+    "option_red": "be able to communicate with descendants",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "time_travel_0183",
+    "question": "Would you rather be able to rewind a single conversation to say the perfect thing or be able to fast-forward through all awkward social interactions?",
+    "option_blue": "be able to rewind a single conversation to say the perfect thing",
+    "option_red": "be able to fast-forward through all awkward social interactions",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "time_travel_0184",
+    "question": "Would you rather read all books ever written up to 1900 or read all books that will be written from 2000 onwards?",
+    "option_blue": "read all books ever written up to 1900",
+    "option_red": "read all books that will be written from 2000 onwards",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "time_travel_0185",
+    "question": "Would you rather be stuck in a time loop of one perfect day or be stuck constantly traveling to random moments in time?",
+    "option_blue": "be stuck in a time loop of one perfect day",
+    "option_red": "be stuck constantly traveling to random moments in time",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  }
+]

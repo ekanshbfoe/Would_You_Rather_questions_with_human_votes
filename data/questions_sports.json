@@ -1,0 +1,498 @@
+[
+  {
+    "id": "sports_0001",
+    "question": "Would you rather always start but get subbed out early or always come off the bench and make an impact late?",
+    "option_blue": "always start but get subbed out early",
+    "option_red": "always come off the bench and make an impact late",
+    "global_votes_blue": 11,
+    "global_votes_red": 89
+  },
+  {
+    "id": "sports_0002",
+    "question": "Would you rather have to wear a ridiculous uniform for every game or have to sing your national anthem off-key before every game?",
+    "option_blue": "have to wear a ridiculous uniform for every game",
+    "option_red": "have to sing your national anthem off-key before every game",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "sports_0003",
+    "question": "Would you rather be a feared competitor or be a beloved teammate?",
+    "option_blue": "be a feared competitor",
+    "option_red": "be a beloved teammate",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "sports_0004",
+    "question": "Would you rather have a perfect record but no style or have incredible style but a losing record?",
+    "option_blue": "have a perfect record but no style",
+    "option_red": "have incredible style but a losing record",
+    "global_votes_blue": 74,
+    "global_votes_red": 26
+  },
+  {
+    "id": "sports_0005",
+    "question": "Would you rather be celebrated for your sportsmanship even in defeat or be remembered only for your competitive ferocity in victory?",
+    "option_blue": "be celebrated for your sportsmanship even in defeat",
+    "option_red": "be remembered only for your competitive ferocity in victory",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "sports_0006",
+    "question": "Would you rather be the last pick on a championship team or be the first pick on a last-place team?",
+    "option_blue": "be the last pick on a championship team",
+    "option_red": "be the first pick on a last-place team",
+    "global_votes_blue": 66,
+    "global_votes_red": 34
+  },
+  {
+    "id": "sports_0007",
+    "question": "Would you rather have a signature move named after you or have a popular sports chant dedicated to you?",
+    "option_blue": "have a signature move named after you",
+    "option_red": "have a popular sports chant dedicated to you",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "sports_0008",
+    "question": "Would you rather retire undefeated but young or have a long career with many ups and downs?",
+    "option_blue": "retire undefeated but young",
+    "option_red": "have a long career with many ups and downs",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "sports_0009",
+    "question": "Would you rather end your career on a dramatic win or end your career on a dominant season?",
+    "option_blue": "end your career on a dramatic win",
+    "option_red": "end your career on a dominant season",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "sports_0010",
+    "question": "Would you rather always play against significantly superior opponents or always play against significantly inferior opponents?",
+    "option_blue": "always play against significantly superior opponents",
+    "option_red": "always play against significantly inferior opponents",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "sports_0011",
+    "question": "Would you rather have every piece of sports equipment you own be self-cleaning or never have to stretch or warm up before playing sports?",
+    "option_blue": "have every piece of sports equipment you own be self-cleaning",
+    "option_red": "never have to stretch or warm up before playing sports",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "sports_0012",
+    "question": "Would you rather play against your sports idol and beat them easily or play alongside your sports idol and lose together?",
+    "option_blue": "play against your sports idol and beat them easily",
+    "option_red": "play alongside your sports idol and lose together",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "sports_0013",
+    "question": "Would you rather only be able to practice your sport or only be able to compete in your sport?",
+    "option_blue": "only be able to practice your sport",
+    "option_red": "only be able to compete in your sport",
+    "global_votes_blue": 26,
+    "global_votes_red": 74
+  },
+  {
+    "id": "sports_0014",
+    "question": "Would you rather never feel pain during competition or never get tired during competition?",
+    "option_blue": "never feel pain during competition",
+    "option_red": "never get tired during competition",
+    "global_votes_blue": 22,
+    "global_votes_red": 78
+  },
+  {
+    "id": "sports_0015",
+    "question": "Would you rather always perform perfectly in practice but poorly in games or always perform poorly in practice but perfectly in games?",
+    "option_blue": "always perform perfectly in practice but poorly in games",
+    "option_red": "always perform poorly in practice but perfectly in games",
+    "global_votes_blue": 5,
+    "global_votes_red": 95
+  },
+  {
+    "id": "sports_0016",
+    "question": "Would you rather always know the opponent's next move or always execute your moves perfectly?",
+    "option_blue": "always know the opponent's next move",
+    "option_red": "always execute your moves perfectly",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "sports_0017",
+    "question": "Would you rather have to coach children with no talent or have to coach professional athletes with terrible attitudes?",
+    "option_blue": "have to coach children with no talent",
+    "option_red": "have to coach professional athletes with terrible attitudes",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "sports_0018",
+    "question": "Would you rather be an unstoppable force in offense but terrible at defense or be an impenetrable defender but unable to score?",
+    "option_blue": "be an unstoppable force in offense but terrible at defense",
+    "option_red": "be an impenetrable defender but unable to score",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "sports_0019",
+    "question": "Would you rather play on a team where everyone is a superstar or play on a team where you are the only superstar?",
+    "option_blue": "play on a team where everyone is a superstar",
+    "option_red": "play on a team where you are the only superstar",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "sports_0020",
+    "question": "Would you rather win an Olympic gold medal but never compete again or compete professionally for 20 years but never win a major title?",
+    "option_blue": "win an Olympic gold medal but never compete again",
+    "option_red": "compete professionally for 20 years but never win a major title",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "sports_0021",
+    "question": "Would you rather win a championship by a fluke play or lose a championship due to an unfair call?",
+    "option_blue": "win a championship by a fluke play",
+    "option_red": "lose a championship due to an unfair call",
+    "global_votes_blue": 74,
+    "global_votes_red": 26
+  },
+  {
+    "id": "sports_0022",
+    "question": "Would you rather train intensely every day for a year with guaranteed improvement or never train but occasionally have bursts of superhuman athletic ability?",
+    "option_blue": "train intensely every day for a year with guaranteed improvement",
+    "option_red": "never train but occasionally have bursts of superhuman athletic ability",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "sports_0023",
+    "question": "Would you rather be the captain of a losing team or be a role player on a winning team?",
+    "option_blue": "be the captain of a losing team",
+    "option_red": "be a role player on a winning team",
+    "global_votes_blue": 13,
+    "global_votes_red": 87
+  },
+  {
+    "id": "sports_0024",
+    "question": "Would you rather always have perfect sports equipment or always have perfect training conditions?",
+    "option_blue": "always have perfect sports equipment",
+    "option_red": "always have perfect training conditions",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "sports_0025",
+    "question": "Would you rather compete in a sport where you are the only human or compete in a sport where everyone else is an alien?",
+    "option_blue": "compete in a sport where you are the only human",
+    "option_red": "compete in a sport where everyone else is an alien",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "sports_0026",
+    "question": "Would you rather be able to understand every sports statistic perfectly or be able to predict the outcome of any game?",
+    "option_blue": "be able to understand every sports statistic perfectly",
+    "option_red": "be able to predict the outcome of any game",
+    "global_votes_blue": 26,
+    "global_votes_red": 74
+  },
+  {
+    "id": "sports_0027",
+    "question": "Would you rather always perform perfectly in practice or always perform perfectly in games?",
+    "option_blue": "always perform perfectly in practice",
+    "option_red": "always perform perfectly in games",
+    "global_votes_blue": 5,
+    "global_votes_red": 95
+  },
+  {
+    "id": "sports_0028",
+    "question": "Would you rather have a sports arena named after you or have a signature move named after you?",
+    "option_blue": "have a sports arena named after you",
+    "option_red": "have a signature move named after you",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "sports_0029",
+    "question": "Would you rather have your every sports moment broadcast live or have your every sports moment analyzed by experts?",
+    "option_blue": "have your every sports moment broadcast live",
+    "option_red": "have your every sports moment analyzed by experts",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "sports_0030",
+    "question": "Would you rather win the lottery for $100 million or win a world championship in your favorite sport?",
+    "option_blue": "win the lottery for $100 million",
+    "option_red": "win a world championship in your favorite sport",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "sports_0031",
+    "question": "Would you rather have peak athletic performance for 5 years or have slightly above average performance for 20 years?",
+    "option_blue": "have peak athletic performance for 5 years",
+    "option_red": "have slightly above average performance for 20 years",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "sports_0032",
+    "question": "Would you rather have incredible hand-eye coordination or have incredible footwork and balance?",
+    "option_blue": "have incredible hand-eye coordination",
+    "option_red": "have incredible footwork and balance",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "sports_0033",
+    "question": "Would you rather be a powerful and dominant athlete or be a graceful and artful athlete?",
+    "option_blue": "be a powerful and dominant athlete",
+    "option_red": "be a graceful and artful athlete",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "sports_0034",
+    "question": "Would you rather be able to perfectly execute any trick shot or play once per game or be consistently good at basic fundamentals every game?",
+    "option_blue": "be able to perfectly execute any trick shot or play once per game",
+    "option_red": "be consistently good at basic fundamentals every game",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "sports_0035",
+    "question": "Would you rather have every sports fan support your opposing team or have no fans at all during your games?",
+    "option_blue": "have every sports fan support your opposing team",
+    "option_red": "have no fans at all during your games",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "sports_0036",
+    "question": "Would you rather compete in every Summer Olympic sport or compete in every Winter Olympic sport?",
+    "option_blue": "compete in every Summer Olympic sport",
+    "option_red": "compete in every Winter Olympic sport",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "sports_0037",
+    "question": "Would you rather always perform flawlessly in practice but poorly in games or always perform poorly in practice but flawlessly in games?",
+    "option_blue": "always perform flawlessly in practice but poorly in games",
+    "option_red": "always perform poorly in practice but flawlessly in games",
+    "global_votes_blue": 9,
+    "global_votes_red": 91
+  },
+  {
+    "id": "sports_0038",
+    "question": "Would you rather only ever watch sports live at the stadium or only ever watch sports on a giant HD screen at home?",
+    "option_blue": "only ever watch sports live at the stadium",
+    "option_red": "only ever watch sports on a giant HD screen at home",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "sports_0039",
+    "question": "Would you rather be known for one incredible, viral play you made years ago or have a consistently good but unremarkable long career?",
+    "option_blue": "be known for one incredible, viral play you made years ago",
+    "option_red": "have a consistently good but unremarkable long career",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "sports_0040",
+    "question": "Would you rather lose every game but have fun or win every game but hate playing?",
+    "option_blue": "lose every game but have fun",
+    "option_red": "win every game but hate playing",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "sports_0041",
+    "question": "Would you rather be a mediocre player on a championship team or be the best player on a constantly losing team?",
+    "option_blue": "be a mediocre player on a championship team",
+    "option_red": "be the best player on a constantly losing team",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "sports_0042",
+    "question": "Would you rather play every game in extreme heat or play every game in extreme cold?",
+    "option_blue": "play every game in extreme heat",
+    "option_red": "play every game in extreme cold",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "sports_0043",
+    "question": "Would you rather be the fastest swimmer in the world or be the fastest runner in the world?",
+    "option_blue": "be the fastest swimmer in the world",
+    "option_red": "be the fastest runner in the world",
+    "global_votes_blue": 17,
+    "global_votes_red": 83
+  },
+  {
+    "id": "sports_0044",
+    "question": "Would you rather spend your entire life training for one major competition or effortlessly excel at every sport you try without training?",
+    "option_blue": "spend your entire life training for one major competition",
+    "option_red": "effortlessly excel at every sport you try without training",
+    "global_votes_blue": 26,
+    "global_votes_red": 74
+  },
+  {
+    "id": "sports_0045",
+    "question": "Would you rather only wear uncomfortable but performance-enhancing gear or only wear comfortable but standard gear?",
+    "option_blue": "only wear uncomfortable but performance-enhancing gear",
+    "option_red": "only wear comfortable but standard gear",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "sports_0046",
+    "question": "Would you rather have superhuman speed but struggle with endurance or have superhuman endurance but run at an average speed?",
+    "option_blue": "have superhuman speed but struggle with endurance",
+    "option_red": "have superhuman endurance but run at an average speed",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "sports_0047",
+    "question": "Would you rather have perfect agility and balance or have incredible strength and endurance?",
+    "option_blue": "have perfect agility and balance",
+    "option_red": "have incredible strength and endurance",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "sports_0048",
+    "question": "Would you rather play a professional sport for free or get paid millions to be a perennial benchwarmer?",
+    "option_blue": "play a professional sport for free",
+    "option_red": "get paid millions to be a perennial benchwarmer",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "sports_0049",
+    "question": "Would you rather be an unheard-of prodigy that retires young due to injury or have a long, respectable career but never reach peak performance?",
+    "option_blue": "be an unheard-of prodigy that retires young due to injury",
+    "option_red": "have a long, respectable career but never reach peak performance",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "sports_0050",
+    "question": "Would you rather play in every game of a championship season but always on the bench or be a star player but miss the championship due to injury?",
+    "option_blue": "play in every game of a championship season but always on the bench",
+    "option_red": "be a star player but miss the championship due to injury",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "sports_0051",
+    "question": "Would you rather only ever play individual sports or only ever play team sports?",
+    "option_blue": "only ever play individual sports",
+    "option_red": "only ever play team sports",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "sports_0052",
+    "question": "Would you rather have a sports arena named after you or have a universally beloved sports drink named after you?",
+    "option_blue": "have a sports arena named after you",
+    "option_red": "have a universally beloved sports drink named after you",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "sports_0053",
+    "question": "Would you rather win an Olympic gold medal but never compete again or compete professionally for 20 years without winning a major championship?",
+    "option_blue": "win an Olympic gold medal but never compete again",
+    "option_red": "compete professionally for 20 years without winning a major championship",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "sports_0054",
+    "question": "Would you rather compete with a permanent physical handicap or compete with a major mental block?",
+    "option_blue": "compete with a permanent physical handicap",
+    "option_red": "compete with a major mental block",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "sports_0055",
+    "question": "Would you rather be able to fly during sports for short bursts or be able to teleport short distances during sports?",
+    "option_blue": "be able to fly during sports for short bursts",
+    "option_red": "be able to teleport short distances during sports",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "sports_0056",
+    "question": "Would you rather compete exclusively in extreme endurance sports or compete exclusively in high-risk adrenaline sports?",
+    "option_blue": "compete exclusively in extreme endurance sports",
+    "option_red": "compete exclusively in high-risk adrenaline sports",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "sports_0057",
+    "question": "Would you rather travel the world playing your favorite sport professionally or become a legendary coach for your favorite sport in your hometown?",
+    "option_blue": "travel the world playing your favorite sport professionally",
+    "option_red": "become a legendary coach for your favorite sport in your hometown",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "sports_0058",
+    "question": "Would you rather only be able to play sports in extreme weather or only be able to play sports at night?",
+    "option_blue": "only be able to play sports in extreme weather",
+    "option_red": "only be able to play sports at night",
+    "global_votes_blue": 22,
+    "global_votes_red": 78
+  },
+  {
+    "id": "sports_0059",
+    "question": "Would you rather play under the brightest stadium lights or play in complete silence with full crowd attention?",
+    "option_blue": "play under the brightest stadium lights",
+    "option_red": "play in complete silence with full crowd attention",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "sports_0060",
+    "question": "Would you rather have your team win a championship but you contributed nothing or lose a close championship game where you played perfectly?",
+    "option_blue": "have your team win a championship but you contributed nothing",
+    "option_red": "lose a close championship game where you played perfectly",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "sports_0061",
+    "question": "Would you rather have your team win by a very small margin or have your team win by a huge margin?",
+    "option_blue": "have your team win by a very small margin",
+    "option_red": "have your team win by a huge margin",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "sports_0062",
+    "question": "Would you rather win a minor league championship every year or win one major league championship in your career?",
+    "option_blue": "win a minor league championship every year",
+    "option_red": "win one major league championship in your career",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  }
+]

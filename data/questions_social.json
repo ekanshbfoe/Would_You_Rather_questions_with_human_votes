@@ -1,0 +1,1450 @@
+[
+  {
+    "id": "social_0001",
+    "question": "Would you rather have your parents join all your social media apps or have your first crush see all your old embarrassing posts?",
+    "option_blue": "have your parents join all your social media apps",
+    "option_red": "have your first crush see all your old embarrassing posts",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "social_0002",
+    "question": "Would you rather always have your voice crack when speaking publicly or always stutter uncontrollably when speaking publicly?",
+    "option_blue": "always have your voice crack when speaking publicly",
+    "option_red": "always stutter uncontrollably when speaking publicly",
+    "global_votes_blue": 72,
+    "global_votes_red": 28
+  },
+  {
+    "id": "social_0003",
+    "question": "Would you rather be accidentally included in a group chat about you or accidentally start a group chat with a sensitive topic by mistake?",
+    "option_blue": "be accidentally included in a group chat about you",
+    "option_red": "accidentally start a group chat with a sensitive topic by mistake",
+    "global_votes_blue": 73,
+    "global_votes_red": 27
+  },
+  {
+    "id": "social_0004",
+    "question": "Would you rather have your voice crack repeatedly during a presentation or have your stomach growl loudly during a silent exam?",
+    "option_blue": "have your voice crack repeatedly during a presentation",
+    "option_red": "have your stomach growl loudly during a silent exam",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "social_0005",
+    "question": "Would you rather be the only person who doesn't understand a popular meme or be the only person who doesn't know a popular song?",
+    "option_blue": "be the only person who doesn't understand a popular meme",
+    "option_red": "be the only person who doesn't know a popular song",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "social_0006",
+    "question": "Would you rather mispronounce a common word in front of a group of academics or wear an outfit you thought was stylish only to find out it's a social faux pas?",
+    "option_blue": "mispronounce a common word in front of a group of academics",
+    "option_red": "wear an outfit you thought was stylish only to find out it's a social faux pas",
+    "global_votes_blue": 69,
+    "global_votes_red": 31
+  },
+  {
+    "id": "social_0007",
+    "question": "Would you rather wear mismatched socks to a job interview or wear stained clothes to a first date?",
+    "option_blue": "wear mismatched socks to a job interview",
+    "option_red": "wear stained clothes to a first date",
+    "global_votes_blue": 88,
+    "global_votes_red": 12
+  },
+  {
+    "id": "social_0008",
+    "question": "Would you rather have an embarrassing autocorrect happen during a job interview via text or have your phone ring loudly with a ridiculous ringtone during a solemn ceremony?",
+    "option_blue": "have an embarrassing autocorrect happen during a job interview via text",
+    "option_red": "have your phone ring loudly with a ridiculous ringtone during a solemn ceremony",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "social_0009",
+    "question": "Would you rather have your most embarrassing text accidentally sent to your boss or have your most embarrassing photo accidentally posted by your mom on Facebook?",
+    "option_blue": "have your most embarrassing text accidentally sent to your boss",
+    "option_red": "have your most embarrassing photo accidentally posted by your mom on Facebook",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "social_0010",
+    "question": "Would you rather be unable to stop smiling at a funeral or be unable to stop frowning at a wedding?",
+    "option_blue": "be unable to stop smiling at a funeral",
+    "option_red": "be unable to stop frowning at a wedding",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "social_0011",
+    "question": "Would you rather wear mismatched shoes to an important event or wear your clothes inside out to a social gathering?",
+    "option_blue": "wear mismatched shoes to an important event",
+    "option_red": "wear your clothes inside out to a social gathering",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "social_0012",
+    "question": "Would you rather accidentally like an influencer's very old post and get noticed or accidentally DM an influencer something meant for a friend?",
+    "option_blue": "accidentally like an influencer's very old post and get noticed",
+    "option_red": "accidentally DM an influencer something meant for a friend",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "social_0013",
+    "question": "Would you rather go to a party wearing the exact same outfit as someone else or go to a party wearing something completely inappropriate for the theme?",
+    "option_blue": "go to a party wearing the exact same outfit as someone else",
+    "option_red": "go to a party wearing something completely inappropriate for the theme",
+    "global_votes_blue": 87,
+    "global_votes_red": 13
+  },
+  {
+    "id": "social_0014",
+    "question": "Would you rather talk to someone for five minutes before realizing it's not who you thought or wave excitedly at someone who was not waving back at you?",
+    "option_blue": "talk to someone for five minutes before realizing it's not who you thought",
+    "option_red": "wave excitedly at someone who was not waving back at you",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "social_0015",
+    "question": "Would you rather accidentally leave a negative online review meant for a different business or accidentally reply to a work email with a personal disgruntled message?",
+    "option_blue": "accidentally leave a negative online review meant for a different business",
+    "option_red": "accidentally reply to a work email with a personal disgruntled message",
+    "global_votes_blue": 80,
+    "global_votes_red": 20
+  },
+  {
+    "id": "social_0016",
+    "question": "Would you rather be the subject of a meme for a minor social blunder or witness a friend's major social blunder and not be able to help?",
+    "option_blue": "be the subject of a meme for a minor social blunder",
+    "option_red": "witness a friend's major social blunder and not be able to help",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "social_0017",
+    "question": "Would you rather have every social media post you make receive zero likes or have every social media post you make receive only hate comments?",
+    "option_blue": "have every social media post you make receive zero likes",
+    "option_red": "have every social media post you make receive only hate comments",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "social_0018",
+    "question": "Would you rather be asked to leave a public place for being too loud or be asked to leave a public place for being too quiet and suspicious?",
+    "option_blue": "be asked to leave a public place for being too loud",
+    "option_red": "be asked to leave a public place for being too quiet and suspicious",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "social_0019",
+    "question": "Would you rather have your fly open all day without realizing it or wear your shirt inside out all day without realizing it?",
+    "option_blue": "have your fly open all day without realizing it",
+    "option_red": "wear your shirt inside out all day without realizing it",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "social_0020",
+    "question": "Would you rather have a very noticeable sweat stain in an important meeting or have your stomach growl extremely loudly in a quiet class?",
+    "option_blue": "have a very noticeable sweat stain in an important meeting",
+    "option_red": "have your stomach growl extremely loudly in a quiet class",
+    "global_votes_blue": 20,
+    "global_votes_red": 80
+  },
+  {
+    "id": "social_0021",
+    "question": "Would you rather be caught talking to yourself loudly in public or be caught picking your nose in a public place by someone you know?",
+    "option_blue": "be caught talking to yourself loudly in public",
+    "option_red": "be caught picking your nose in a public place by someone you know",
+    "global_votes_blue": 76,
+    "global_votes_red": 24
+  },
+  {
+    "id": "social_0022",
+    "question": "Would you rather spill a drink on a stranger at a fancy restaurant or spill food on yourself during a first date?",
+    "option_blue": "spill a drink on a stranger at a fancy restaurant",
+    "option_red": "spill food on yourself during a first date",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "social_0023",
+    "question": "Would you rather be forced to give an impromptu speech on a random topic or be forced to perform a karaoke song in front of strangers?",
+    "option_blue": "be forced to give an impromptu speech on a random topic",
+    "option_red": "be forced to perform a karaoke song in front of strangers",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "social_0024",
+    "question": "Would you rather forget your wallet when trying to pay for dinner with friends or forget your friend's birthday even after they reminded you?",
+    "option_blue": "forget your wallet when trying to pay for dinner with friends",
+    "option_red": "forget your friend's birthday even after they reminded you",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "social_0025",
+    "question": "Would you rather be stuck sharing a tiny table with strangers at a restaurant or be stuck in a crowded elevator with awkward silence?",
+    "option_blue": "be stuck sharing a tiny table with strangers at a restaurant",
+    "option_red": "be stuck in a crowded elevator with awkward silence",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "social_0026",
+    "question": "Would you rather be unfollowed by all of your closest friends or be followed by all of your exes on social media?",
+    "option_blue": "be unfollowed by all of your closest friends",
+    "option_red": "be followed by all of your exes on social media",
+    "global_votes_blue": 18,
+    "global_votes_red": 82
+  },
+  {
+    "id": "social_0027",
+    "question": "Would you rather have a public argument with a stranger or have a public argument with a friend?",
+    "option_blue": "have a public argument with a stranger",
+    "option_red": "have a public argument with a friend",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "social_0028",
+    "question": "Would you rather struggle to open a door in front of a queue of people or struggle to pay for something with change while people wait impatiently?",
+    "option_blue": "struggle to open a door in front of a queue of people",
+    "option_red": "struggle to pay for something with change while people wait impatiently",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "social_0029",
+    "question": "Would you rather be forced to clap enthusiastically for a bad performance or be forced to give a standing ovation for a bad performance?",
+    "option_blue": "be forced to clap enthusiastically for a bad performance",
+    "option_red": "be forced to give a standing ovation for a bad performance",
+    "global_votes_blue": 81,
+    "global_votes_red": 19
+  },
+  {
+    "id": "social_0030",
+    "question": "Would you rather accidentally call your teacher 'mom' or 'dad' or fart loudly in a silent, packed elevator?",
+    "option_blue": "accidentally call your teacher 'mom' or 'dad'",
+    "option_red": "fart loudly in a silent, packed elevator",
+    "global_votes_blue": 82,
+    "global_votes_red": 18
+  },
+  {
+    "id": "social_0031",
+    "question": "Would you rather have your phone ring loudly with an embarrassing ringtone in a quiet place or accidentally put your foot in your mouth during a formal dinner?",
+    "option_blue": "have your phone ring loudly with an embarrassing ringtone in a quiet place",
+    "option_red": "accidentally put your foot in your mouth during a formal dinner",
+    "global_votes_blue": 77,
+    "global_votes_red": 23
+  },
+  {
+    "id": "social_0032",
+    "question": "Would you rather always be seen talking to yourself by passersby or always be seen making strange faces at inanimate objects by passersby?",
+    "option_blue": "always be seen talking to yourself by passersby",
+    "option_red": "always be seen making strange faces at inanimate objects by passersby",
+    "global_votes_blue": 70,
+    "global_votes_red": 30
+  },
+  {
+    "id": "social_0033",
+    "question": "Would you rather always be introduced incorrectly by a friend or always forget how you were introduced to someone immediately?",
+    "option_blue": "always be introduced incorrectly by a friend",
+    "option_red": "always forget how you were introduced to someone immediately",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "social_0034",
+    "question": "Would you rather have your phone die in the middle of an important conversation or have your personal conversation accidentally broadcast over a loudspeaker?",
+    "option_blue": "have your phone die in the middle of an important conversation",
+    "option_red": "have your personal conversation accidentally broadcast over a loudspeaker",
+    "global_votes_blue": 76,
+    "global_votes_red": 24
+  },
+  {
+    "id": "social_0035",
+    "question": "Would you rather get food stuck in your beard or hair in every meal or get food on your clothes in every meal?",
+    "option_blue": "get food stuck in your beard or hair in every meal",
+    "option_red": "get food on your clothes in every meal",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "social_0036",
+    "question": "Would you rather make a very bad joke that no one laughs at or tell a very bad story that no one understands?",
+    "option_blue": "make a very bad joke that no one laughs at",
+    "option_red": "tell a very bad story that no one understands",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "social_0037",
+    "question": "Would you rather have your phone auto-correct all your texts to gibberish or have your phone automatically post embarrassing selfies every hour?",
+    "option_blue": "have your phone auto-correct all your texts to gibberish",
+    "option_red": "have your phone automatically post embarrassing selfies every hour",
+    "global_votes_blue": 82,
+    "global_votes_red": 18
+  },
+  {
+    "id": "social_0038",
+    "question": "Would you rather mispronounce a common word in front of a sophisticated crowd or use an outdated slang term that nobody understands?",
+    "option_blue": "mispronounce a common word in front of a sophisticated crowd",
+    "option_red": "use an outdated slang term that nobody understands",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "social_0039",
+    "question": "Would you rather be known for always saying the wrong thing at the wrong time or be known for always doing the wrong thing at the wrong time?",
+    "option_blue": "be known for always saying the wrong thing at the wrong time",
+    "option_red": "be known for always doing the wrong thing at the wrong time",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "social_0040",
+    "question": "Would you rather always be called 'honey' or 'sweetie' by strangers or always be called a completely made-up, silly nickname by strangers?",
+    "option_blue": "always be called 'honey' or 'sweetie' by strangers",
+    "option_red": "always be called a completely made-up, silly nickname by strangers",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "social_0041",
+    "question": "Would you rather talk for 5 minutes with food in your teeth or talk for 5 minutes with a piece of toilet paper stuck to your shoe?",
+    "option_blue": "talk for 5 minutes with food in your teeth",
+    "option_red": "talk for 5 minutes with a piece of toilet paper stuck to your shoe",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "social_0042",
+    "question": "Would you rather forget your wallet every time you go out with friends or forget your phone every time you go out with friends?",
+    "option_blue": "forget your wallet every time you go out with friends",
+    "option_red": "forget your phone every time you go out with friends",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "social_0043",
+    "question": "Would you rather have your parent comment something embarrassing on your social media or have your child create an embarrassing video of you for social media?",
+    "option_blue": "have your parent comment something embarrassing on your social media",
+    "option_red": "have your child create an embarrassing video of you for social media",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "social_0044",
+    "question": "Would you rather accidentally send a text intended for your partner to your boss or accidentally send a text intended for your boss to your partner?",
+    "option_blue": "accidentally send a text intended for your partner to your boss",
+    "option_red": "accidentally send a text intended for your boss to your partner",
+    "global_votes_blue": 13,
+    "global_votes_red": 87
+  },
+  {
+    "id": "social_0045",
+    "question": "Would you rather accidentally send a text meant for your partner to your parent or accidentally send a text meant for your parent to your partner?",
+    "option_blue": "accidentally send a text meant for your partner to your parent",
+    "option_red": "accidentally send a text meant for your parent to your partner",
+    "global_votes_blue": 13,
+    "global_votes_red": 87
+  },
+  {
+    "id": "social_0046",
+    "question": "Would you rather be left on read by a crush for days or be ghosted by a new friend you thought you connected with?",
+    "option_blue": "be left on read by a crush for days",
+    "option_red": "be ghosted by a new friend you thought you connected with",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "social_0047",
+    "question": "Would you rather be forced to give an impromptu speech in front of a big crowd or be forced to sing karaoke alone in front of a big crowd?",
+    "option_blue": "be forced to give an impromptu speech in front of a big crowd",
+    "option_red": "be forced to sing karaoke alone in front of a big crowd",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "social_0048",
+    "question": "Would you rather accidentally leave your mic on during a loud private conversation or accidentally leave your camera on during an embarrassing private moment?",
+    "option_blue": "accidentally leave your mic on during a loud private conversation",
+    "option_red": "accidentally leave your camera on during an embarrassing private moment",
+    "global_votes_blue": 72,
+    "global_votes_red": 28
+  },
+  {
+    "id": "social_0049",
+    "question": "Would you rather accidentally walk out of a public changing room without fully dressing or accidentally fall asleep and snore loudly during a public lecture?",
+    "option_blue": "accidentally walk out of a public changing room without fully dressing",
+    "option_red": "accidentally fall asleep and snore loudly during a public lecture",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "social_0050",
+    "question": "Would you rather show up to an event dressed entirely inappropriately or show up to an event realizing you're at the wrong event entirely?",
+    "option_blue": "show up to an event dressed entirely inappropriately",
+    "option_red": "show up to an event realizing you're at the wrong event entirely",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "social_0051",
+    "question": "Would you rather have your most awkward childhood photo become a viral meme or have a video of you making a silly mistake in public go viral?",
+    "option_blue": "have your most awkward childhood photo become a viral meme",
+    "option_red": "have a video of you making a silly mistake in public go viral",
+    "global_votes_blue": 66,
+    "global_votes_red": 34
+  },
+  {
+    "id": "social_0052",
+    "question": "Would you rather show up to a formal event in pajamas or show up to a casual event in a full tuxedo/gown?",
+    "option_blue": "show up to a formal event in pajamas",
+    "option_red": "show up to a casual event in a full tuxedo/gown",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "social_0053",
+    "question": "Would you rather accidentally hug a stranger instead of your friend or accidentally wave enthusiastically at a stranger you thought you knew?",
+    "option_blue": "accidentally hug a stranger instead of your friend",
+    "option_red": "accidentally wave enthusiastically at a stranger you thought you knew",
+    "global_votes_blue": 25,
+    "global_votes_red": 75
+  },
+  {
+    "id": "social_0054",
+    "question": "Would you rather accidentally join a very strange online community or accidentally livestream yourself doing something very boring?",
+    "option_blue": "accidentally join a very strange online community",
+    "option_red": "accidentally livestream yourself doing something very boring",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "social_0055",
+    "question": "Would you rather laugh at an inappropriate moment at a funeral or yawn widely during a wedding ceremony?",
+    "option_blue": "laugh at an inappropriate moment at a funeral",
+    "option_red": "yawn widely during a wedding ceremony",
+    "global_votes_blue": 20,
+    "global_votes_red": 80
+  },
+  {
+    "id": "social_0056",
+    "question": "Would you rather be mistaken for someone else who is notorious for bad behavior or be mistaken for someone else who is highly attractive but then disappoint upon closer inspection?",
+    "option_blue": "be mistaken for someone else who is notorious for bad behavior",
+    "option_red": "be mistaken for someone else who is highly attractive but then disappoint upon closer inspection",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "social_0057",
+    "question": "Would you rather accidentally butt-dial someone important while having a very private conversation or accidentally record yourself saying something embarrassing and sharing it?",
+    "option_blue": "accidentally butt-dial someone important while having a very private conversation",
+    "option_red": "accidentally record yourself saying something embarrassing and sharing it",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "social_0058",
+    "question": "Would you rather accidentally call your teacher 'mom' or 'dad' or have your phone auto-correct a serious message to something inappropriate in a group chat?",
+    "option_blue": "accidentally call your teacher 'mom' or 'dad'",
+    "option_red": "have your phone auto-correct a serious message to something inappropriate in a group chat",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "social_0059",
+    "question": "Would you rather laugh at an inappropriate moment during a serious conversation or fart loudly in a crowded elevator?",
+    "option_blue": "laugh at an inappropriate moment during a serious conversation",
+    "option_red": "fart loudly in a crowded elevator",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "social_0060",
+    "question": "Would you rather realize you've been talking into a muted microphone during a video call or realize your camera was on when you thought it was off during a video call?",
+    "option_blue": "realize you've been talking into a muted microphone during a video call",
+    "option_red": "realize your camera was on when you thought it was off during a video call",
+    "global_votes_blue": 77,
+    "global_votes_red": 23
+  },
+  {
+    "id": "social_0061",
+    "question": "Would you rather have your most embarrassing memory projected into someone else's mind or have someone else's most embarrassing memory projected into your mind?",
+    "option_blue": "have your most embarrassing memory projected into someone else's mind",
+    "option_red": "have someone else's most embarrassing memory projected into your mind",
+    "global_votes_blue": 22,
+    "global_votes_red": 78
+  },
+  {
+    "id": "social_0062",
+    "question": "Would you rather spill a drink on a celebrity you admire or trip and fall in front of a large crowd of strangers?",
+    "option_blue": "spill a drink on a celebrity you admire",
+    "option_red": "trip and fall in front of a large crowd of strangers",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "social_0063",
+    "question": "Would you rather get a public comment mistaken for an inside joke or make an inside joke that no one else gets?",
+    "option_blue": "get a public comment mistaken for an inside joke",
+    "option_red": "make an inside joke that no one else gets",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "social_0064",
+    "question": "Would you rather accidentally walk onto a stage during a performance or accidentally interrupt a live broadcast interview?",
+    "option_blue": "accidentally walk onto a stage during a performance",
+    "option_red": "accidentally interrupt a live broadcast interview",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "social_0065",
+    "question": "Would you rather loudly pass gas in a quiet elevator or sneeze uncontrollably and loudly during a formal speech?",
+    "option_blue": "loudly pass gas in a quiet elevator",
+    "option_red": "sneeze uncontrollably and loudly during a formal speech",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "social_0066",
+    "question": "Would you rather be featured in a viral video doing something slightly awkward without realizing it or be recognized in public for a minor embarrassing event from your past?",
+    "option_blue": "be featured in a viral video doing something slightly awkward without realizing it",
+    "option_red": "be recognized in public for a minor embarrassing event from your past",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "social_0067",
+    "question": "Would you rather reply to a group text meant for one person or start talking and realize everyone else was silent listening to you?",
+    "option_blue": "reply to a group text meant for one person",
+    "option_red": "start talking and realize everyone else was silent listening to you",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "social_0068",
+    "question": "Would you rather accidentally walk into the wrong bathroom or accidentally call your teacher 'mom/dad'?",
+    "option_blue": "accidentally walk into the wrong bathroom",
+    "option_red": "accidentally call your teacher 'mom/dad'",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "social_0069",
+    "question": "Would you rather accidentally post a story meant for close friends to all followers on Instagram or accidentally go live on social media without realizing it?",
+    "option_blue": "accidentally post a story meant for close friends to all followers on Instagram",
+    "option_red": "accidentally go live on social media without realizing it",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "social_0070",
+    "question": "Would you rather have your phone auto-correct 'love' to 'live' in a romantic text or have your phone auto-correct 'friend' to 'fiend' in a friendly text?",
+    "option_blue": "have your phone auto-correct 'love' to 'live' in a romantic text",
+    "option_red": "have your phone auto-correct 'friend' to 'fiend' in a friendly text",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "social_0071",
+    "question": "Would you rather accidentally reply to a group chat with a personal message or accidentally start a new group chat for a very personal message?",
+    "option_blue": "accidentally reply to a group chat with a personal message",
+    "option_red": "accidentally start a new group chat for a very personal message",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "social_0072",
+    "question": "Would you rather spill coffee on your boss during a presentation or accidentally send a personal text to the company-wide chat?",
+    "option_blue": "spill coffee on your boss during a presentation",
+    "option_red": "accidentally send a personal text to the company-wide chat",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "social_0073",
+    "question": "Would you rather always smell faintly of garlic no matter what or always smell faintly of wet dog no matter what?",
+    "option_blue": "always smell faintly of garlic no matter what",
+    "option_red": "always smell faintly of wet dog no matter what",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "social_0074",
+    "question": "Would you rather tell a long, boring story that nobody finds interesting or constantly interrupt people while they are telling a story?",
+    "option_blue": "tell a long, boring story that nobody finds interesting",
+    "option_red": "constantly interrupt people while they are telling a story",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "social_0075",
+    "question": "Would you rather have your phone autocorrect a serious text to something ridiculous or accidentally post a very private thought on a public social media feed?",
+    "option_blue": "have your phone autocorrect a serious text to something ridiculous",
+    "option_red": "accidentally post a very private thought on a public social media feed",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "social_0076",
+    "question": "Would you rather be unable to stop burping during an important conversation or be unable to stop hiccuping during an important presentation?",
+    "option_blue": "be unable to stop burping during an important conversation",
+    "option_red": "be unable to stop hiccuping during an important presentation",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "social_0077",
+    "question": "Would you rather have your most embarrassing moment caught on security camera or have your most embarrassing moment caught on a friend's phone?",
+    "option_blue": "have your most embarrassing moment caught on security camera",
+    "option_red": "have your most embarrassing moment caught on a friend's phone",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "social_0078",
+    "question": "Would you rather have your voice crack every time you speak for a day or stutter uncontrollably every time you speak for a day?",
+    "option_blue": "have your voice crack every time you speak for a day",
+    "option_red": "stutter uncontrollably every time you speak for a day",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "social_0079",
+    "question": "Would you rather have a really awkward handshake with everyone you meet or have a really awkward hug with everyone you meet?",
+    "option_blue": "have a really awkward handshake with everyone you meet",
+    "option_red": "have a really awkward hug with everyone you meet",
+    "global_votes_blue": 66,
+    "global_votes_red": 34
+  },
+  {
+    "id": "social_0080",
+    "question": "Would you rather be mistaken for someone famous and act like them or be mistaken for someone famous and vigorously deny it?",
+    "option_blue": "be mistaken for someone famous and act like them",
+    "option_red": "be mistaken for someone famous and vigorously deny it",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "social_0081",
+    "question": "Would you rather have all your posts on social media be sarcastic or have all your posts on social media be overly enthusiastic?",
+    "option_blue": "have all your posts on social media be sarcastic",
+    "option_red": "have all your posts on social media be overly enthusiastic",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "social_0082",
+    "question": "Would you rather accidentally reveal a spoiler for a popular show to someone who hasn't seen it or accidentally send a private message meant for one person to a large group chat?",
+    "option_blue": "accidentally reveal a spoiler for a popular show to someone who hasn't seen it",
+    "option_red": "accidentally send a private message meant for one person to a large group chat",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "social_0083",
+    "question": "Would you rather accidentally interrupt someone making an important announcement or accidentally wave enthusiastically at someone who is not waving at you?",
+    "option_blue": "accidentally interrupt someone making an important announcement",
+    "option_red": "accidentally wave enthusiastically at someone who is not waving at you",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "social_0084",
+    "question": "Would you rather show up to a formal event in casual clothes or show up to a casual event in formal clothes?",
+    "option_blue": "show up to a formal event in casual clothes",
+    "option_red": "show up to a casual event in formal clothes",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "social_0085",
+    "question": "Would you rather show up to a party wearing the exact same outfit as the host or show up to a party wearing a costume when no one else is?",
+    "option_blue": "show up to a party wearing the exact same outfit as the host",
+    "option_red": "show up to a party wearing a costume when no one else is",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "social_0086",
+    "question": "Would you rather have your most embarrassing childhood photo go viral or have your most awkward teen diary entry read on live TV?",
+    "option_blue": "have your most embarrassing childhood photo go viral",
+    "option_red": "have your most awkward teen diary entry read on live TV",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "social_0087",
+    "question": "Would you rather be unable to stop yawning during an important conversation or be unable to stop hiccuping during an important conversation?",
+    "option_blue": "be unable to stop yawning during an important conversation",
+    "option_red": "be unable to stop hiccuping during an important conversation",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "social_0088",
+    "question": "Would you rather start laughing uncontrollably during a serious meeting or cry uncontrollably during a joyous celebration?",
+    "option_blue": "start laughing uncontrollably during a serious meeting",
+    "option_red": "cry uncontrollably during a joyous celebration",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "social_0089",
+    "question": "Would you rather accidentally post a photo of yourself sleeping on social media or accidentally post a video of yourself singing badly on social media?",
+    "option_blue": "accidentally post a photo of yourself sleeping on social media",
+    "option_red": "accidentally post a video of yourself singing badly on social media",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "social_0090",
+    "question": "Would you rather have everyone hum a tune you've been singing badly all day or have everyone imitate a unique laugh you have?",
+    "option_blue": "have everyone hum a tune you've been singing badly all day",
+    "option_red": "have everyone imitate a unique laugh you have",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "social_0091",
+    "question": "Would you rather forget someone's name right after they introduce themselves to you or be introduced to someone you've already met multiple times and not remember them?",
+    "option_blue": "forget someone's name right after they introduce themselves to you",
+    "option_red": "be introduced to someone you've already met multiple times and not remember them",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "social_0092",
+    "question": "Would you rather have bad breath during an important job interview or have food stuck in your teeth during an important job interview?",
+    "option_blue": "have bad breath during an important job interview",
+    "option_red": "have food stuck in your teeth during an important job interview",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "social_0093",
+    "question": "Would you rather have everyone humiliate you gently online or have one person humiliate you severely in person?",
+    "option_blue": "have everyone humiliate you gently online",
+    "option_red": "have one person humiliate you severely in person",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "social_0094",
+    "question": "Would you rather be mistaken for someone much older or much younger than you are or be mistaken for a completely different gender than your own?",
+    "option_blue": "be mistaken for someone much older or much younger than you are",
+    "option_red": "be mistaken for a completely different gender than your own",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "social_0095",
+    "question": "Would you rather have your phone ring loudly during a quiet moment in public or have your phone go off with a weird notification sound in public?",
+    "option_blue": "have your phone ring loudly during a quiet moment in public",
+    "option_red": "have your phone go off with a weird notification sound in public",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "social_0096",
+    "question": "Would you rather accidentally send a screenshot of a private conversation to one of the people in the conversation or accidentally tag the wrong person in an intimate photo?",
+    "option_blue": "accidentally send a screenshot of a private conversation to one of the people in the conversation",
+    "option_red": "accidentally tag the wrong person in an intimate photo",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "social_0097",
+    "question": "Would you rather accidentally use a filter on a video call that makes you look ridiculous or accidentally share your screen with a highly embarrassing tab open during a work meeting?",
+    "option_blue": "accidentally use a filter on a video call that makes you look ridiculous",
+    "option_red": "accidentally share your screen with a highly embarrassing tab open during a work meeting",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "social_0098",
+    "question": "Would you rather post something embarrassing that gets zero likes or post something generic that gets thousands of likes?",
+    "option_blue": "post something embarrassing that gets zero likes",
+    "option_red": "post something generic that gets thousands of likes",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "social_0099",
+    "question": "Would you rather get makeup on someone's white shirt when hugging them or get lipstick on your teeth and talk to everyone all night?",
+    "option_blue": "get makeup on someone's white shirt when hugging them",
+    "option_red": "get lipstick on your teeth and talk to everyone all night",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "social_0100",
+    "question": "Would you rather have your most awkward high school photo go viral or have your private journal entries read aloud at a public event?",
+    "option_blue": "have your most awkward high school photo go viral",
+    "option_red": "have your private journal entries read aloud at a public event",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "social_0101",
+    "question": "Would you rather have everyone know what you think of them or have everyone know what you secretly google?",
+    "option_blue": "have everyone know what you think of them",
+    "option_red": "have everyone know what you secretly google",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "social_0102",
+    "question": "Would you rather realize you've had spinach in your teeth all day or have toilet paper stuck to your shoe while walking around?",
+    "option_blue": "realize you've had spinach in your teeth all day",
+    "option_red": "have toilet paper stuck to your shoe while walking around",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "social_0103",
+    "question": "Would you rather accidentally like an ex's old photo from years ago or accidentally tag the wrong person in an embarrassing photo?",
+    "option_blue": "accidentally like an ex's old photo from years ago",
+    "option_red": "accidentally tag the wrong person in an embarrassing photo",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "social_0104",
+    "question": "Would you rather have your most embarrassing moment livestreamed to the world or have all your private messages from the last year read aloud in a public square?",
+    "option_blue": "have your most embarrassing moment livestreamed to the world",
+    "option_red": "have all your private messages from the last year read aloud in a public square",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "social_0105",
+    "question": "Would you rather be introduced as someone's assistant when you're their boss or be introduced as someone's boss when you're their assistant?",
+    "option_blue": "be introduced as someone's assistant when you're their boss",
+    "option_red": "be introduced as someone's boss when you're their assistant",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "social_0106",
+    "question": "Would you rather have your funniest social media post get zero likes or have your most serious social media post get hundreds of laughing emojis?",
+    "option_blue": "have your funniest social media post get zero likes",
+    "option_red": "have your most serious social media post get hundreds of laughing emojis",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "social_0107",
+    "question": "Would you rather forget the punchline of every joke you try to tell or forget the ending of every story you try to tell?",
+    "option_blue": "forget the punchline of every joke you try to tell",
+    "option_red": "forget the ending of every story you try to tell",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "social_0108",
+    "question": "Would you rather have your social media profile filled with only animal pictures or have your social media profile filled with only baby pictures of yourself?",
+    "option_blue": "have your social media profile filled with only animal pictures",
+    "option_red": "have your social media profile filled with only baby pictures of yourself",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "social_0109",
+    "question": "Would you rather be tagged in a photo you absolutely hate by a friend or have a friend leak a private story you told them?",
+    "option_blue": "be tagged in a photo you absolutely hate by a friend",
+    "option_red": "have a friend leak a private story you told them",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "social_0110",
+    "question": "Would you rather have your most private search history be publicly visible or have all your DMs and private messages be publicly visible?",
+    "option_blue": "have your most private search history be publicly visible",
+    "option_red": "have all your DMs and private messages be publicly visible",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "social_0111",
+    "question": "Would you rather have people scroll through your entire social media history for embarrassing posts or have someone go through your entire photo gallery on your phone?",
+    "option_blue": "have people scroll through your entire social media history for embarrassing posts",
+    "option_red": "have someone go through your entire photo gallery on your phone",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "social_0112",
+    "question": "Would you rather have your voice crack constantly during a speech or start stuttering every time you try to introduce yourself?",
+    "option_blue": "have your voice crack constantly during a speech",
+    "option_red": "start stuttering every time you try to introduce yourself",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "social_0113",
+    "question": "Would you rather walk into the wrong restroom by mistake or wave back at someone who wasn't waving at you?",
+    "option_blue": "walk into the wrong restroom by mistake",
+    "option_red": "wave back at someone who wasn't waving at you",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "social_0114",
+    "question": "Would you rather be the person who always gets caught looking at their phone during a play or be the person whose candy wrapper crinkles loudly during an entire play?",
+    "option_blue": "be the person who always gets caught looking at their phone during a play",
+    "option_red": "be the person whose candy wrapper crinkles loudly during an entire play",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "social_0115",
+    "question": "Would you rather ask someone you just met when their baby is due, and they're not pregnant or forget someone's name immediately after they told you it?",
+    "option_blue": "ask someone you just met when their baby is due, and they're not pregnant",
+    "option_red": "forget someone's name immediately after they told you it",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "social_0116",
+    "question": "Would you rather have a public argument with a stranger or be ignored by everyone at a party you're hosting?",
+    "option_blue": "have a public argument with a stranger",
+    "option_red": "be ignored by everyone at a party you're hosting",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "social_0117",
+    "question": "Would you rather accidentally call a teacher by another teacher's name or accidentally call a boss by a coworker's name?",
+    "option_blue": "accidentally call a teacher by another teacher's name",
+    "option_red": "accidentally call a boss by a coworker's name",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "social_0118",
+    "question": "Would you rather have your parents comment embarrassing details about your childhood on your public posts or have your childhood crush discover your secret diary?",
+    "option_blue": "have your parents comment embarrassing details about your childhood on your public posts",
+    "option_red": "have your childhood crush discover your secret diary",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "social_0119",
+    "question": "Would you rather be known for always telling bad jokes or be known for always accidentally insulting people?",
+    "option_blue": "be known for always telling bad jokes",
+    "option_red": "be known for always accidentally insulting people",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "social_0120",
+    "question": "Would you rather have your phone fall out of your pocket onto a toilet in a public restroom or have your wallet fall out of your pocket without noticing in a public place?",
+    "option_blue": "have your phone fall out of your pocket onto a toilet in a public restroom",
+    "option_red": "have your wallet fall out of your pocket without noticing in a public place",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "social_0121",
+    "question": "Would you rather have your wallet fall open spilling its contents in public or have your bag rip open spilling its contents in public?",
+    "option_blue": "have your wallet fall open spilling its contents in public",
+    "option_red": "have your bag rip open spilling its contents in public",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "social_0122",
+    "question": "Would you rather accidentally walk into the wrong public restroom or accidentally call your teacher 'mom' or 'dad'?",
+    "option_blue": "accidentally walk into the wrong public restroom",
+    "option_red": "accidentally call your teacher 'mom' or 'dad'",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "social_0123",
+    "question": "Would you rather wear clothes that are clearly too small or too big for you or have a noticeable stain on your clothes for an entire day?",
+    "option_blue": "wear clothes that are clearly too small or too big for you",
+    "option_red": "have a noticeable stain on your clothes for an entire day",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "social_0124",
+    "question": "Would you rather tell a joke that nobody understands or tell a story that everybody has already heard?",
+    "option_blue": "tell a joke that nobody understands",
+    "option_red": "tell a story that everybody has already heard",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "social_0125",
+    "question": "Would you rather be permanently stuck in a very awkward pose in a group photo or be permanently stuck with a very unflattering expression in a group photo?",
+    "option_blue": "be permanently stuck in a very awkward pose in a group photo",
+    "option_red": "be permanently stuck with a very unflattering expression in a group photo",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "social_0126",
+    "question": "Would you rather be asked a question you clearly don't know the answer to in a public forum or be challenged to a public debate on a topic you're unfamiliar with?",
+    "option_blue": "be asked a question you clearly don't know the answer to in a public forum",
+    "option_red": "be challenged to a public debate on a topic you're unfamiliar with",
+    "global_votes_blue": 63,
+    "global_votes_red": 38
+  },
+  {
+    "id": "social_0127",
+    "question": "Would you rather be forced to sing karaoke horribly in front of strangers or be forced to dance awkwardly in front of strangers?",
+    "option_blue": "be forced to sing karaoke horribly in front of strangers",
+    "option_red": "be forced to dance awkwardly in front of strangers",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "social_0128",
+    "question": "Would you rather be the only one dressy at a casual gathering or be the only one casual at a dressy gathering?",
+    "option_blue": "be the only one dressy at a casual gathering",
+    "option_red": "be the only one casual at a dressy gathering",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "social_0129",
+    "question": "Would you rather accidentally send a text to your boss complaining about your job or accidentally post a rant about your employer on social media?",
+    "option_blue": "accidentally send a text to your boss complaining about your job",
+    "option_red": "accidentally post a rant about your employer on social media",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "social_0130",
+    "question": "Would you rather have someone reveal a secret you told them in confidence to others or accidentally reveal someone else's secret to a group of people?",
+    "option_blue": "have someone reveal a secret you told them in confidence to others",
+    "option_red": "accidentally reveal someone else's secret to a group of people",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "social_0131",
+    "question": "Would you rather have your phone ring at full volume in a silent movie theater or have your stomach audibly rumble during a job interview?",
+    "option_blue": "have your phone ring at full volume in a silent movie theater",
+    "option_red": "have your stomach audibly rumble during a job interview",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "social_0132",
+    "question": "Would you rather accidentally share a very personal music playlist with a colleague or accidentally share a very personal browsing history with a colleague?",
+    "option_blue": "accidentally share a very personal music playlist with a colleague",
+    "option_red": "accidentally share a very personal browsing history with a colleague",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "social_0133",
+    "question": "Would you rather be caught talking about someone negatively right as they walk into the room or be caught complaining about your boss to a coworker, only for your boss to overhear?",
+    "option_blue": "be caught talking about someone negatively right as they walk into the room",
+    "option_red": "be caught complaining about your boss to a coworker, only for your boss to overhear",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "social_0134",
+    "question": "Would you rather have a terrible, obvious fake laugh you use for every joke or have a completely inappropriate, uncontrollable real laugh for every situation?",
+    "option_blue": "have a terrible, obvious fake laugh you use for every joke",
+    "option_red": "have a completely inappropriate, uncontrollable real laugh for every situation",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "social_0135",
+    "question": "Would you rather be the subject of a viral 'epic fail' video or be the subject of a viral 'most awkward moment' video?",
+    "option_blue": "be the subject of a viral 'epic fail' video",
+    "option_red": "be the subject of a viral 'most awkward moment' video",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "social_0136",
+    "question": "Would you rather be caught talking to yourself loudly in public or be caught talking to an inanimate object in public?",
+    "option_blue": "be caught talking to yourself loudly in public",
+    "option_red": "be caught talking to an inanimate object in public",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "social_0137",
+    "question": "Would you rather have someone publicly correct your grammar or have someone publicly point out a stain on your clothing?",
+    "option_blue": "have someone publicly correct your grammar",
+    "option_red": "have someone publicly point out a stain on your clothing",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "social_0138",
+    "question": "Would you rather wear mismatched shoes to an important event or wear your clothes inside out to an important event?",
+    "option_blue": "wear mismatched shoes to an important event",
+    "option_red": "wear your clothes inside out to an important event",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "social_0139",
+    "question": "Would you rather be the only person laughing hysterically at a serious moment or be the only person crying inconsolably at a happy moment?",
+    "option_blue": "be the only person laughing hysterically at a serious moment",
+    "option_red": "be the only person crying inconsolably at a happy moment",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "social_0140",
+    "question": "Would you rather be addressed by the wrong name consistently by a new group or call everyone by the wrong name in a new social setting?",
+    "option_blue": "be addressed by the wrong name consistently by a new group",
+    "option_red": "call everyone by the wrong name in a new social setting",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "social_0141",
+    "question": "Would you rather post a selfie with a visible stain on your shirt or post a selfie with something embarrassing in the background?",
+    "option_blue": "post a selfie with a visible stain on your shirt",
+    "option_red": "post a selfie with something embarrassing in the background",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "social_0142",
+    "question": "Would you rather be the subject of a meme that you find incredibly embarrassing or have a video of you doing something silly go viral?",
+    "option_blue": "be the subject of a meme that you find incredibly embarrassing",
+    "option_red": "have a video of you doing something silly go viral",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "social_0143",
+    "question": "Would you rather accidentally like an old photo while stalking someone's profile or comment on a post from years ago by mistake?",
+    "option_blue": "accidentally like an old photo while stalking someone's profile",
+    "option_red": "comment on a post from years ago by mistake",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "social_0144",
+    "question": "Would you rather accidentally tag the wrong person in a sensitive post or send a friend request to someone you just stalked?",
+    "option_blue": "accidentally tag the wrong person in a sensitive post",
+    "option_red": "send a friend request to someone you just stalked",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "social_0145",
+    "question": "Would you rather wear a name tag that says 'Hello, my name is Embarrassed' or wear a T-shirt that lists all your pet peeves?",
+    "option_blue": "wear a name tag that says 'Hello, my name is Embarrassed'",
+    "option_red": "wear a T-shirt that lists all your pet peeves",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "social_0146",
+    "question": "Would you rather have someone constantly mispronounce your name or have someone constantly call you by entirely the wrong name?",
+    "option_blue": "have someone constantly mispronounce your name",
+    "option_red": "have someone constantly call you by entirely the wrong name",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "social_0147",
+    "question": "Would you rather be stuck making awkward small talk with a stranger for an hour or be stuck in silence with a stranger for an hour, feeling the need to make small talk?",
+    "option_blue": "be stuck making awkward small talk with a stranger for an hour",
+    "option_red": "be stuck in silence with a stranger for an hour, feeling the need to make small talk",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "social_0148",
+    "question": "Would you rather spill food on yourself during a first date or spill food on your date during a first date?",
+    "option_blue": "spill food on yourself during a first date",
+    "option_red": "spill food on your date during a first date",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "social_0149",
+    "question": "Would you rather be caught making a silly face in a professional photo or have your hair look like you just woke up for an important event?",
+    "option_blue": "be caught making a silly face in a professional photo",
+    "option_red": "have your hair look like you just woke up for an important event",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "social_0150",
+    "question": "Would you rather start laughing uncontrollably during a serious meeting or start crying uncontrollably during a fun party?",
+    "option_blue": "start laughing uncontrollably during a serious meeting",
+    "option_red": "start crying uncontrollably during a fun party",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "social_0151",
+    "question": "Would you rather trip and fall spectacularly in front of your crush or accidentally send a deeply personal message to your boss?",
+    "option_blue": "trip and fall spectacularly in front of your crush",
+    "option_red": "accidentally send a deeply personal message to your boss",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "social_0152",
+    "question": "Would you rather have your parents show embarrassing baby photos at your wedding or have your best friend share embarrassing high school stories at your wedding?",
+    "option_blue": "have your parents show embarrassing baby photos at your wedding",
+    "option_red": "have your best friend share embarrassing high school stories at your wedding",
+    "global_votes_blue": 66,
+    "global_votes_red": 34
+  },
+  {
+    "id": "social_0153",
+    "question": "Would you rather have every conversation you're in turn awkward or always be the cause of awkward silences in conversations?",
+    "option_blue": "have every conversation you're in turn awkward",
+    "option_red": "always be the cause of awkward silences in conversations",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "social_0154",
+    "question": "Would you rather wear a swimsuit to a business meeting or wear a business suit to the beach?",
+    "option_blue": "wear a swimsuit to a business meeting",
+    "option_red": "wear a business suit to the beach",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "social_0155",
+    "question": "Would you rather be unfriended by all your childhood friends on social media or be blocked by all your current friends on social media?",
+    "option_blue": "be unfriended by all your childhood friends on social media",
+    "option_red": "be blocked by all your current friends on social media",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "social_0156",
+    "question": "Would you rather spill a drink on a stranger in a crowded bar or accidentally hit someone in the face with an umbrella?",
+    "option_blue": "spill a drink on a stranger in a crowded bar",
+    "option_red": "accidentally hit someone in the face with an umbrella",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "social_0157",
+    "question": "Would you rather be known for a viral blooper from a work video call or be known for always having food on your face during video calls?",
+    "option_blue": "be known for a viral blooper from a work video call",
+    "option_red": "be known for always having food on your face during video calls",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "social_0158",
+    "question": "Would you rather be caught eavesdropping on a very private conversation or be caught staring intently at someone's awkward moment?",
+    "option_blue": "be caught eavesdropping on a very private conversation",
+    "option_red": "be caught staring intently at someone's awkward moment",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "social_0159",
+    "question": "Would you rather be the only person at a party dressed in fancy attire when everyone else is casual or be the only person at a party dressed in casual attire when everyone else is fancy?",
+    "option_blue": "be the only person at a party dressed in fancy attire when everyone else is casual",
+    "option_red": "be the only person at a party dressed in casual attire when everyone else is fancy",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "social_0160",
+    "question": "Would you rather be caught singing confidently but terribly in public or be caught dancing enthusiastically but poorly in public?",
+    "option_blue": "be caught singing confidently but terribly in public",
+    "option_red": "be caught dancing enthusiastically but poorly in public",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "social_0161",
+    "question": "Would you rather have everyone know your biggest social media fail or have everyone know your biggest real-life awkward moment?",
+    "option_blue": "have everyone know your biggest social media fail",
+    "option_red": "have everyone know your biggest real-life awkward moment",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "social_0162",
+    "question": "Would you rather always forget people's names right after they tell you or always call everyone by the wrong name confidently?",
+    "option_blue": "always forget people's names right after they tell you",
+    "option_red": "always call everyone by the wrong name confidently",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "social_0163",
+    "question": "Would you rather be forced to give an impromptu speech on a topic you know nothing about or be forced to perform a song or dance you haven't practiced?",
+    "option_blue": "be forced to give an impromptu speech on a topic you know nothing about",
+    "option_red": "be forced to perform a song or dance you haven't practiced",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "social_0164",
+    "question": "Would you rather forget your wallet/purse after a meal with friends, forcing them to pay or forget your friend's birthday and only remember days later?",
+    "option_blue": "forget your wallet/purse after a meal with friends, forcing them to pay",
+    "option_red": "forget your friend's birthday and only remember days later",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "social_0165",
+    "question": "Would you rather accidentally walk out of a public restroom with toilet paper stuck to you or accidentally walk out of a restaurant with food on your face?",
+    "option_blue": "accidentally walk out of a public restroom with toilet paper stuck to you",
+    "option_red": "accidentally walk out of a restaurant with food on your face",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "social_0166",
+    "question": "Would you rather have a wardrobe malfunction in a public presentation or say something completely inappropriate at a family gathering?",
+    "option_blue": "have a wardrobe malfunction in a public presentation",
+    "option_red": "say something completely inappropriate at a family gathering",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "social_0167",
+    "question": "Would you rather be caught singing loudly and off-key in a quiet public place or be caught talking to yourself animatedly in a public place?",
+    "option_blue": "be caught singing loudly and off-key in a quiet public place",
+    "option_red": "be caught talking to yourself animatedly in a public place",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "social_0168",
+    "question": "Would you rather be forced to dance badly in a public flash mob or be forced to sing opera in a crowded shopping mall?",
+    "option_blue": "be forced to dance badly in a public flash mob",
+    "option_red": "be forced to sing opera in a crowded shopping mall",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "social_0169",
+    "question": "Would you rather be forced to sing karaoke perfectly in a crowded bar or be forced to dance badly alone in the middle of a mall?",
+    "option_blue": "be forced to sing karaoke perfectly in a crowded bar",
+    "option_red": "be forced to dance badly alone in the middle of a mall",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "social_0170",
+    "question": "Would you rather have your most embarrassing childhood photo go viral or have your current most embarrassing moment livestreamed accidentally?",
+    "option_blue": "have your most embarrassing childhood photo go viral",
+    "option_red": "have your current most embarrassing moment livestreamed accidentally",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "social_0171",
+    "question": "Would you rather have your fly open during an entire workday without knowing or have toilet paper stuck to your shoe all day without knowing?",
+    "option_blue": "have your fly open during an entire workday without knowing",
+    "option_red": "have toilet paper stuck to your shoe all day without knowing",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "social_0172",
+    "question": "Would you rather have your phone auto-correct something embarrassing in a group chat or accidentally share a private photo to your public story?",
+    "option_blue": "have your phone auto-correct something embarrassing in a group chat",
+    "option_red": "accidentally share a private photo to your public story",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "social_0173",
+    "question": "Would you rather accidentally like an ex’s very old social media post or accidentally comment on a stranger's post thinking it was a friend's?",
+    "option_blue": "accidentally like an ex’s very old social media post",
+    "option_red": "accidentally comment on a stranger's post thinking it was a friend's",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "social_0174",
+    "question": "Would you rather get food stuck in your braces regularly as an adult or have your shoelace untie repeatedly in important situations?",
+    "option_blue": "get food stuck in your braces regularly as an adult",
+    "option_red": "have your shoelace untie repeatedly in important situations",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "social_0175",
+    "question": "Would you rather accidentally hit 'reply all' to an email meant for one person or accidentally 'friend' someone you actively dislike on social media?",
+    "option_blue": "accidentally hit 'reply all' to an email meant for one person",
+    "option_red": "accidentally 'friend' someone you actively dislike on social media",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "social_0176",
+    "question": "Would you rather spill coffee all over your white shirt before a meeting or get a large, noticeable stain on your pants before a meeting?",
+    "option_blue": "spill coffee all over your white shirt before a meeting",
+    "option_red": "get a large, noticeable stain on your pants before a meeting",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "social_0177",
+    "question": "Would you rather accidentally hit 'reply all' to an email meant for one person with a very personal message or accidentally forward a confidential email to the wrong person?",
+    "option_blue": "accidentally hit 'reply all' to an email meant for one person with a very personal message",
+    "option_red": "accidentally forward a confidential email to the wrong person",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "social_0178",
+    "question": "Would you rather wear an identical outfit to someone else at a party or arrive at an event at the totally wrong time (too early or too late)?",
+    "option_blue": "wear an identical outfit to someone else at a party",
+    "option_red": "arrive at an event at the totally wrong time (too early or too late)",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "social_0179",
+    "question": "Would you rather have your phone battery die during an important conversation or have your phone run out of data in the middle of a social emergency?",
+    "option_blue": "have your phone battery die during an important conversation",
+    "option_red": "have your phone run out of data in the middle of a social emergency",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "social_0180",
+    "question": "Would you rather fail spectacularly at a simple task in front of many people or get caught red-handed doing something you shouldn't be?",
+    "option_blue": "fail spectacularly at a simple task in front of many people",
+    "option_red": "get caught red-handed doing something you shouldn't be",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "social_0181",
+    "question": "Would you rather wear two different colored socks all day or wear mismatched shoes all day?",
+    "option_blue": "wear two different colored socks all day",
+    "option_red": "wear mismatched shoes all day",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  }
+]

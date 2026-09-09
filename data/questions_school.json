@@ -1,0 +1,1474 @@
+[
+  {
+    "id": "school_0001",
+    "question": "Would you rather have to retake your favorite class every semester or never be able to take your favorite class again?",
+    "option_blue": "have to retake your favorite class every semester",
+    "option_red": "never be able to take your favorite class again",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "school_0002",
+    "question": "Would you rather have all your classes be outside, rain or shine or have all your classes be in a windowless room?",
+    "option_blue": "have all your classes be outside, rain or shine",
+    "option_red": "have all your classes be in a windowless room",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "school_0003",
+    "question": "Would you rather only be able to use a broken pencil or only be able to use a pen with no cap?",
+    "option_blue": "only be able to use a broken pencil",
+    "option_red": "only be able to use a pen with no cap",
+    "global_votes_blue": 18,
+    "global_votes_red": 82
+  },
+  {
+    "id": "school_0004",
+    "question": "Would you rather only be able to study in a completely silent room or only be able to study in a very noisy room?",
+    "option_blue": "only be able to study in a completely silent room",
+    "option_red": "only be able to study in a very noisy room",
+    "global_votes_blue": 76,
+    "global_votes_red": 24
+  },
+  {
+    "id": "school_0005",
+    "question": "Would you rather be known as the class clown or be known as the teacher's pet?",
+    "option_blue": "be known as the class clown",
+    "option_red": "be known as the teacher's pet",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "school_0006",
+    "question": "Would you rather have unlimited access to school supplies or have unlimited access to the best study snacks?",
+    "option_blue": "have unlimited access to school supplies",
+    "option_red": "have unlimited access to the best study snacks",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "school_0007",
+    "question": "Would you rather only get assigned reading from the 1800s or only get assigned group projects with difficult partners?",
+    "option_blue": "only get assigned reading from the 1800s",
+    "option_red": "only get assigned group projects with difficult partners",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "school_0008",
+    "question": "Would you rather only be able to use a pen that constantly runs out of ink or only be able to use a pencil that constantly breaks its lead?",
+    "option_blue": "only be able to use a pen that constantly runs out of ink",
+    "option_red": "only be able to use a pencil that constantly breaks its lead",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "school_0009",
+    "question": "Would you rather have your school play be a musical or have your school play be a silent pantomime?",
+    "option_blue": "have your school play be a musical",
+    "option_red": "have your school play be a silent pantomime",
+    "global_votes_blue": 72,
+    "global_votes_red": 28
+  },
+  {
+    "id": "school_0010",
+    "question": "Would you rather sit in the front row for every class or sit in the back row for every class?",
+    "option_blue": "sit in the front row for every class",
+    "option_red": "sit in the back row for every class",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "school_0011",
+    "question": "Would you rather only be able to study in absolute darkness or only be able to study with loud, distracting music playing?",
+    "option_blue": "only be able to study in absolute darkness",
+    "option_red": "only be able to study with loud, distracting music playing",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "school_0012",
+    "question": "Would you rather be able to skip any class without consequences or be able to leave school early any day without consequences?",
+    "option_blue": "be able to skip any class without consequences",
+    "option_red": "be able to leave school early any day without consequences",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "school_0013",
+    "question": "Would you rather be stuck grading papers through summer break or be stuck doing extra credit assignments through summer break?",
+    "option_blue": "be stuck grading papers through summer break",
+    "option_red": "be stuck doing extra credit assignments through summer break",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "school_0014",
+    "question": "Would you rather only be able to use dull pencils or only be able to use pens that skip ink?",
+    "option_blue": "only be able to use dull pencils",
+    "option_red": "only be able to use pens that skip ink",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "school_0015",
+    "question": "Would you rather get a perfect score on a group project because of you or get an average score on a group project because of your teammates?",
+    "option_blue": "get a perfect score on a group project because of you",
+    "option_red": "get an average score on a group project because of your teammates",
+    "global_votes_blue": 86,
+    "global_votes_red": 14
+  },
+  {
+    "id": "school_0016",
+    "question": "Would you rather live in a dorm with a constant party atmosphere or live in a dorm with absolute silence at all times?",
+    "option_blue": "live in a dorm with a constant party atmosphere",
+    "option_red": "live in a dorm with absolute silence at all times",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "school_0017",
+    "question": "Would you rather be able to teleport to any class instantly or be able to rewind time by 5 minutes during a test?",
+    "option_blue": "be able to teleport to any class instantly",
+    "option_red": "be able to rewind time by 5 minutes during a test",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "school_0018",
+    "question": "Would you rather always have a locker right next to your crush's or always have a locker on the opposite side of school?",
+    "option_blue": "always have a locker right next to your crush's",
+    "option_red": "always have a locker on the opposite side of school",
+    "global_votes_blue": 81,
+    "global_votes_red": 19
+  },
+  {
+    "id": "school_0019",
+    "question": "Would you rather always know the answer to every test question or always know the answer to every life decision?",
+    "option_blue": "always know the answer to every test question",
+    "option_red": "always know the answer to every life decision",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "school_0020",
+    "question": "Would you rather redo your favorite year of school or skip your least favorite year of school entirely?",
+    "option_blue": "redo your favorite year of school",
+    "option_red": "skip your least favorite year of school entirely",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "school_0021",
+    "question": "Would you rather only study by listening to lectures at 2x speed or only study by reading textbooks backwards?",
+    "option_blue": "only study by listening to lectures at 2x speed",
+    "option_red": "only study by reading textbooks backwards",
+    "global_votes_blue": 82,
+    "global_votes_red": 18
+  },
+  {
+    "id": "school_0022",
+    "question": "Would you rather be able to instantly learn any language or be able to instantly master any musical instrument?",
+    "option_blue": "be able to instantly learn any language",
+    "option_red": "be able to instantly master any musical instrument",
+    "global_votes_blue": 78,
+    "global_votes_red": 22
+  },
+  {
+    "id": "school_0023",
+    "question": "Would you rather be forced to participate in every school play or be forced to participate in every school sports team?",
+    "option_blue": "be forced to participate in every school play",
+    "option_red": "be forced to participate in every school sports team",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "school_0024",
+    "question": "Would you rather have your school lunches be gourmet meals every day or have a perfectly organized locker/backpack at all times?",
+    "option_blue": "have your school lunches be gourmet meals every day",
+    "option_red": "have a perfectly organized locker/backpack at all times",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "school_0025",
+    "question": "Would you rather only be able to write essays by hand or only be able to write essays by typing with one finger?",
+    "option_blue": "only be able to write essays by hand",
+    "option_red": "only be able to write essays by typing with one finger",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "school_0026",
+    "question": "Would you rather only be able to study in complete silence or only be able to study with loud music playing?",
+    "option_blue": "only be able to study in complete silence",
+    "option_red": "only be able to study with loud music playing",
+    "global_votes_blue": 70,
+    "global_votes_red": 30
+  },
+  {
+    "id": "school_0027",
+    "question": "Would you rather only be able to learn from incredibly old and dusty books or only be able to learn from holographic projections with glitches?",
+    "option_blue": "only be able to learn from incredibly old and dusty books",
+    "option_red": "only be able to learn from holographic projections with glitches",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "school_0028",
+    "question": "Would you rather have your school project accidentally deleted or have your school project accidentally submitted incomplete?",
+    "option_blue": "have your school project accidentally deleted",
+    "option_red": "have your school project accidentally submitted incomplete",
+    "global_votes_blue": 19,
+    "global_votes_red": 81
+  },
+  {
+    "id": "school_0029",
+    "question": "Would you rather forget everything you learned immediately after an exam or remember everything but never pass an exam?",
+    "option_blue": "forget everything you learned immediately after an exam",
+    "option_red": "remember everything but never pass an exam",
+    "global_votes_blue": 81,
+    "global_votes_red": 19
+  },
+  {
+    "id": "school_0030",
+    "question": "Would you rather have all your teachers be extremely boring or have all your teachers be extremely strict?",
+    "option_blue": "have all your teachers be extremely boring",
+    "option_red": "have all your teachers be extremely strict",
+    "global_votes_blue": 66,
+    "global_votes_red": 34
+  },
+  {
+    "id": "school_0031",
+    "question": "Would you rather only eat cafeteria food for all your meals or only eat ramen noodles for all your meals?",
+    "option_blue": "only eat cafeteria food for all your meals",
+    "option_red": "only eat ramen noodles for all your meals",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "school_0032",
+    "question": "Would you rather always get detention for something you didn't do or never get recognized for something great you did?",
+    "option_blue": "always get detention for something you didn't do",
+    "option_red": "never get recognized for something great you did",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  },
+  {
+    "id": "school_0033",
+    "question": "Would you rather always have to present first in every class or always have to present last in every class?",
+    "option_blue": "always have to present first in every class",
+    "option_red": "always have to present last in every class",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "school_0034",
+    "question": "Would you rather always have to ask to use the restroom or never be allowed to use the restroom during class?",
+    "option_blue": "always have to ask to use the restroom",
+    "option_red": "never be allowed to use the restroom during class",
+    "global_votes_blue": 76,
+    "global_votes_red": 24
+  },
+  {
+    "id": "school_0035",
+    "question": "Would you rather live in a dorm with no internet access or live in an off-campus apartment with no hot water?",
+    "option_blue": "live in a dorm with no internet access",
+    "option_red": "live in an off-campus apartment with no hot water",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "school_0036",
+    "question": "Would you rather get detention for something you didn't do or watch someone else get credit for your hard work?",
+    "option_blue": "get detention for something you didn't do",
+    "option_red": "watch someone else get credit for your hard work",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "school_0037",
+    "question": "Would you rather always forget your homework or always forget your textbooks?",
+    "option_blue": "always forget your homework",
+    "option_red": "always forget your textbooks",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "school_0038",
+    "question": "Would you rather only have electives and no core subjects or only have core subjects and no electives?",
+    "option_blue": "only have electives and no core subjects",
+    "option_red": "only have core subjects and no electives",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "school_0039",
+    "question": "Would you rather only be able to communicate with teachers via email or only be able to communicate with teachers in person after class?",
+    "option_blue": "only be able to communicate with teachers via email",
+    "option_red": "only be able to communicate with teachers in person after class",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "school_0040",
+    "question": "Would you rather always lose your lunch money or always accidentally spill your drink on yourself?",
+    "option_blue": "always lose your lunch money",
+    "option_red": "always accidentally spill your drink on yourself",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "school_0041",
+    "question": "Would you rather only be able to use a dull pencil or only be able to use a pen that's almost out of ink?",
+    "option_blue": "only be able to use a dull pencil",
+    "option_red": "only be able to use a pen that's almost out of ink",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "school_0042",
+    "question": "Would you rather be constantly cold in every classroom or be constantly hot in every classroom?",
+    "option_blue": "be constantly cold in every classroom",
+    "option_red": "be constantly hot in every classroom",
+    "global_votes_blue": 76,
+    "global_votes_red": 24
+  },
+  {
+    "id": "school_0043",
+    "question": "Would you rather have your phone confiscated every day or have your laptop crash every day?",
+    "option_blue": "have your phone confiscated every day",
+    "option_red": "have your laptop crash every day",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "school_0044",
+    "question": "Would you rather listen to the same motivational speech every morning assembly or listen to the school principal sing karaoke every morning assembly?",
+    "option_blue": "listen to the same motivational speech every morning assembly",
+    "option_red": "listen to the school principal sing karaoke every morning assembly",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "school_0045",
+    "question": "Would you rather accidentally send a private message to the whole class or have your embarrassing search history projected during class?",
+    "option_blue": "accidentally send a private message to the whole class",
+    "option_red": "have your embarrassing search history projected during class",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "school_0046",
+    "question": "Would you rather live in a dorm with very noisy roommates or live in a dorm with very messy roommates?",
+    "option_blue": "live in a dorm with very noisy roommates",
+    "option_red": "live in a dorm with very messy roommates",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "school_0047",
+    "question": "Would you rather have free tuition but pay for everything else or pay tuition but everything else is free?",
+    "option_blue": "have free tuition but pay for everything else",
+    "option_red": "pay tuition but everything else is free",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "school_0048",
+    "question": "Would you rather always sit in the front row for every class or always sit in the back row for every class?",
+    "option_blue": "always sit in the front row for every class",
+    "option_red": "always sit in the back row for every class",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "school_0049",
+    "question": "Would you rather always get an A on essays but fail all exams or always ace exams but fail all essays?",
+    "option_blue": "always get an A on essays but fail all exams",
+    "option_red": "always ace exams but fail all essays",
+    "global_votes_blue": 18,
+    "global_votes_red": 82
+  },
+  {
+    "id": "school_0050",
+    "question": "Would you rather only be able to learn from watching videos or only be able to learn from listening to audiobooks?",
+    "option_blue": "only be able to learn from watching videos",
+    "option_red": "only be able to learn from listening to audiobooks",
+    "global_votes_blue": 83,
+    "global_votes_red": 17
+  },
+  {
+    "id": "school_0051",
+    "question": "Would you rather only eat cafeteria food for all meals or always pack your lunch, but it's always the same?",
+    "option_blue": "only eat cafeteria food for all meals",
+    "option_red": "always pack your lunch, but it's always the same",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "school_0052",
+    "question": "Would you rather have a school play where you're the lead in a terrible script or be cast as a tree in a masterpiece school play?",
+    "option_blue": "have a school play where you're the lead in a terrible script",
+    "option_red": "be cast as a tree in a masterpiece school play",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "school_0053",
+    "question": "Would you rather only be able to write essays by hand or only be able to take notes on a broken typewriter?",
+    "option_blue": "only be able to write essays by hand",
+    "option_red": "only be able to take notes on a broken typewriter",
+    "global_votes_blue": 80,
+    "global_votes_red": 20
+  },
+  {
+    "id": "school_0054",
+    "question": "Would you rather be the smartest person in a fun class or be the dumbest person in an important class?",
+    "option_blue": "be the smartest person in a fun class",
+    "option_red": "be the dumbest person in an important class",
+    "global_votes_blue": 90,
+    "global_votes_red": 10
+  },
+  {
+    "id": "school_0055",
+    "question": "Would you rather always get an A on a project you hate or always get a C on a project you love?",
+    "option_blue": "always get an A on a project you hate",
+    "option_red": "always get a C on a project you love",
+    "global_votes_blue": 86,
+    "global_votes_red": 14
+  },
+  {
+    "id": "school_0056",
+    "question": "Would you rather always have a substitute teacher or always have your least favorite teacher?",
+    "option_blue": "always have a substitute teacher",
+    "option_red": "always have your least favorite teacher",
+    "global_votes_blue": 80,
+    "global_votes_red": 20
+  },
+  {
+    "id": "school_0057",
+    "question": "Would you rather lose your backpack with all your textbooks or lose your laptop with all your assignments?",
+    "option_blue": "lose your backpack with all your textbooks",
+    "option_red": "lose your laptop with all your assignments",
+    "global_votes_blue": 77,
+    "global_votes_red": 23
+  },
+  {
+    "id": "school_0058",
+    "question": "Would you rather have your student ID photo be truly embarrassing or have your name constantly mispronounced by all your teachers?",
+    "option_blue": "have your student ID photo be truly embarrassing",
+    "option_red": "have your name constantly mispronounced by all your teachers",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "school_0059",
+    "question": "Would you rather be the only one raising your hand for questions or be the only one who never understands the question?",
+    "option_blue": "be the only one raising your hand for questions",
+    "option_red": "be the only one who never understands the question",
+    "global_votes_blue": 82,
+    "global_votes_red": 18
+  },
+  {
+    "id": "school_0060",
+    "question": "Would you rather have a perfect GPA but no social life or have an active social life but average grades?",
+    "option_blue": "have a perfect GPA but no social life",
+    "option_red": "have an active social life but average grades",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "school_0061",
+    "question": "Would you rather only be able to read books backward or only be able to write left-handed (if you're right-handed)?",
+    "option_blue": "only be able to read books backward",
+    "option_red": "only be able to write left-handed (if you're right-handed)",
+    "global_votes_blue": 23,
+    "global_votes_red": 77
+  },
+  {
+    "id": "school_0062",
+    "question": "Would you rather only communicate through interpretive dance in class or only communicate through dramatic monologues in class?",
+    "option_blue": "only communicate through interpretive dance in class",
+    "option_red": "only communicate through dramatic monologues in class",
+    "global_votes_blue": 22,
+    "global_votes_red": 78
+  },
+  {
+    "id": "school_0063",
+    "question": "Would you rather be able to ace any test without studying or be able to write any paper perfectly without research?",
+    "option_blue": "be able to ace any test without studying",
+    "option_red": "be able to write any paper perfectly without research",
+    "global_votes_blue": 74,
+    "global_votes_red": 26
+  },
+  {
+    "id": "school_0064",
+    "question": "Would you rather have a pop quiz every day or have one giant final exam worth 100%?",
+    "option_blue": "have a pop quiz every day",
+    "option_red": "have one giant final exam worth 100%",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "school_0065",
+    "question": "Would you rather lose all your notes the day before a big exam or accidentally submit a blank assignment for a major project?",
+    "option_blue": "lose all your notes the day before a big exam",
+    "option_red": "accidentally submit a blank assignment for a major project",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "school_0066",
+    "question": "Would you rather only be able to whisper in class or only be able to shout in class?",
+    "option_blue": "only be able to whisper in class",
+    "option_red": "only be able to shout in class",
+    "global_votes_blue": 77,
+    "global_votes_red": 23
+  },
+  {
+    "id": "school_0067",
+    "question": "Would you rather always know the answer to every question in class or always know what your professors are thinking?",
+    "option_blue": "always know the answer to every question in class",
+    "option_red": "always know what your professors are thinking",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "school_0068",
+    "question": "Would you rather have your school uniform be a clown costume or have your school uniform be a full knight's armor?",
+    "option_blue": "have your school uniform be a clown costume",
+    "option_red": "have your school uniform be a full knight's armor",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "school_0069",
+    "question": "Would you rather be excellent at all your elective classes or be mediocre at all your core classes?",
+    "option_blue": "be excellent at all your elective classes",
+    "option_red": "be mediocre at all your core classes",
+    "global_votes_blue": 81,
+    "global_votes_red": 19
+  },
+  {
+    "id": "school_0070",
+    "question": "Would you rather be forced to give a presentation on a random topic every day or be forced to write a 10-page essay on a random topic every day?",
+    "option_blue": "be forced to give a presentation on a random topic every day",
+    "option_red": "be forced to write a 10-page essay on a random topic every day",
+    "global_votes_blue": 78,
+    "global_votes_red": 22
+  },
+  {
+    "id": "school_0071",
+    "question": "Would you rather have to write a 10-page essay every night or have to solve 50 complex math problems every night?",
+    "option_blue": "have to write a 10-page essay every night",
+    "option_red": "have to solve 50 complex math problems every night",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "school_0072",
+    "question": "Would you rather be the target of a school prank or accidentally be the perpetrator of a school prank?",
+    "option_blue": "be the target of a school prank",
+    "option_red": "accidentally be the perpetrator of a school prank",
+    "global_votes_blue": 26,
+    "global_votes_red": 74
+  },
+  {
+    "id": "school_0073",
+    "question": "Would you rather only be allowed to ask questions in ancient Greek or only be allowed to answer questions in mime?",
+    "option_blue": "only be allowed to ask questions in ancient Greek",
+    "option_red": "only be allowed to answer questions in mime",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "school_0074",
+    "question": "Would you rather always know the answer but never be called on or never know the answer but always be called on?",
+    "option_blue": "always know the answer but never be called on",
+    "option_red": "never know the answer but always be called on",
+    "global_votes_blue": 83,
+    "global_votes_red": 17
+  },
+  {
+    "id": "school_0075",
+    "question": "Would you rather have every class be outside, rain or shine or have every class be in a windowless room underground?",
+    "option_blue": "have every class be outside, rain or shine",
+    "option_red": "have every class be in a windowless room underground",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "school_0076",
+    "question": "Would you rather only be able to communicate with your teachers via charades or only be able to communicate with your teachers via interpretive dance?",
+    "option_blue": "only be able to communicate with your teachers via charades",
+    "option_red": "only be able to communicate with your teachers via interpretive dance",
+    "global_votes_blue": 75,
+    "global_votes_red": 25
+  },
+  {
+    "id": "school_0077",
+    "question": "Would you rather have every class be a group project or have every class be an individual presentation?",
+    "option_blue": "have every class be a group project",
+    "option_red": "have every class be an individual presentation",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "school_0078",
+    "question": "Would you rather have your school mascot be a fluffy bunny or have your school mascot be a terrifying monster?",
+    "option_blue": "have your school mascot be a fluffy bunny",
+    "option_red": "have your school mascot be a terrifying monster",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "school_0079",
+    "question": "Would you rather only be able to write with a quill and ink or only be able to type on a broken keyboard?",
+    "option_blue": "only be able to write with a quill and ink",
+    "option_red": "only be able to type on a broken keyboard",
+    "global_votes_blue": 77,
+    "global_votes_red": 23
+  },
+  {
+    "id": "school_0080",
+    "question": "Would you rather only eat cafeteria food for four years or only eat instant ramen for four years?",
+    "option_blue": "only eat cafeteria food for four years",
+    "option_red": "only eat instant ramen for four years",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "school_0081",
+    "question": "Would you rather have your best friend drop out of school or have your favorite teacher leave mid-semester?",
+    "option_blue": "have your best friend drop out of school",
+    "option_red": "have your favorite teacher leave mid-semester",
+    "global_votes_blue": 25,
+    "global_votes_red": 75
+  },
+  {
+    "id": "school_0082",
+    "question": "Would you rather attend school seven days a week but for half days or attend school five days a week but for full days until late?",
+    "option_blue": "attend school seven days a week but for half days",
+    "option_red": "attend school five days a week but for full days until late",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "school_0083",
+    "question": "Would you rather be able to ace any creative writing assignment or be able to ace any scientific research project?",
+    "option_blue": "be able to ace any creative writing assignment",
+    "option_red": "be able to ace any scientific research project",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "school_0084",
+    "question": "Would you rather have the school gym permanently closed or have the school library permanently closed?",
+    "option_blue": "have the school gym permanently closed",
+    "option_red": "have the school library permanently closed",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "school_0085",
+    "question": "Would you rather live in a dorm with a terrible roommate or commute two hours to school every day?",
+    "option_blue": "live in a dorm with a terrible roommate",
+    "option_red": "commute two hours to school every day",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "school_0086",
+    "question": "Would you rather be able to teleport to any class instantly or be able to freeze time during any test?",
+    "option_blue": "be able to teleport to any class instantly",
+    "option_red": "be able to freeze time during any test",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  },
+  {
+    "id": "school_0087",
+    "question": "Would you rather never have homework for a year but get a C on every assignment or have a lot of homework but get an A on every assignment?",
+    "option_blue": "never have homework for a year but get a C on every assignment",
+    "option_red": "have a lot of homework but get an A on every assignment",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  },
+  {
+    "id": "school_0088",
+    "question": "Would you rather have a permanent tardy mark on your record or have a permanent absent mark for a major school event?",
+    "option_blue": "have a permanent tardy mark on your record",
+    "option_red": "have a permanent absent mark for a major school event",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "school_0089",
+    "question": "Would you rather have to give a speech every day in class or have to solve complex math problems on the board every day?",
+    "option_blue": "have to give a speech every day in class",
+    "option_red": "have to solve complex math problems on the board every day",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "school_0090",
+    "question": "Would you rather take a class with no lectures, only readings or take a class with no readings, only lectures?",
+    "option_blue": "take a class with no lectures, only readings",
+    "option_red": "take a class with no readings, only lectures",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "school_0091",
+    "question": "Would you rather never be allowed to use a calculator again or never be allowed to use a dictionary again?",
+    "option_blue": "never be allowed to use a calculator again",
+    "option_red": "never be allowed to use a dictionary again",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "school_0092",
+    "question": "Would you rather be recognized worldwide for a silly school talent show act or be completely anonymous despite groundbreaking academic achievements?",
+    "option_blue": "be recognized worldwide for a silly school talent show act",
+    "option_red": "be completely anonymous despite groundbreaking academic achievements",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "school_0093",
+    "question": "Would you rather only be able to walk backward between classes or only be able to skip between classes?",
+    "option_blue": "only be able to walk backward between classes",
+    "option_red": "only be able to skip between classes",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "school_0094",
+    "question": "Would you rather never have homework again in your life or never have to take another exam in your life?",
+    "option_blue": "never have homework again in your life",
+    "option_red": "never have to take another exam in your life",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "school_0095",
+    "question": "Would you rather have your pens run out every time you write or have your pencils always break when you sharpen them?",
+    "option_blue": "have your pens run out every time you write",
+    "option_red": "have your pencils always break when you sharpen them",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "school_0096",
+    "question": "Would you rather have a group project where you do all the work or have a group project where you do none of the work but get a bad grade?",
+    "option_blue": "have a group project where you do all the work",
+    "option_red": "have a group project where you do none of the work but get a bad grade",
+    "global_votes_blue": 75,
+    "global_votes_red": 25
+  },
+  {
+    "id": "school_0097",
+    "question": "Would you rather spend a year studying only subjects you hate or spend a year working at a job you hate to pay for tuition?",
+    "option_blue": "spend a year studying only subjects you hate",
+    "option_red": "spend a year working at a job you hate to pay for tuition",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "school_0098",
+    "question": "Would you rather always speak your mind to professors or always keep silent and never ask questions?",
+    "option_blue": "always speak your mind to professors",
+    "option_red": "always keep silent and never ask questions",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "school_0099",
+    "question": "Would you rather have your alarm fail every Monday morning or have your internet fail every Sunday evening?",
+    "option_blue": "have your alarm fail every Monday morning",
+    "option_red": "have your internet fail every Sunday evening",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "school_0100",
+    "question": "Would you rather have detention be mandatory for everyone once a week or have pop quizzes be mandatory for everyone once a day?",
+    "option_blue": "have detention be mandatory for everyone once a week",
+    "option_red": "have pop quizzes be mandatory for everyone once a day",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "school_0101",
+    "question": "Would you rather have a permanent marker stain on your hand or have permanent whiteboard dust on your clothes?",
+    "option_blue": "have a permanent marker stain on your hand",
+    "option_red": "have permanent whiteboard dust on your clothes",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "school_0102",
+    "question": "Would you rather eat school lunch for every meal for a year or only be allowed to bring packed lunches for a year?",
+    "option_blue": "eat school lunch for every meal for a year",
+    "option_red": "only be allowed to bring packed lunches for a year",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "school_0103",
+    "question": "Would you rather have a professor who lectures for three hours straight or have a professor who assigns 100 pages of reading per night?",
+    "option_blue": "have a professor who lectures for three hours straight",
+    "option_red": "have a professor who assigns 100 pages of reading per night",
+    "global_votes_blue": 76,
+    "global_votes_red": 24
+  },
+  {
+    "id": "school_0104",
+    "question": "Would you rather always forget who your teachers are or always forget the names of your classmates?",
+    "option_blue": "always forget who your teachers are",
+    "option_red": "always forget the names of your classmates",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "school_0105",
+    "question": "Would you rather lose your backpack with all your school supplies or lose your phone with all your notes?",
+    "option_blue": "lose your backpack with all your school supplies",
+    "option_red": "lose your phone with all your notes",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "school_0106",
+    "question": "Would you rather have your school cafeteria food taste like gourmet meals or have your school cafeteria food be free forever?",
+    "option_blue": "have your school cafeteria food taste like gourmet meals",
+    "option_red": "have your school cafeteria food be free forever",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "school_0107",
+    "question": "Would you rather lose all your notes right before an exam or sleep through your alarm for a major exam?",
+    "option_blue": "lose all your notes right before an exam",
+    "option_red": "sleep through your alarm for a major exam",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "school_0108",
+    "question": "Would you rather have all your textbooks online only or have all your textbooks be giant, heavy physical copies?",
+    "option_blue": "have all your textbooks online only",
+    "option_red": "have all your textbooks be giant, heavy physical copies",
+    "global_votes_blue": 69,
+    "global_votes_red": 31
+  },
+  {
+    "id": "school_0109",
+    "question": "Would you rather study for 20 minutes and get an A or study for 10 hours and get a C?",
+    "option_blue": "study for 20 minutes and get an A",
+    "option_red": "study for 10 hours and get a C",
+    "global_votes_blue": 81,
+    "global_votes_red": 19
+  },
+  {
+    "id": "school_0110",
+    "question": "Would you rather always be picked first for every group activity or always be picked last for every group activity?",
+    "option_blue": "always be picked first for every group activity",
+    "option_red": "always be picked last for every group activity",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "school_0111",
+    "question": "Would you rather have your parents attend all your college classes or have your childhood teacher attend all your college classes?",
+    "option_blue": "have your parents attend all your college classes",
+    "option_red": "have your childhood teacher attend all your college classes",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "school_0112",
+    "question": "Would you rather wear your pajamas to school every day or wear a formal suit/dress to school every day?",
+    "option_blue": "wear your pajamas to school every day",
+    "option_red": "wear a formal suit/dress to school every day",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "school_0113",
+    "question": "Would you rather be the smartest person in a beginner class or be the least smart person in an advanced class?",
+    "option_blue": "be the smartest person in a beginner class",
+    "option_red": "be the least smart person in an advanced class",
+    "global_votes_blue": 66,
+    "global_votes_red": 34
+  },
+  {
+    "id": "school_0114",
+    "question": "Would you rather have an entire semester dedicated to one incredibly niche topic or have a different, brand new subject every week for a semester?",
+    "option_blue": "have an entire semester dedicated to one incredibly niche topic",
+    "option_red": "have a different, brand new subject every week for a semester",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "school_0115",
+    "question": "Would you rather only be allowed to use pencils in class or only be allowed to use crayons in class?",
+    "option_blue": "only be allowed to use pencils in class",
+    "option_red": "only be allowed to use crayons in class",
+    "global_votes_blue": 72,
+    "global_votes_red": 28
+  },
+  {
+    "id": "school_0116",
+    "question": "Would you rather have your biggest crush sit next to you for every class or have your biggest rival sit next to you for every class?",
+    "option_blue": "have your biggest crush sit next to you for every class",
+    "option_red": "have your biggest rival sit next to you for every class",
+    "global_votes_blue": 77,
+    "global_votes_red": 23
+  },
+  {
+    "id": "school_0117",
+    "question": "Would you rather have a professor who lectures for three hours straight or have a professor who gives pop quizzes every class?",
+    "option_blue": "have a professor who lectures for three hours straight",
+    "option_red": "have a professor who gives pop quizzes every class",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "school_0118",
+    "question": "Would you rather always get a question wrong on every test or always get the easiest question wrong on every test?",
+    "option_blue": "always get a question wrong on every test",
+    "option_red": "always get the easiest question wrong on every test",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "school_0119",
+    "question": "Would you rather lose your voice the day of an oral presentation or lose the ability to write the day of a written exam?",
+    "option_blue": "lose your voice the day of an oral presentation",
+    "option_red": "lose the ability to write the day of a written exam",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "school_0120",
+    "question": "Would you rather have to run a mile before every class or have to do 50 pushups before every class?",
+    "option_blue": "have to run a mile before every class",
+    "option_red": "have to do 50 pushups before every class",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "school_0121",
+    "question": "Would you rather have your school uniform randomly change daily or wear the same school uniform every single day for a year?",
+    "option_blue": "have your school uniform randomly change daily",
+    "option_red": "wear the same school uniform every single day for a year",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "school_0122",
+    "question": "Would you rather always lose your pens and pencils or always run out of paper at the worst possible moment?",
+    "option_blue": "always lose your pens and pencils",
+    "option_red": "always run out of paper at the worst possible moment",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "school_0123",
+    "question": "Would you rather only use a pen and paper for all assignments or only use a broken computer for all assignments?",
+    "option_blue": "only use a pen and paper for all assignments",
+    "option_red": "only use a broken computer for all assignments",
+    "global_votes_blue": 72,
+    "global_votes_red": 28
+  },
+  {
+    "id": "school_0124",
+    "question": "Would you rather have to sing all your answers in class or have to perform a short dance for all your answers in class?",
+    "option_blue": "have to sing all your answers in class",
+    "option_red": "have to perform a short dance for all your answers in class",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "school_0125",
+    "question": "Would you rather have your phone battery die during every single class or have the school Wi-Fi be excruciatingly slow all the time?",
+    "option_blue": "have your phone battery die during every single class",
+    "option_red": "have the school Wi-Fi be excruciatingly slow all the time",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "school_0126",
+    "question": "Would you rather have your phone constantly buzz in class or have your stomach constantly rumble loudly in class?",
+    "option_blue": "have your phone constantly buzz in class",
+    "option_red": "have your stomach constantly rumble loudly in class",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "school_0127",
+    "question": "Would you rather only be able to communicate with your teachers via email or only be able to communicate with your classmates via snail mail?",
+    "option_blue": "only be able to communicate with your teachers via email",
+    "option_red": "only be able to communicate with your classmates via snail mail",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "school_0128",
+    "question": "Would you rather always miss the school bus or always get stuck in traffic on the way to school?",
+    "option_blue": "always miss the school bus",
+    "option_red": "always get stuck in traffic on the way to school",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "school_0129",
+    "question": "Would you rather have your phone confiscated once a week or have your laptop crash once a week with lost work?",
+    "option_blue": "have your phone confiscated once a week",
+    "option_red": "have your laptop crash once a week with lost work",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "school_0130",
+    "question": "Would you rather always be late for class but never miss anything important or always be on time but always miss the first five minutes?",
+    "option_blue": "always be late for class but never miss anything important",
+    "option_red": "always be on time but always miss the first five minutes",
+    "global_votes_blue": 66,
+    "global_votes_red": 34
+  },
+  {
+    "id": "school_0131",
+    "question": "Would you rather always have to share your locker or always have to share your desk in every class?",
+    "option_blue": "always have to share your locker",
+    "option_red": "always have to share your desk in every class",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "school_0132",
+    "question": "Would you rather have unlimited access to a top-tier library 24/7 or have a personal tutor for every subject you take?",
+    "option_blue": "have unlimited access to a top-tier library 24/7",
+    "option_red": "have a personal tutor for every subject you take",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "school_0133",
+    "question": "Would you rather be forced to participate in every school play or be forced to join every school sports team?",
+    "option_blue": "be forced to participate in every school play",
+    "option_red": "be forced to join every school sports team",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "school_0134",
+    "question": "Would you rather have a vending machine that dispenses perfectly cooked meals or have a quiet study spot that's always available?",
+    "option_blue": "have a vending machine that dispenses perfectly cooked meals",
+    "option_red": "have a quiet study spot that's always available",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "school_0135",
+    "question": "Would you rather attend a school where every class is pass/fail or attend a school where every grade is publicly displayed?",
+    "option_blue": "attend a school where every class is pass/fail",
+    "option_red": "attend a school where every grade is publicly displayed",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "school_0136",
+    "question": "Would you rather only be allowed to ask questions in rhyming couplets or only be allowed to answer questions in interpretive dance?",
+    "option_blue": "only be allowed to ask questions in rhyming couplets",
+    "option_red": "only be allowed to answer questions in interpretive dance",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "school_0137",
+    "question": "Would you rather be famous for skipping class all the time or be famous for being the teacher's pet?",
+    "option_blue": "be famous for skipping class all the time",
+    "option_red": "be famous for being the teacher's pet",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "school_0138",
+    "question": "Would you rather get perfect scores on all your tests or get perfect scores on all your projects?",
+    "option_blue": "get perfect scores on all your tests",
+    "option_red": "get perfect scores on all your projects",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "school_0139",
+    "question": "Would you rather spend an extra year in high school or spend an extra year in college?",
+    "option_blue": "spend an extra year in high school",
+    "option_red": "spend an extra year in college",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "school_0140",
+    "question": "Would you rather always arrive 5 minutes late to every class or always forget your homework at home for every class?",
+    "option_blue": "always arrive 5 minutes late to every class",
+    "option_red": "always forget your homework at home for every class",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "school_0141",
+    "question": "Would you rather always have a group project partner who does nothing or always be the only one doing all the work in a group project?",
+    "option_blue": "always have a group project partner who does nothing",
+    "option_red": "always be the only one doing all the work in a group project",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "school_0142",
+    "question": "Would you rather only be able to write essays or only be able to take multiple-choice tests?",
+    "option_blue": "only be able to write essays",
+    "option_red": "only be able to take multiple-choice tests",
+    "global_votes_blue": 38,
+    "global_votes_red": 63
+  },
+  {
+    "id": "school_0143",
+    "question": "Would you rather always have a locker right next to yours squeak loudly or always have a backpack strap break at the worst time?",
+    "option_blue": "always have a locker right next to yours squeak loudly",
+    "option_red": "always have a backpack strap break at the worst time",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "school_0144",
+    "question": "Would you rather only be able to write with your non-dominant hand or only be able to speak in rhyming couplets during school hours?",
+    "option_blue": "only be able to write with your non-dominant hand",
+    "option_red": "only be able to speak in rhyming couplets during school hours",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "school_0145",
+    "question": "Would you rather be stuck taking only elective classes you hate or be stuck taking only core classes you find incredibly boring?",
+    "option_blue": "be stuck taking only elective classes you hate",
+    "option_red": "be stuck taking only core classes you find incredibly boring",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "school_0146",
+    "question": "Would you rather be stuck writing a 10,000-word paper or be stuck doing 100 math problems each day?",
+    "option_blue": "be stuck writing a 10,000-word paper",
+    "option_red": "be stuck doing 100 math problems each day",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "school_0147",
+    "question": "Would you rather only be allowed to use pencils shorter than your finger or only be allowed to use paper smaller than your hand?",
+    "option_blue": "only be allowed to use pencils shorter than your finger",
+    "option_red": "only be allowed to use paper smaller than your hand",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "school_0148",
+    "question": "Would you rather have perfect attendance but hate school or have terrible attendance but love school?",
+    "option_blue": "have perfect attendance but hate school",
+    "option_red": "have terrible attendance but love school",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "school_0149",
+    "question": "Would you rather give a speech to an audience of thousands or have a one-on-one meeting with your dean about a mistake?",
+    "option_blue": "give a speech to an audience of thousands",
+    "option_red": "have a one-on-one meeting with your dean about a mistake",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "school_0150",
+    "question": "Would you rather never receive grades for any assignments or receive grades but never receive any feedback?",
+    "option_blue": "never receive grades for any assignments",
+    "option_red": "receive grades but never receive any feedback",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "school_0151",
+    "question": "Would you rather have a five-minute break between every class or have one two-hour break during the day?",
+    "option_blue": "have a five-minute break between every class",
+    "option_red": "have one two-hour break during the day",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "school_0152",
+    "question": "Would you rather be best friends with the school principal or be best friends with the class clown?",
+    "option_blue": "be best friends with the school principal",
+    "option_red": "be best friends with the class clown",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "school_0153",
+    "question": "Would you rather always have to wear formal attire to school or always have to wear your pajamas to school?",
+    "option_blue": "always have to wear formal attire to school",
+    "option_red": "always have to wear your pajamas to school",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "school_0154",
+    "question": "Would you rather always forget your lunch at home or always forget your water bottle at home?",
+    "option_blue": "always forget your lunch at home",
+    "option_red": "always forget your water bottle at home",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "school_0155",
+    "question": "Would you rather only be able to use textbooks from 20 years ago or only be able to use digital textbooks with constant glitches?",
+    "option_blue": "only be able to use textbooks from 20 years ago",
+    "option_red": "only be able to use digital textbooks with constant glitches",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "school_0156",
+    "question": "Would you rather be the editor of the school newspaper or be the captain of the debate team?",
+    "option_blue": "be the editor of the school newspaper",
+    "option_red": "be the captain of the debate team",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "school_0157",
+    "question": "Would you rather sit in the front row for all your classes or sit in the back row for all your classes and never see the board?",
+    "option_blue": "sit in the front row for all your classes",
+    "option_red": "sit in the back row for all your classes and never see the board",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "school_0158",
+    "question": "Would you rather take a class that is too easy and boring or take a class that is too hard and frustrating?",
+    "option_blue": "take a class that is too easy and boring",
+    "option_red": "take a class that is too hard and frustrating",
+    "global_votes_blue": 72,
+    "global_votes_red": 28
+  },
+  {
+    "id": "school_0159",
+    "question": "Would you rather always be late for your first class of the day or always be late turning in every assignment by one minute?",
+    "option_blue": "always be late for your first class of the day",
+    "option_red": "always be late turning in every assignment by one minute",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "school_0160",
+    "question": "Would you rather be able to ace any test without studying or be able to write any essay perfectly without researching?",
+    "option_blue": "be able to ace any test without studying",
+    "option_red": "be able to write any essay perfectly without researching",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "school_0161",
+    "question": "Would you rather redo high school as an adult or start college as a child genius?",
+    "option_blue": "redo high school as an adult",
+    "option_red": "start college as a child genius",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "school_0162",
+    "question": "Would you rather be able to draw perfectly anything you see or be able to memorize perfectly anything you read?",
+    "option_blue": "be able to draw perfectly anything you see",
+    "option_red": "be able to memorize perfectly anything you read",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "school_0163",
+    "question": "Would you rather have your backpack weigh 50 pounds every day or have to carry all your school supplies in your arms every day?",
+    "option_blue": "have your backpack weigh 50 pounds every day",
+    "option_red": "have to carry all your school supplies in your arms every day",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "school_0164",
+    "question": "Would you rather only wear mismatched socks to school or only wear your pajamas to school?",
+    "option_blue": "only wear mismatched socks to school",
+    "option_red": "only wear your pajamas to school",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "school_0165",
+    "question": "Would you rather study for an exam for weeks and still fail it or cram the night before and barely pass it?",
+    "option_blue": "study for an exam for weeks and still fail it",
+    "option_red": "cram the night before and barely pass it",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "school_0166",
+    "question": "Would you rather graduate with honors but no social skills or graduate with amazing social skills but average grades?",
+    "option_blue": "graduate with honors but no social skills",
+    "option_red": "graduate with amazing social skills but average grades",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "school_0167",
+    "question": "Would you rather have an extra hour of school every day or have school on Saturdays for half a day?",
+    "option_blue": "have an extra hour of school every day",
+    "option_red": "have school on Saturdays for half a day",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "school_0168",
+    "question": "Would you rather always forget your locker combination or always lose the key to your locker?",
+    "option_blue": "always forget your locker combination",
+    "option_red": "always lose the key to your locker",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "school_0169",
+    "question": "Would you rather only be able to learn by listening to podcasts or only be able to learn by reading textbooks?",
+    "option_blue": "only be able to learn by listening to podcasts",
+    "option_red": "only be able to learn by reading textbooks",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "school_0170",
+    "question": "Would you rather wear your pajamas to school every day or wear a full suit to school every day?",
+    "option_blue": "wear your pajamas to school every day",
+    "option_red": "wear a full suit to school every day",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "school_0171",
+    "question": "Would you rather live in a haunted dorm room or live in a dorm room with extremely noisy roommates?",
+    "option_blue": "live in a haunted dorm room",
+    "option_red": "live in a dorm room with extremely noisy roommates",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "school_0172",
+    "question": "Would you rather have the school mascot be a scary monster or have the school mascot be a tiny, cute animal?",
+    "option_blue": "have the school mascot be a scary monster",
+    "option_red": "have the school mascot be a tiny, cute animal",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "school_0173",
+    "question": "Would you rather only be allowed to use a calculator for writing assignments or only be allowed to use a dictionary for math assignments?",
+    "option_blue": "only be allowed to use a calculator for writing assignments",
+    "option_red": "only be allowed to use a dictionary for math assignments",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "school_0174",
+    "question": "Would you rather have your backpack weigh 50 pounds every day or forget at least one essential item every day?",
+    "option_blue": "have your backpack weigh 50 pounds every day",
+    "option_red": "forget at least one essential item every day",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "school_0175",
+    "question": "Would you rather be able to magically clean your dorm room instantly or be able to magically finish all your laundry instantly?",
+    "option_blue": "be able to magically clean your dorm room instantly",
+    "option_red": "be able to magically finish all your laundry instantly",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "school_0176",
+    "question": "Would you rather have a school uniform that changes daily or have to design your own new school uniform every year?",
+    "option_blue": "have a school uniform that changes daily",
+    "option_red": "have to design your own new school uniform every year",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "school_0177",
+    "question": "Would you rather have your school library only contain children's books or have your school library only contain ancient, unreadable texts?",
+    "option_blue": "have your school library only contain children's books",
+    "option_red": "have your school library only contain ancient, unreadable texts",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "school_0178",
+    "question": "Would you rather always smell like gym class or always have sticky hands during school?",
+    "option_blue": "always smell like gym class",
+    "option_red": "always have sticky hands during school",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "school_0179",
+    "question": "Would you rather forget everything you learned after graduation or remember everything but never be able to apply it?",
+    "option_blue": "forget everything you learned after graduation",
+    "option_red": "remember everything but never be able to apply it",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "school_0180",
+    "question": "Would you rather have to teach a class you barely understand or have to be taught by a teacher who barely understands the subject?",
+    "option_blue": "have to teach a class you barely understand",
+    "option_red": "have to be taught by a teacher who barely understands the subject",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "school_0181",
+    "question": "Would you rather always have an ink stain on your face or always have chalk dust on your hair?",
+    "option_blue": "always have an ink stain on your face",
+    "option_red": "always have chalk dust on your hair",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "school_0182",
+    "question": "Would you rather only learn through textbooks or only learn through lectures?",
+    "option_blue": "only learn through textbooks",
+    "option_red": "only learn through lectures",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "school_0183",
+    "question": "Would you rather be forced to take gym class every day or be forced to take public speaking every day?",
+    "option_blue": "be forced to take gym class every day",
+    "option_red": "be forced to take public speaking every day",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "school_0184",
+    "question": "Would you rather be able to instantly master any musical instrument or be able to instantly master any foreign language?",
+    "option_blue": "be able to instantly master any musical instrument",
+    "option_red": "be able to instantly master any foreign language",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  }
+]

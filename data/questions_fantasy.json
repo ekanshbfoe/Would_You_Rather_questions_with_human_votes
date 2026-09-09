@@ -1,0 +1,330 @@
+[
+  {
+    "id": "fantasy_0001",
+    "question": "Would you rather live in the Game of Thrones universe or live in The Walking Dead universe?",
+    "option_blue": "live in the Game of Thrones universe",
+    "option_red": "live in The Walking Dead universe",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "fantasy_0002",
+    "question": "Would you rather have Harry Potter’s wand or Green Lantern’s ring?",
+    "option_blue": "have Harry Potter’s wand",
+    "option_red": "Green Lantern’s ring",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "fantasy_0003",
+    "question": "Would you rather be able to fly or be able to read people’s thoughts?",
+    "option_blue": "be able to fly",
+    "option_red": "be able to read people’s thoughts",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "fantasy_0004",
+    "question": "Would you rather become a mermaid or become a dragon?",
+    "option_blue": "become a mermaid",
+    "option_red": "become a dragon",
+    "global_votes_blue": 23,
+    "global_votes_red": 77
+  },
+  {
+    "id": "fantasy_0005",
+    "question": "Would you rather be Dumbledore or Gandalf?",
+    "option_blue": "be Dumbledore",
+    "option_red": "Gandalf",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "fantasy_0006",
+    "question": "Would you rather be able to speak to animals or be able to read other people’s thoughts?",
+    "option_blue": "be able to speak to animals",
+    "option_red": "be able to read other people’s thoughts",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "fantasy_0007",
+    "question": "Would you rather be able to change your appearance or change your personality?",
+    "option_blue": "be able to change your appearance",
+    "option_red": "change your personality",
+    "global_votes_blue": 82,
+    "global_votes_red": 18
+  },
+  {
+    "id": "fantasy_0008",
+    "question": "Would you rather be able to see through clothing or able to turn water into beer?",
+    "option_blue": "be able to see through clothing",
+    "option_red": "able to turn water into beer",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "fantasy_0009",
+    "question": "Would you rather meet your past self and give them advice or meet your future self to see how you turned out?",
+    "option_blue": "meet your past self and give them advice",
+    "option_red": "meet your future self to see how you turned out",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "fantasy_0010",
+    "question": "Would you rather be able to change the color of anything with just a thought or know every language that has ever been spoken on Earth?",
+    "option_blue": "be able to change the color of anything with just a thought",
+    "option_red": "know every language that has ever been spoken on Earth",
+    "global_votes_blue": 12,
+    "global_votes_red": 88
+  },
+  {
+    "id": "fantasy_0011",
+    "question": "Would you rather own a unicorn that tries biting you daily or own a dragon that's afraid of mice?",
+    "option_blue": "own a unicorn that tries biting you daily",
+    "option_red": "own a dragon that's afraid of mice",
+    "global_votes_blue": 9,
+    "global_votes_red": 91
+  },
+  {
+    "id": "fantasy_0012",
+    "question": "Would you rather be able to copy the talents of people who cross your path or able to move objects through the power of thought?",
+    "option_blue": "be able to copy the talents of people who cross your path",
+    "option_red": "able to move objects through the power of thought",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "fantasy_0013",
+    "question": "Would you rather live in a world where you're royalty or live in a world where you're a superhero?",
+    "option_blue": "live in a world where you're royalty",
+    "option_red": "live in a world where you're a superhero",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "fantasy_0014",
+    "question": "Would you rather die a hero or live long enough to see yourself become the villain?",
+    "option_blue": "die a hero",
+    "option_red": "live long enough to see yourself become the villain",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "fantasy_0015",
+    "question": "Would you rather be trapped inside your favorite video game or have your favorite video game become alive in the real world?",
+    "option_blue": "be trapped inside your favorite video game",
+    "option_red": "have your favorite video game become alive in the real world",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "fantasy_0016",
+    "question": "Would you rather have a cloak that makes you invisible or have boots that allow you to jump across entire cities?",
+    "option_blue": "have a cloak that makes you invisible",
+    "option_red": "have boots that allow you to jump across entire cities",
+    "global_votes_blue": 69,
+    "global_votes_red": 31
+  },
+  {
+    "id": "fantasy_0017",
+    "question": "Would you rather randomly time travel +/- 20 years every time you fart or teleport to a different place on Earth (on land) every time you sneeze?",
+    "option_blue": "randomly time travel +/- 20 years every time you fart",
+    "option_red": "teleport to a different place on Earth (on land) every time you sneeze",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "fantasy_0018",
+    "question": "Would you rather sacrifice 10 years of your life to save someone's life or give up your ability to feel joy to save someone you love?",
+    "option_blue": "sacrifice 10 years of your life to save someone's life",
+    "option_red": "give up your ability to feel joy to save someone you love",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "fantasy_0019",
+    "question": "Would you rather have a magic carpet that flies or have a see-through submarine?",
+    "option_blue": "have a magic carpet that flies",
+    "option_red": "have a see-through submarine",
+    "global_votes_blue": 84,
+    "global_votes_red": 16
+  },
+  {
+    "id": "fantasy_0020",
+    "question": "Would you rather be under attack by zombies or by Martians?",
+    "option_blue": "be under attack by zombies",
+    "option_red": "by Martians",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "fantasy_0021",
+    "question": "Would you rather be able to shapeshift into any animal or be able to control fire with your hands?",
+    "option_blue": "be able to shapeshift into any animal",
+    "option_red": "be able to control fire with your hands",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "fantasy_0022",
+    "question": "Would you rather be able to read any book in one second just by touching it or own a flying van that teleports itself?",
+    "option_blue": "be able to read any book in one second just by touching it",
+    "option_red": "own a flying van that teleports itself",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "fantasy_0023",
+    "question": "Would you rather summon any creature for a day or control time for 10 minutes?",
+    "option_blue": "summon any creature for a day",
+    "option_red": "control time for 10 minutes",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "fantasy_0024",
+    "question": "Would you rather participate in the Hunger Games or be thrown into The Labyrinth?",
+    "option_blue": "participate in the Hunger Games",
+    "option_red": "be thrown into The Labyrinth",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "fantasy_0025",
+    "question": "Would you rather make plants grow very quickly or be able to make it rain whenever you wanted?",
+    "option_blue": "make plants grow very quickly",
+    "option_red": "be able to make it rain whenever you wanted",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "fantasy_0026",
+    "question": "Would you rather be able to change the future or the past, just by imagining it?",
+    "option_blue": "be able to change the future",
+    "option_red": "the past, just by imagining it",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "fantasy_0027",
+    "question": "Would you rather live in a utopia where everything is peaceful, but you can’t leave or live in a dystopia where danger is everywhere, but you can explore the world freely?",
+    "option_blue": "live in a utopia where everything is peaceful, but you can’t leave",
+    "option_red": "live in a dystopia where danger is everywhere, but you can explore the world freely",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "fantasy_0028",
+    "question": "Would you rather have enough money for the rest of your life or live in a fantasy world for the rest of your life?",
+    "option_blue": "have enough money for the rest of your life",
+    "option_red": "live in a fantasy world for the rest of your life",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "fantasy_0029",
+    "question": "Would you rather meet your future self to get advice or meet your past self to give advice?",
+    "option_blue": "meet your future self to get advice",
+    "option_red": "meet your past self to give advice",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "fantasy_0030",
+    "question": "Would you rather be Superman or Spiderman?",
+    "option_blue": "be Superman",
+    "option_red": "Spiderman",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "fantasy_0031",
+    "question": "Would you rather be able to shrink down to the size of an ant or grow to the size of an elephant?",
+    "option_blue": "be able to shrink down to the size of an ant",
+    "option_red": "grow to the size of an elephant",
+    "global_votes_blue": 69,
+    "global_votes_red": 31
+  },
+  {
+    "id": "fantasy_0032",
+    "question": "Would you rather be able to move silently or have an incredibly loud and scary voice?",
+    "option_blue": "be able to move silently",
+    "option_red": "have an incredibly loud and scary voice",
+    "global_votes_blue": 89,
+    "global_votes_red": 11
+  },
+  {
+    "id": "fantasy_0033",
+    "question": "Would you rather be able to kill insects and spiders by just looking at them or able to make a small flame appear on your finger?",
+    "option_blue": "be able to kill insects and spiders by just looking at them",
+    "option_red": "able to make a small flame appear on your finger",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "fantasy_0034",
+    "question": "Would you rather be able to relive any memory or suck on your finger to get nice weather?",
+    "option_blue": "be able to relive any memory",
+    "option_red": "suck on your finger to get nice weather",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "fantasy_0035",
+    "question": "Would you rather know the history of every person you touch or be able to talk to animals?",
+    "option_blue": "know the history of every person you touch",
+    "option_red": "be able to talk to animals",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "fantasy_0036",
+    "question": "Would you rather have a pet dragon or have a pet wolf?",
+    "option_blue": "have a pet dragon",
+    "option_red": "have a pet wolf",
+    "global_votes_blue": 73,
+    "global_votes_red": 27
+  },
+  {
+    "id": "fantasy_0037",
+    "question": "Would you rather have night vision or hear ten times better?",
+    "option_blue": "have night vision",
+    "option_red": "hear ten times better",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "fantasy_0038",
+    "question": "Would you rather never have to eat again or morph into another human being whenever you feel like it?",
+    "option_blue": "never have to eat again",
+    "option_red": "morph into another human being whenever you feel like it",
+    "global_votes_blue": 21,
+    "global_votes_red": 79
+  },
+  {
+    "id": "fantasy_0039",
+    "question": "Would you rather be hunted by Jason Bourne or Jack Bauer?",
+    "option_blue": "be hunted by Jason Bourne",
+    "option_red": "Jack Bauer",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "fantasy_0040",
+    "question": "Would you rather be able to control your tiredness or able to make someone say whatever you want any time you want?",
+    "option_blue": "be able to control your tiredness",
+    "option_red": "able to make someone say whatever you want any time you want",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "fantasy_0041",
+    "question": "Would you rather have the ability to change your body and face anyway you want or be able to turn the clock back 24 hours once a month?",
+    "option_blue": "have the ability to change your body and face anyway you want",
+    "option_red": "be able to turn the clock back 24 hours once a month",
+    "global_votes_blue": 70,
+    "global_votes_red": 30
+  }
+]

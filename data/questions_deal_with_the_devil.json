@@ -1,0 +1,530 @@
+[
+  {
+    "id": "deal_with_the_devil_0001",
+    "question": "Would you rather be best friends with Zendaya, BUT Tom Holland hates you or be best friends with Tom Holland, BUT Zendaya hates you?",
+    "option_blue": "be best friends with Zendaya, BUT Tom Holland hates you",
+    "option_red": "be best friends with Tom Holland, BUT Zendaya hates you",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "deal_with_the_devil_0002",
+    "question": "Would you rather teleport anywhere, BUT you always land in the middle of a crowded public bathroom or have superhuman strength, BUT the heavier the object, the slower you move?",
+    "option_blue": "teleport anywhere, BUT you always land in the middle of a crowded public bathroom",
+    "option_red": "have superhuman strength, BUT the heavier the object, the slower you move",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "deal_with_the_devil_0003",
+    "question": "Would you rather have a beautiful singing voice, but only sing vulgar music or have a lousy voice, but sing beautiful songs?",
+    "option_blue": "have a beautiful singing voice, but only sing vulgar music",
+    "option_red": "have a lousy voice, but sing beautiful songs",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "deal_with_the_devil_0004",
+    "question": "Would you rather be able to turn invisible, BUT you hear a high-pitched ringing the whole time or teleport anywhere, BUT you always arrive drenched in sweat?",
+    "option_blue": "be able to turn invisible, BUT you hear a high-pitched ringing the whole time",
+    "option_red": "teleport anywhere, BUT you always arrive drenched in sweat",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "deal_with_the_devil_0005",
+    "question": "Would you rather get free meals at restaurants, BUT they always give you the wrong order or stay at luxury hotels for free, BUT you share your room with a loud stranger?",
+    "option_blue": "get free meals at restaurants, BUT they always give you the wrong order",
+    "option_red": "stay at luxury hotels for free, BUT you share your room with a loud stranger",
+    "global_votes_blue": 84,
+    "global_votes_red": 16
+  },
+  {
+    "id": "deal_with_the_devil_0006",
+    "question": "Would you rather teleport anywhere, BUT you arrive butt-naked every time or have superhuman strength, BUT your clothes shrink dramatically when you lift something?",
+    "option_blue": "teleport anywhere, BUT you arrive butt-naked every time",
+    "option_red": "have superhuman strength, BUT your clothes shrink dramatically when you lift something",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "deal_with_the_devil_0007",
+    "question": "Would you rather read anyone's mind, BUT you uncontrollably cry every time you do or be able to shapeshift into anything, BUT it only lasts for 10 minutes at a time?",
+    "option_blue": "read anyone's mind, BUT you uncontrollably cry every time you do",
+    "option_red": "be able to shapeshift into anything, BUT it only lasts for 10 minutes at a time",
+    "global_votes_blue": 16,
+    "global_votes_red": 84
+  },
+  {
+    "id": "deal_with_the_devil_0008",
+    "question": "Would you rather teleport anywhere, BUT you're paralyzed for 30 minutes upon arrival or have superhuman strength, BUT everything you lift sticks to your hands for an hour?",
+    "option_blue": "teleport anywhere, BUT you're paralyzed for 30 minutes upon arrival",
+    "option_red": "have superhuman strength, BUT everything you lift sticks to your hands for an hour",
+    "global_votes_blue": 78,
+    "global_votes_red": 22
+  },
+  {
+    "id": "deal_with_the_devil_0009",
+    "question": "Would you rather have the latest smartphone every year, BUT you're bombarded with ads all day or have all apps completely ad-free, BUT the volume is permanently stuck at max?",
+    "option_blue": "have the latest smartphone every year, BUT you're bombarded with ads all day",
+    "option_red": "have all apps completely ad-free, BUT the volume is permanently stuck at max",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "deal_with_the_devil_0010",
+    "question": "Would you rather have unlimited hot water in your shower, BUT your water pressure is always weak or get perfect water pressure, BUT water takes 60 minutes to heat up?",
+    "option_blue": "have unlimited hot water in your shower, BUT your water pressure is always weak",
+    "option_red": "get perfect water pressure, BUT water takes 60 minutes to heat up",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "deal_with_the_devil_0011",
+    "question": "Would you rather have the comfiest bed ever, BUT it’s always just warm enough to make you slightly uncomfortable or never wake up feeling tired, BUT you’re always up and wide awake by 4 a.m., no matter what?",
+    "option_blue": "have the comfiest bed ever, BUT it’s always just warm enough to make you slightly uncomfortable",
+    "option_red": "never wake up feeling tired, BUT you’re always up and wide awake by 4 a.m., no matter what",
+    "global_votes_blue": 12,
+    "global_votes_red": 88
+  },
+  {
+    "id": "deal_with_the_devil_0012",
+    "question": "Would you rather have a best friend always available, BUT they only talk about themselves or have a best friend always there for you, BUT they constantly show up uninvited?",
+    "option_blue": "have a best friend always available, BUT they only talk about themselves",
+    "option_red": "have a best friend always there for you, BUT they constantly show up uninvited",
+    "global_votes_blue": 13,
+    "global_votes_red": 87
+  },
+  {
+    "id": "deal_with_the_devil_0013",
+    "question": "Would you rather be able to communicate with animals, BUT only when you're crying or have the ability to grow plants instantly, BUT only when you’re extremely angry?",
+    "option_blue": "be able to communicate with animals, BUT only when you're crying",
+    "option_red": "have the ability to grow plants instantly, BUT only when you’re extremely angry",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "deal_with_the_devil_0014",
+    "question": "Would you rather hear every conversation in a 10-meter radius, BUT you can never block out the noise or have X-ray vision, BUT you can never turn it off?",
+    "option_blue": "hear every conversation in a 10-meter radius, BUT you can never block out the noise",
+    "option_red": "have X-ray vision, BUT you can never turn it off",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "deal_with_the_devil_0015",
+    "question": "Would you rather easily make new friends, BUT you forget their names next time you see them or easily make new friends, BUT always forget what you were talking about?",
+    "option_blue": "easily make new friends, BUT you forget their names next time you see them",
+    "option_red": "easily make new friends, BUT always forget what you were talking about",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "deal_with_the_devil_0016",
+    "question": "Would you rather read anyone's mind, BUT you permanently lose the ability to lie or always know what someone is thinking about you, BUT you can never respond?",
+    "option_blue": "read anyone's mind, BUT you permanently lose the ability to lie",
+    "option_red": "always know what someone is thinking about you, BUT you can never respond",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "deal_with_the_devil_0017",
+    "question": "Would you rather have the power of flight, BUT only at night or teleport anywhere, BUT you can't bring items?",
+    "option_blue": "have the power of flight, BUT only at night",
+    "option_red": "teleport anywhere, BUT you can't bring items",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "deal_with_the_devil_0018",
+    "question": "Would you rather read anyone's mind, BUT you get a headache or hear the thoughts of animals, BUT they constantly insult you?",
+    "option_blue": "read anyone's mind, BUT you get a headache",
+    "option_red": "hear the thoughts of animals, BUT they constantly insult you",
+    "global_votes_blue": 77,
+    "global_votes_red": 23
+  },
+  {
+    "id": "deal_with_the_devil_0019",
+    "question": "Would you rather have the ability to read minds, BUT feel extreme guilt for a week after each use or always know the truth about people, BUT lose the ability to lie yourself?",
+    "option_blue": "have the ability to read minds, BUT feel extreme guilt for a week after each use",
+    "option_red": "always know the truth about people, BUT lose the ability to lie yourself",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "deal_with_the_devil_0020",
+    "question": "Would you rather be able to turn invisible, BUT people forget you exist while you're invisible or read anyone's mind, BUT experience their emotional pain as your own?",
+    "option_blue": "be able to turn invisible, BUT people forget you exist while you're invisible",
+    "option_red": "read anyone's mind, BUT experience their emotional pain as your own",
+    "global_votes_blue": 74,
+    "global_votes_red": 26
+  },
+  {
+    "id": "deal_with_the_devil_0021",
+    "question": "Would you rather be able to turn invisible, BUT you lose 1 hour of your life each time or be able to fly, BUT feel extreme sadness on days you don't fly?",
+    "option_blue": "be able to turn invisible, BUT you lose 1 hour of your life each time",
+    "option_red": "be able to fly, BUT feel extreme sadness on days you don't fly",
+    "global_votes_blue": 20,
+    "global_votes_red": 80
+  },
+  {
+    "id": "deal_with_the_devil_0022",
+    "question": "Would you rather always get exactly what you want, BUT everyone hates you for it or have unlimited wealth, BUT every time you spend money, you feel intense physical pain?",
+    "option_blue": "always get exactly what you want, BUT everyone hates you for it",
+    "option_red": "have unlimited wealth, BUT every time you spend money, you feel intense physical pain",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "deal_with_the_devil_0023",
+    "question": "Would you rather be world-famous, BUT you can never use social media again or be world-famous, BUT must sign autographs for 5 hours daily?",
+    "option_blue": "be world-famous, BUT you can never use social media again",
+    "option_red": "be world-famous, BUT must sign autographs for 5 hours daily",
+    "global_votes_blue": 69,
+    "global_votes_red": 31
+  },
+  {
+    "id": "deal_with_the_devil_0024",
+    "question": "Would you rather teleport anywhere, BUT you lose a random sense for 1 hour or shapeshift into anyone, BUT you lose all your clothes when you return to your original form?",
+    "option_blue": "teleport anywhere, BUT you lose a random sense for 1 hour",
+    "option_red": "shapeshift into anyone, BUT you lose all your clothes when you return to your original form",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "deal_with_the_devil_0025",
+    "question": "Would you rather be in a loving relationship, BUT your partner is obsessed with selfies or be in a loving relationship, BUT your partner insists on matching outfits daily?",
+    "option_blue": "be in a loving relationship, BUT your partner is obsessed with selfies",
+    "option_red": "be in a loving relationship, BUT your partner insists on matching outfits daily",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "deal_with_the_devil_0026",
+    "question": "Would you rather read anyone's mind, BUT you can't speak for 3 days after or have superhuman strength, BUT you're extremely weak for 3 days after each use?",
+    "option_blue": "read anyone's mind, BUT you can't speak for 3 days after",
+    "option_red": "have superhuman strength, BUT you're extremely weak for 3 days after each use",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "deal_with_the_devil_0027",
+    "question": "Would you rather be able to turn invisible, BUT your shadow is still visible and waves at people or be able to fly, BUT a cloud of glitter constantly follows you wherever you go?",
+    "option_blue": "be able to turn invisible, BUT your shadow is still visible and waves at people",
+    "option_red": "be able to fly, BUT a cloud of glitter constantly follows you wherever you go",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "deal_with_the_devil_0028",
+    "question": "Would you rather be able to see all the mistakes you’ll ever make, BUT not be able to avoid them or know everyone’s secrets, BUT they all know yours?",
+    "option_blue": "be able to see all the mistakes you’ll ever make, BUT not be able to avoid them",
+    "option_red": "know everyone’s secrets, BUT they all know yours",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "deal_with_the_devil_0029",
+    "question": "Would you rather be able to turn invisible, BUT you must scream “I AM INVISIBLE!” every 10 seconds or be able to fly, BUT you must use a wheelchair for a month after landing?",
+    "option_blue": "be able to turn invisible, BUT you must scream “I AM INVISIBLE!” every 10 seconds",
+    "option_red": "be able to fly, BUT you must use a wheelchair for a month after landing",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "deal_with_the_devil_0030",
+    "question": "Would you rather have superhuman strength, BUT your empathy fades more each time you use it or teleport anywhere, BUT you feel the pain of being torn apart and reassembled?",
+    "option_blue": "have superhuman strength, BUT your empathy fades more each time you use it",
+    "option_red": "teleport anywhere, BUT you feel the pain of being torn apart and reassembled",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "deal_with_the_devil_0031",
+    "question": "Would you rather get VIP access to all events, BUT you can only travel by hitchhiking or travel anywhere for free, BUT you always get stranded at the airport for 24 hours?",
+    "option_blue": "get VIP access to all events, BUT you can only travel by hitchhiking",
+    "option_red": "travel anywhere for free, BUT you always get stranded at the airport for 24 hours",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "deal_with_the_devil_0032",
+    "question": "Would you rather teleport anywhere, BUT you must hug the first person you see or teleport anywhere, BUT you always interrupt someone about to kiss?",
+    "option_blue": "teleport anywhere, BUT you must hug the first person you see",
+    "option_red": "teleport anywhere, BUT you always interrupt someone about to kiss",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "deal_with_the_devil_0033",
+    "question": "Would you rather have superhuman strength, BUT you lose your ability to speak for a week after each use or have superhuman strength, BUT you can't control emotions for the rest of the day after each use?",
+    "option_blue": "have superhuman strength, BUT you lose your ability to speak for a week after each use",
+    "option_red": "have superhuman strength, BUT you can't control emotions for the rest of the day after each use",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "deal_with_the_devil_0034",
+    "question": "Would you rather be able to turn invisible, BUT you feel an excruciating burning pain or read anyone's mind, BUT only hear their worst thoughts about you?",
+    "option_blue": "be able to turn invisible, BUT you feel an excruciating burning pain",
+    "option_red": "read anyone's mind, BUT only hear their worst thoughts about you",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "deal_with_the_devil_0035",
+    "question": "Would you rather be beautiful but really smelly or very ugly but smell delicious?",
+    "option_blue": "be beautiful but really smelly",
+    "option_red": "very ugly but smell delicious",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "deal_with_the_devil_0036",
+    "question": "Would you rather excel at one thing, but be really bad at everything else or be very average at everything?",
+    "option_blue": "excel at one thing, but be really bad at everything else",
+    "option_red": "be very average at everything",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "deal_with_the_devil_0037",
+    "question": "Would you rather be able to fly, BUT you become increasingly blind the higher you go or be able to turn invisible, BUT you can’t see or hear anything while invisible?",
+    "option_blue": "be able to fly, BUT you become increasingly blind the higher you go",
+    "option_red": "be able to turn invisible, BUT you can’t see or hear anything while invisible",
+    "global_votes_blue": 83,
+    "global_votes_red": 17
+  },
+  {
+    "id": "deal_with_the_devil_0038",
+    "question": "Would you rather be able to turn invisible, BUT you can't touch or be touched or be able to fly, BUT you get random intense muscle cramps while flying?",
+    "option_blue": "be able to turn invisible, BUT you can't touch or be touched",
+    "option_red": "be able to fly, BUT you get random intense muscle cramps while flying",
+    "global_votes_blue": 81,
+    "global_votes_red": 19
+  },
+  {
+    "id": "deal_with_the_devil_0039",
+    "question": "Would you rather teleport anywhere, BUT randomly gain or lose a body part for a few hours or have the power of shapeshifting, BUT you’re stuck as the last thing you transformed into for 24 hours?",
+    "option_blue": "teleport anywhere, BUT randomly gain or lose a body part for a few hours",
+    "option_red": "have the power of shapeshifting, BUT you’re stuck as the last thing you transformed into for 24 hours",
+    "global_votes_blue": 22,
+    "global_votes_red": 78
+  },
+  {
+    "id": "deal_with_the_devil_0040",
+    "question": "Would you rather your laptop always runs super fast, BUT the keyboard stops working randomly for 10 minutes daily or never charge your devices again, BUT they freeze for an hour daily?",
+    "option_blue": "your laptop always runs super fast, BUT the keyboard stops working randomly for 10 minutes daily",
+    "option_red": "never charge your devices again, BUT they freeze for an hour daily",
+    "global_votes_blue": 73,
+    "global_votes_red": 27
+  },
+  {
+    "id": "deal_with_the_devil_0041",
+    "question": "Would you rather know all the secrets of the universe, BUT never be able to tell anyone or have the ability to see people’s futures, BUT never be able to change them?",
+    "option_blue": "know all the secrets of the universe, BUT never be able to tell anyone",
+    "option_red": "have the ability to see people’s futures, BUT never be able to change them",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "deal_with_the_devil_0042",
+    "question": "Would you rather have a great PC, but not know how to use it or be a computer pro, but with a PC that crashes three times a day?",
+    "option_blue": "have a great PC, but not know how to use it",
+    "option_red": "be a computer pro, but with a PC that crashes three times a day",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "deal_with_the_devil_0043",
+    "question": "Would you rather be able to fly, BUT you become physically frail for a week after each flight or read anyone's mind, BUT you can't recognize faces for a week?",
+    "option_blue": "be able to fly, BUT you become physically frail for a week after each flight",
+    "option_red": "read anyone's mind, BUT you can't recognize faces for a week",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "deal_with_the_devil_0044",
+    "question": "Would you rather have your dream job, BUT you can never quit, even if you end up hating it or work any job you want, BUT you’re forced to switch jobs every six months?",
+    "option_blue": "have your dream job, BUT you can never quit, even if you end up hating it",
+    "option_red": "work any job you want, BUT you’re forced to switch jobs every six months",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "deal_with_the_devil_0045",
+    "question": "Would you rather teleport anywhere, BUT only to places you’ve never been before or travel through time, BUT only to moments where nothing important happens?",
+    "option_blue": "teleport anywhere, BUT only to places you’ve never been before",
+    "option_red": "travel through time, BUT only to moments where nothing important happens",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "deal_with_the_devil_0046",
+    "question": "Would you rather be able to fly, BUT you have to moo loudly every 5 minutes or teleport anywhere, BUT you always arrive drenched in sweat?",
+    "option_blue": "be able to fly, BUT you have to moo loudly every 5 minutes",
+    "option_red": "teleport anywhere, BUT you always arrive drenched in sweat",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "deal_with_the_devil_0047",
+    "question": "Would you rather be able to turn invisible, BUT you must dance to stay hidden or be able to fly, BUT you must sing loudly the entire time you're airborne?",
+    "option_blue": "be able to turn invisible, BUT you must dance to stay hidden",
+    "option_red": "be able to fly, BUT you must sing loudly the entire time you're airborne",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "deal_with_the_devil_0048",
+    "question": "Would you rather be loved by everyone, BUT you can never be alone or be hated by most, BUT have endless personal freedom?",
+    "option_blue": "be loved by everyone, BUT you can never be alone",
+    "option_red": "be hated by most, BUT have endless personal freedom",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "deal_with_the_devil_0049",
+    "question": "Would you rather have flawless skin, BUT every day is a bad hair day or have amazing hair, BUT you always have a breakout?",
+    "option_blue": "have flawless skin, BUT every day is a bad hair day",
+    "option_red": "have amazing hair, BUT you always have a breakout",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "deal_with_the_devil_0050",
+    "question": "Would you rather be able to turn invisible, BUT your clothes remain visible or be able to fly, BUT you must flap your arms like a chicken?",
+    "option_blue": "be able to turn invisible, BUT your clothes remain visible",
+    "option_red": "be able to fly, BUT you must flap your arms like a chicken",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "deal_with_the_devil_0051",
+    "question": "Would you rather earn double your current salary, BUT you have to wear a clown costume to work every day or be the best in your field, BUT must work with your most annoying colleague forever?",
+    "option_blue": "earn double your current salary, BUT you have to wear a clown costume to work every day",
+    "option_red": "be the best in your field, BUT must work with your most annoying colleague forever",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "deal_with_the_devil_0052",
+    "question": "Would you rather have superhuman strength, BUT your bones become more brittle each use or have superhuman strength, BUT forget an important skill each time you use it?",
+    "option_blue": "have superhuman strength, BUT your bones become more brittle each use",
+    "option_red": "have superhuman strength, BUT forget an important skill each time you use it",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "deal_with_the_devil_0053",
+    "question": "Would you rather read anyone's mind, BUT they hear your thoughts in return or hear all lies, BUT you can't tell the truth?",
+    "option_blue": "read anyone's mind, BUT they hear your thoughts in return",
+    "option_red": "hear all lies, BUT you can't tell the truth",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "deal_with_the_devil_0054",
+    "question": "Would you rather have superhuman strength, BUT can't touch delicate things without breaking them or turn invisible, BUT you can’t open doors while hidden?",
+    "option_blue": "have superhuman strength, BUT can't touch delicate things without breaking them",
+    "option_red": "turn invisible, BUT you can’t open doors while hidden",
+    "global_votes_blue": 18,
+    "global_votes_red": 82
+  },
+  {
+    "id": "deal_with_the_devil_0055",
+    "question": "Would you rather have a dream car, BUT it’s always on low fuel or have unlimited fuel, BUT it’s for a rusty old car?",
+    "option_blue": "have a dream car, BUT it’s always on low fuel",
+    "option_red": "have unlimited fuel, BUT it’s for a rusty old car",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "deal_with_the_devil_0056",
+    "question": "Would you rather become a billionaire, BUT you can never make any friends or have a great social life, BUT only earn minimum wage?",
+    "option_blue": "become a billionaire, BUT you can never make any friends",
+    "option_red": "have a great social life, BUT only earn minimum wage",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "deal_with_the_devil_0057",
+    "question": "Would you rather have superhuman strength, BUT you shrink by half an inch each time you use it or have superhuman strength, BUT gain a new phobia after each use?",
+    "option_blue": "have superhuman strength, BUT you shrink by half an inch each time you use it",
+    "option_red": "have superhuman strength, BUT gain a new phobia after each use",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "deal_with_the_devil_0058",
+    "question": "Would you rather read anyone's mind, BUT can't control when it happens or always know when someone is lying, BUT you must loudly call them out?",
+    "option_blue": "read anyone's mind, BUT can't control when it happens",
+    "option_red": "always know when someone is lying, BUT you must loudly call them out",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "deal_with_the_devil_0059",
+    "question": "Would you rather live in your dream home, BUT it's always 10 degrees too hot or cold or live in a tiny space, BUT it's always the perfect temperature?",
+    "option_blue": "live in your dream home, BUT it's always 10 degrees too hot or cold",
+    "option_red": "live in a tiny space, BUT it's always the perfect temperature",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "deal_with_the_devil_0060",
+    "question": "Would you rather be able to fly, BUT you lose your sense of direction mid-air or run at super speed, BUT you trip and fall every 10 minutes?",
+    "option_blue": "be able to fly, BUT you lose your sense of direction mid-air",
+    "option_red": "run at super speed, BUT you trip and fall every 10 minutes",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "deal_with_the_devil_0061",
+    "question": "Would you rather become a billionaire, BUT you must wear uncomfortable, itchy clothes forever or have unlimited money, BUT you can only sleep for 4 hours a night?",
+    "option_blue": "become a billionaire, BUT you must wear uncomfortable, itchy clothes forever",
+    "option_red": "have unlimited money, BUT you can only sleep for 4 hours a night",
+    "global_votes_blue": 16,
+    "global_votes_red": 84
+  },
+  {
+    "id": "deal_with_the_devil_0062",
+    "question": "Would you rather be able to turn invisible, BUT people forget you exist while you're invisible or freeze time, BUT you’re frozen for an hour after restarting?",
+    "option_blue": "be able to turn invisible, BUT people forget you exist while you're invisible",
+    "option_red": "freeze time, BUT you’re frozen for an hour after restarting",
+    "global_votes_blue": 69,
+    "global_votes_red": 31
+  },
+  {
+    "id": "deal_with_the_devil_0063",
+    "question": "Would you rather go to any concert for free BUT you’re always behind a tall person or watch any movie for free, BUT the ending is spoiled every time?",
+    "option_blue": "go to any concert for free BUT you’re always behind a tall person",
+    "option_red": "watch any movie for free, BUT the ending is spoiled every time",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "deal_with_the_devil_0064",
+    "question": "Would you rather your TV always has perfect quality, BUT the remote works only half the time or access all streaming services free, BUT your screen goes black for 10 minutes every hour?",
+    "option_blue": "your TV always has perfect quality, BUT the remote works only half the time",
+    "option_red": "access all streaming services free, BUT your screen goes black for 10 minutes every hour",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "deal_with_the_devil_0065",
+    "question": "Would you rather win $20 million in the lottery, but know that you will die within 3 years or not win the lottery, but know you will live for another 60 years?",
+    "option_blue": "win $20 million in the lottery, but know that you will die within 3 years",
+    "option_red": "not win the lottery, but know you will live for another 60 years",
+    "global_votes_blue": 25,
+    "global_votes_red": 75
+  },
+  {
+    "id": "deal_with_the_devil_0066",
+    "question": "Would you rather read anyone's mind, BUT you loudly blurt out your last thought or teleport anywhere, BUT arrive yelling \"i need to shit!\"?",
+    "option_blue": "read anyone's mind, BUT you loudly blurt out your last thought",
+    "option_red": "teleport anywhere, BUT arrive yelling \"i need to shit!\"",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  }
+]

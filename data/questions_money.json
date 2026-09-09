@@ -1,0 +1,1434 @@
+[
+  {
+    "id": "money_0001",
+    "question": "Would you rather always owe someone a small amount of money or always be owed a small amount of money by someone?",
+    "option_blue": "always owe someone a small amount of money",
+    "option_red": "always be owed a small amount of money by someone",
+    "global_votes_blue": 17,
+    "global_votes_red": 83
+  },
+  {
+    "id": "money_0002",
+    "question": "Would you rather own a successful business that you hate or work a job you love but barely make ends meet?",
+    "option_blue": "own a successful business that you hate",
+    "option_red": "work a job you love but barely make ends meet",
+    "global_votes_blue": 78,
+    "global_votes_red": 22
+  },
+  {
+    "id": "money_0003",
+    "question": "Would you rather live in a huge mansion alone or live in a modest apartment with loved ones?",
+    "option_blue": "live in a huge mansion alone",
+    "option_red": "live in a modest apartment with loved ones",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "money_0004",
+    "question": "Would you rather have a life where money is never a concern or have a life filled with love but financial struggles?",
+    "option_blue": "have a life where money is never a concern",
+    "option_red": "have a life filled with love but financial struggles",
+    "global_votes_blue": 81,
+    "global_votes_red": 19
+  },
+  {
+    "id": "money_0005",
+    "question": "Would you rather be able to instantly create any artwork for profit or be able to instantly repair any broken item for profit?",
+    "option_blue": "be able to instantly create any artwork for profit",
+    "option_red": "be able to instantly repair any broken item for profit",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "money_0006",
+    "question": "Would you rather win a small lottery every week for life or win one massive lottery jackpot once?",
+    "option_blue": "win a small lottery every week for life",
+    "option_red": "win one massive lottery jackpot once",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "money_0007",
+    "question": "Would you rather be a billionaire with no true friends or be poor with devoted, lifelong friends?",
+    "option_blue": "be a billionaire with no true friends",
+    "option_red": "be poor with devoted, lifelong friends",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "money_0008",
+    "question": "Would you rather own a successful business that you hate doing or work a fulfilling job that barely pays the bills?",
+    "option_blue": "own a successful business that you hate doing",
+    "option_red": "work a fulfilling job that barely pays the bills",
+    "global_votes_blue": 81,
+    "global_votes_red": 19
+  },
+  {
+    "id": "money_0009",
+    "question": "Would you rather lose a large sum of money gambling or lose a large sum of money to a scam artist?",
+    "option_blue": "lose a large sum of money gambling",
+    "option_red": "lose a large sum of money to a scam artist",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "money_0010",
+    "question": "Would you rather never pay taxes again legally or never pay for housing again legally?",
+    "option_blue": "never pay taxes again legally",
+    "option_red": "never pay for housing again legally",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "money_0011",
+    "question": "Would you rather be the richest person in a poor country or be an average person in a rich country?",
+    "option_blue": "be the richest person in a poor country",
+    "option_red": "be an average person in a rich country",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "money_0012",
+    "question": "Would you rather receive a huge bonus but your boss takes all the credit or receive a small bonus and full recognition for your work?",
+    "option_blue": "receive a huge bonus but your boss takes all the credit",
+    "option_red": "receive a small bonus and full recognition for your work",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "money_0013",
+    "question": "Would you rather win a million dollars but never travel again or travel the world for free but always be broke?",
+    "option_blue": "win a million dollars but never travel again",
+    "option_red": "travel the world for free but always be broke",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "money_0014",
+    "question": "Would you rather live lavishly for 10 years then be broke or live modestly for life with steady income?",
+    "option_blue": "live lavishly for 10 years then be broke",
+    "option_red": "live modestly for life with steady income",
+    "global_votes_blue": 12,
+    "global_votes_red": 88
+  },
+  {
+    "id": "money_0015",
+    "question": "Would you rather give all your money to a worthy charity or receive double the amount you would give away?",
+    "option_blue": "give all your money to a worthy charity",
+    "option_red": "receive double the amount you would give away",
+    "global_votes_blue": 15,
+    "global_votes_red": 85
+  },
+  {
+    "id": "money_0016",
+    "question": "Would you rather be financially independent but never travel or travel the world but always be on a tight budget?",
+    "option_blue": "be financially independent but never travel",
+    "option_red": "travel the world but always be on a tight budget",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "money_0017",
+    "question": "Would you rather be wildly successful but universally disliked or be loved by all but marginally successful?",
+    "option_blue": "be wildly successful but universally disliked",
+    "option_red": "be loved by all but marginally successful",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "money_0018",
+    "question": "Would you rather always know the best stock to invest in or always know the winning lottery numbers?",
+    "option_blue": "always know the best stock to invest in",
+    "option_red": "always know the winning lottery numbers",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "money_0019",
+    "question": "Would you rather have everything you buy be 50% off for life or have someone else pay all your bills for a year?",
+    "option_blue": "have everything you buy be 50% off for life",
+    "option_red": "have someone else pay all your bills for a year",
+    "global_votes_blue": 83,
+    "global_votes_red": 17
+  },
+  {
+    "id": "money_0020",
+    "question": "Would you rather always find money in old clothes pockets or never pay for shipping online again?",
+    "option_blue": "always find money in old clothes pockets",
+    "option_red": "never pay for shipping online again",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "money_0021",
+    "question": "Would you rather be the most financially savvy person in the world but never rich or be financially reckless but always lucky with money?",
+    "option_blue": "be the most financially savvy person in the world but never rich",
+    "option_red": "be financially reckless but always lucky with money",
+    "global_votes_blue": 16,
+    "global_votes_red": 84
+  },
+  {
+    "id": "money_0022",
+    "question": "Would you rather always know the future of your investments or always know the perfect gift to buy for anyone?",
+    "option_blue": "always know the future of your investments",
+    "option_red": "always know the perfect gift to buy for anyone",
+    "global_votes_blue": 76,
+    "global_votes_red": 24
+  },
+  {
+    "id": "money_0023",
+    "question": "Would you rather have to steal to survive financially or have to beg to survive financially?",
+    "option_blue": "have to steal to survive financially",
+    "option_red": "have to beg to survive financially",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "money_0024",
+    "question": "Would you rather always find money on the ground everywhere you go or always find exactly what you need for free?",
+    "option_blue": "always find money on the ground everywhere you go",
+    "option_red": "always find exactly what you need for free",
+    "global_votes_blue": 18,
+    "global_votes_red": 82
+  },
+  {
+    "id": "money_0025",
+    "question": "Would you rather live a life of luxury and hedonism for 10 years then lose it all or live a comfortable, modest life forever?",
+    "option_blue": "live a life of luxury and hedonism for 10 years then lose it all",
+    "option_red": "live a comfortable, modest life forever",
+    "global_votes_blue": 10,
+    "global_votes_red": 90
+  },
+  {
+    "id": "money_0026",
+    "question": "Would you rather live in a mansion alone far from civilization or live in a tiny apartment in a vibrant, bustling city?",
+    "option_blue": "live in a mansion alone far from civilization",
+    "option_red": "live in a tiny apartment in a vibrant, bustling city",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "money_0027",
+    "question": "Would you rather be super rich but be terrible at managing money or be extremely frugal and comfortable but never rich?",
+    "option_blue": "be super rich but be terrible at managing money",
+    "option_red": "be extremely frugal and comfortable but never rich",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "money_0028",
+    "question": "Would you rather have all your debts instantly erased or receive a bonus equal to your current debts?",
+    "option_blue": "have all your debts instantly erased",
+    "option_red": "receive a bonus equal to your current debts",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "money_0029",
+    "question": "Would you rather be able to conjure any amount of money once a year or be able to conjure any small item at will?",
+    "option_blue": "be able to conjure any amount of money once a year",
+    "option_red": "be able to conjure any small item at will",
+    "global_votes_blue": 74,
+    "global_votes_red": 26
+  },
+  {
+    "id": "money_0030",
+    "question": "Would you rather lose all your non-monetary possessions to gain a million dollars or lose a million dollars to keep all your possessions?",
+    "option_blue": "lose all your non-monetary possessions to gain a million dollars",
+    "option_red": "lose a million dollars to keep all your possessions",
+    "global_votes_blue": 73,
+    "global_votes_red": 27
+  },
+  {
+    "id": "money_0031",
+    "question": "Would you rather be paid a million dollars to never speak again or speak freely but struggle financially forever?",
+    "option_blue": "be paid a million dollars to never speak again",
+    "option_red": "speak freely but struggle financially forever",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "money_0032",
+    "question": "Would you rather never have to work again but live a simple life or work a high-stress job and live lavishly?",
+    "option_blue": "never have to work again but live a simple life",
+    "option_red": "work a high-stress job and live lavishly",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "money_0033",
+    "question": "Would you rather be able to buy anything you want for a day or have all your student loans or mortgage paid off?",
+    "option_blue": "be able to buy anything you want for a day",
+    "option_red": "have all your student loans or mortgage paid off",
+    "global_votes_blue": 72,
+    "global_votes_red": 28
+  },
+  {
+    "id": "money_0034",
+    "question": "Would you rather work 20 hours a week for a modest salary or work 80 hours a week for a huge salary?",
+    "option_blue": "work 20 hours a week for a modest salary",
+    "option_red": "work 80 hours a week for a huge salary",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "money_0035",
+    "question": "Would you rather have endless disposable income for fun activities or have endless money to save for retirement?",
+    "option_blue": "have endless disposable income for fun activities",
+    "option_red": "have endless money to save for retirement",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "money_0036",
+    "question": "Would you rather always get free gourmet meals but never groceries or always get free groceries but never restaurant meals?",
+    "option_blue": "always get free gourmet meals but never groceries",
+    "option_red": "always get free groceries but never restaurant meals",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "money_0037",
+    "question": "Would you rather start a successful company from scratch or inherit a highly successful existing company?",
+    "option_blue": "start a successful company from scratch",
+    "option_red": "inherit a highly successful existing company",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "money_0038",
+    "question": "Would you rather have unlimited passive income but work a thankless job or have to actively work every day for your income but love it?",
+    "option_blue": "have unlimited passive income but work a thankless job",
+    "option_red": "have to actively work every day for your income but love it",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "money_0039",
+    "question": "Would you rather have a bank account with infinite money but no credit cards or have unlimited credit but a finite bank balance?",
+    "option_blue": "have a bank account with infinite money but no credit cards",
+    "option_red": "have unlimited credit but a finite bank balance",
+    "global_votes_blue": 83,
+    "global_votes_red": 17
+  },
+  {
+    "id": "money_0040",
+    "question": "Would you rather live a life of luxury but always feel guilty about it or live a modest life and always feel content?",
+    "option_blue": "live a life of luxury but always feel guilty about it",
+    "option_red": "live a modest life and always feel content",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "money_0041",
+    "question": "Would you rather be paid a million dollars to never use the internet again or have unlimited premium internet access but earn minimum wage?",
+    "option_blue": "be paid a million dollars to never use the internet again",
+    "option_red": "have unlimited premium internet access but earn minimum wage",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "money_0042",
+    "question": "Would you rather have all taxes abolished for you personally or have all your healthcare costs covered for life?",
+    "option_blue": "have all taxes abolished for you personally",
+    "option_red": "have all your healthcare costs covered for life",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "money_0043",
+    "question": "Would you rather have a guaranteed job for life but low pay or have a high-paying job but constant job insecurity?",
+    "option_blue": "have a guaranteed job for life but low pay",
+    "option_red": "have a high-paying job but constant job insecurity",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "money_0044",
+    "question": "Would you rather spend your entire life working to build an empire or spend your entire life enjoying simple pleasures?",
+    "option_blue": "spend your entire life working to build an empire",
+    "option_red": "spend your entire life enjoying simple pleasures",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "money_0045",
+    "question": "Would you rather be able to retire at 30 but be bored for decades or work until 60 and always pursue new passions?",
+    "option_blue": "be able to retire at 30 but be bored for decades",
+    "option_red": "work until 60 and always pursue new passions",
+    "global_votes_blue": 23,
+    "global_votes_red": 77
+  },
+  {
+    "id": "money_0046",
+    "question": "Would you rather only be able to shop at discount stores for life or only be able to shop at luxury stores for life?",
+    "option_blue": "only be able to shop at discount stores for life",
+    "option_red": "only be able to shop at luxury stores for life",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "money_0047",
+    "question": "Would you rather have all your bills automatically paid for life or be given a blank check once a year?",
+    "option_blue": "have all your bills automatically paid for life",
+    "option_red": "be given a blank check once a year",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "money_0048",
+    "question": "Would you rather have a secret offshore bank account with millions or be publicly recognized for your charitable donations?",
+    "option_blue": "have a secret offshore bank account with millions",
+    "option_red": "be publicly recognized for your charitable donations",
+    "global_votes_blue": 83,
+    "global_votes_red": 17
+  },
+  {
+    "id": "money_0049",
+    "question": "Would you rather receive a large sum of money now but die in one year or live a long life with a modest income?",
+    "option_blue": "receive a large sum of money now but die in one year",
+    "option_red": "live a long life with a modest income",
+    "global_votes_blue": 18,
+    "global_votes_red": 82
+  },
+  {
+    "id": "money_0050",
+    "question": "Would you rather find a wallet with £1000 in it every month or always find a free parking spot right away?",
+    "option_blue": "find a wallet with £1000 in it every month",
+    "option_red": "always find a free parking spot right away",
+    "global_votes_blue": 81,
+    "global_votes_red": 19
+  },
+  {
+    "id": "money_0051",
+    "question": "Would you rather have your dream job with a low salary or have a tolerable job with a high salary?",
+    "option_blue": "have your dream job with a low salary",
+    "option_red": "have a tolerable job with a high salary",
+    "global_votes_blue": 20,
+    "global_votes_red": 80
+  },
+  {
+    "id": "money_0052",
+    "question": "Would you rather always get the best deals on everything you buy or never have to pay for internet or utilities?",
+    "option_blue": "always get the best deals on everything you buy",
+    "option_red": "never have to pay for internet or utilities",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "money_0053",
+    "question": "Would you rather always get the best deals on everything you buy or always be given things you need for free?",
+    "option_blue": "always get the best deals on everything you buy",
+    "option_red": "always be given things you need for free",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "money_0054",
+    "question": "Would you rather receive a lifetime supply of delicious food but no more money or have enough money to buy any food you want?",
+    "option_blue": "receive a lifetime supply of delicious food but no more money",
+    "option_red": "have enough money to buy any food you want",
+    "global_votes_blue": 9,
+    "global_votes_red": 91
+  },
+  {
+    "id": "money_0055",
+    "question": "Would you rather always get a 50% discount on everything you buy or always be gifted the most expensive item on your wishlist periodically?",
+    "option_blue": "always get a 50% discount on everything you buy",
+    "option_red": "always be gifted the most expensive item on your wishlist periodically",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "money_0056",
+    "question": "Would you rather be able to buy anything you want but never use it or not be able to buy anything but always be content?",
+    "option_blue": "be able to buy anything you want but never use it",
+    "option_red": "not be able to buy anything but always be content",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "money_0057",
+    "question": "Would you rather have your bank account automatically triple overnight or be able to predict the outcome of any sporting event?",
+    "option_blue": "have your bank account automatically triple overnight",
+    "option_red": "be able to predict the outcome of any sporting event",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "money_0058",
+    "question": "Would you rather receive a large sum of money with an ethical dilemma attached or earn a modest sum of money purely through honest hard work?",
+    "option_blue": "receive a large sum of money with an ethical dilemma attached",
+    "option_red": "earn a modest sum of money purely through honest hard work",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "money_0059",
+    "question": "Would you rather earn money from a job you hate but are good at or earn less money from a job you love but struggle with?",
+    "option_blue": "earn money from a job you hate but are good at",
+    "option_red": "earn less money from a job you love but struggle with",
+    "global_votes_blue": 77,
+    "global_votes_red": 23
+  },
+  {
+    "id": "money_0060",
+    "question": "Would you rather lend money to all your friends and family or never lend money but give gifts instead?",
+    "option_blue": "lend money to all your friends and family",
+    "option_red": "never lend money but give gifts instead",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "money_0061",
+    "question": "Would you rather only be able to buy things on sale or only be able to buy things at full price, but get free delivery?",
+    "option_blue": "only be able to buy things on sale",
+    "option_red": "only be able to buy things at full price, but get free delivery",
+    "global_votes_blue": 59,
+    "global_votes_red": 41
+  },
+  {
+    "id": "money_0062",
+    "question": "Would you rather always have a fully stocked fridge for free or always have free transportation anywhere you need to go?",
+    "option_blue": "always have a fully stocked fridge for free",
+    "option_red": "always have free transportation anywhere you need to go",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "money_0063",
+    "question": "Would you rather be incredibly wealthy but everyone thinks you're poor or appear wealthy but actually be struggling financially?",
+    "option_blue": "be incredibly wealthy but everyone thinks you're poor",
+    "option_red": "appear wealthy but actually be struggling financially",
+    "global_votes_blue": 89,
+    "global_votes_red": 11
+  },
+  {
+    "id": "money_0064",
+    "question": "Would you rather pay off all your debts instantly but never earn another dollar or keep your debts but have a steady, growing income?",
+    "option_blue": "pay off all your debts instantly but never earn another dollar",
+    "option_red": "keep your debts but have a steady, growing income",
+    "global_votes_blue": 13,
+    "global_votes_red": 87
+  },
+  {
+    "id": "money_0065",
+    "question": "Would you rather be given a fortune but instantly forget everyone you know or keep your memories and relationships but stay at your current income?",
+    "option_blue": "be given a fortune but instantly forget everyone you know",
+    "option_red": "keep your memories and relationships but stay at your current income",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "money_0066",
+    "question": "Would you rather have your dream home custom-built and paid for or have passive income that covers your dream lifestyle forever?",
+    "option_blue": "have your dream home custom-built and paid for",
+    "option_red": "have passive income that covers your dream lifestyle forever",
+    "global_votes_blue": 20,
+    "global_votes_red": 80
+  },
+  {
+    "id": "money_0067",
+    "question": "Would you rather be audited by the IRS every year or have a mandatory credit check every month?",
+    "option_blue": "be audited by the IRS every year",
+    "option_red": "have a mandatory credit check every month",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "money_0068",
+    "question": "Would you rather live in a huge mansion alone or live in a cozy home with great friends?",
+    "option_blue": "live in a huge mansion alone",
+    "option_red": "live in a cozy home with great friends",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "money_0069",
+    "question": "Would you rather be able to perfectly predict the stock market or be able to perfectly predict sports outcomes?",
+    "option_blue": "be able to perfectly predict the stock market",
+    "option_red": "be able to perfectly predict sports outcomes",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "money_0070",
+    "question": "Would you rather be financially responsible for your entire family or be financially dependent on your entire family?",
+    "option_blue": "be financially responsible for your entire family",
+    "option_red": "be financially dependent on your entire family",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "money_0071",
+    "question": "Would you rather have enough money to buy anything you desire or have the talent to create anything you desire?",
+    "option_blue": "have enough money to buy anything you desire",
+    "option_red": "have the talent to create anything you desire",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "money_0072",
+    "question": "Would you rather start a successful small business with high stress or work a stable corporate job with low stress?",
+    "option_blue": "start a successful small business with high stress",
+    "option_red": "work a stable corporate job with low stress",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "money_0073",
+    "question": "Would you rather be a well-paid but despised public figure or be a beloved but barely-paid community leader?",
+    "option_blue": "be a well-paid but despised public figure",
+    "option_red": "be a beloved but barely-paid community leader",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "money_0074",
+    "question": "Would you rather have every bill you pay be covered by an anonymous benefactor or have every purchase you make for fun be free?",
+    "option_blue": "have every bill you pay be covered by an anonymous benefactor",
+    "option_red": "have every purchase you make for fun be free",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "money_0075",
+    "question": "Would you rather only be able to spend money on necessities or only be able to spend money on luxuries?",
+    "option_blue": "only be able to spend money on necessities",
+    "option_red": "only be able to spend money on luxuries",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "money_0076",
+    "question": "Would you rather be given a million dollars to spend in one day or be given a thousand dollars every day for five years?",
+    "option_blue": "be given a million dollars to spend in one day",
+    "option_red": "be given a thousand dollars every day for five years",
+    "global_votes_blue": 25,
+    "global_votes_red": 75
+  },
+  {
+    "id": "money_0077",
+    "question": "Would you rather have a job that pays millions but you hate it or have a job you love that pays just enough to get by?",
+    "option_blue": "have a job that pays millions but you hate it",
+    "option_red": "have a job you love that pays just enough to get by",
+    "global_votes_blue": 71,
+    "global_votes_red": 29
+  },
+  {
+    "id": "money_0078",
+    "question": "Would you rather have an endless supply of money but no free time or have abundant free time but limited money?",
+    "option_blue": "have an endless supply of money but no free time",
+    "option_red": "have abundant free time but limited money",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "money_0079",
+    "question": "Would you rather only be able to buy used items for the rest of your life or only be able to buy brand new items but at double the price?",
+    "option_blue": "only be able to buy used items for the rest of your life",
+    "option_red": "only be able to buy brand new items but at double the price",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "money_0080",
+    "question": "Would you rather be paid a large sum to live in complete isolation for a year or live a normal social life with an average income?",
+    "option_blue": "be paid a large sum to live in complete isolation for a year",
+    "option_red": "live a normal social life with an average income",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "money_0081",
+    "question": "Would you rather pay for a luxurious trip for your entire family or invest the same amount in a cause you believe in?",
+    "option_blue": "pay for a luxurious trip for your entire family",
+    "option_red": "invest the same amount in a cause you believe in",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "money_0082",
+    "question": "Would you rather never have to pay for food again or never have to pay for housing again?",
+    "option_blue": "never have to pay for food again",
+    "option_red": "never have to pay for housing again",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "money_0083",
+    "question": "Would you rather invest all your money in a risky startup or keep all your money in a low-interest savings account?",
+    "option_blue": "invest all your money in a risky startup",
+    "option_red": "keep all your money in a low-interest savings account",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "money_0084",
+    "question": "Would you rather always find money on the ground but never more than a dollar or occasionally find large sums of money by chance?",
+    "option_blue": "always find money on the ground but never more than a dollar",
+    "option_red": "occasionally find large sums of money by chance",
+    "global_votes_blue": 21,
+    "global_votes_red": 79
+  },
+  {
+    "id": "money_0085",
+    "question": "Would you rather earn millions but be unable to use technology or live below the poverty line but have all technology you want?",
+    "option_blue": "earn millions but be unable to use technology",
+    "option_red": "live below the poverty line but have all technology you want",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "money_0086",
+    "question": "Would you rather receive a large inheritance but have no memory of the person or have a lifelong mentor who leaves you nothing?",
+    "option_blue": "receive a large inheritance but have no memory of the person",
+    "option_red": "have a lifelong mentor who leaves you nothing",
+    "global_votes_blue": 67,
+    "global_votes_red": 33
+  },
+  {
+    "id": "money_0087",
+    "question": "Would you rather pay for everyone's meal at every restaurant or pay for everyone's travel expenses on every trip?",
+    "option_blue": "pay for everyone's meal at every restaurant",
+    "option_red": "pay for everyone's travel expenses on every trip",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "money_0088",
+    "question": "Would you rather have a financially stable partner you don't love or have a penniless partner you deeply adore?",
+    "option_blue": "have a financially stable partner you don't love",
+    "option_red": "have a penniless partner you deeply adore",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "money_0089",
+    "question": "Would you rather spend all your money on experiences or spend all your money on luxury items?",
+    "option_blue": "spend all your money on experiences",
+    "option_red": "spend all your money on luxury items",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "money_0090",
+    "question": "Would you rather be super rich but constantly stressed about losing your wealth or be middle class and completely content with your finances?",
+    "option_blue": "be super rich but constantly stressed about losing your wealth",
+    "option_red": "be middle class and completely content with your finances",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "money_0091",
+    "question": "Would you rather be given a fully paid-for dream house but have to live there alone or buy a modest house with friends or family?",
+    "option_blue": "be given a fully paid-for dream house but have to live there alone",
+    "option_red": "buy a modest house with friends or family",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "money_0092",
+    "question": "Would you rather have a magic wallet that always has enough cash or have a magic credit card that always approves purchases?",
+    "option_blue": "have a magic wallet that always has enough cash",
+    "option_red": "have a magic credit card that always approves purchases",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "money_0093",
+    "question": "Would you rather be paid to sleep for 10 hours daily or be paid to work for 4 hours daily?",
+    "option_blue": "be paid to sleep for 10 hours daily",
+    "option_red": "be paid to work for 4 hours daily",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "money_0094",
+    "question": "Would you rather receive a monthly allowance of a thousand dollars for life or receive a one-time lump sum of one hundred thousand dollars?",
+    "option_blue": "receive a monthly allowance of a thousand dollars for life",
+    "option_red": "receive a one-time lump sum of one hundred thousand dollars",
+    "global_votes_blue": 79,
+    "global_votes_red": 21
+  },
+  {
+    "id": "money_0095",
+    "question": "Would you rather own an island resort that requires constant management or own a large, low-maintenance passive income portfolio?",
+    "option_blue": "own an island resort that requires constant management",
+    "option_red": "own a large, low-maintenance passive income portfolio",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "money_0096",
+    "question": "Would you rather have unlimited money but never be able to spend it on yourself or be moderately wealthy and spend freely?",
+    "option_blue": "have unlimited money but never be able to spend it on yourself",
+    "option_red": "be moderately wealthy and spend freely",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "money_0097",
+    "question": "Would you rather find a bag of money but not know who it belongs to or lose your wallet but have it returned with everything in it?",
+    "option_blue": "find a bag of money but not know who it belongs to",
+    "option_red": "lose your wallet but have it returned with everything in it",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "money_0098",
+    "question": "Would you rather have a personal chef for life or have a personal driver for life?",
+    "option_blue": "have a personal chef for life",
+    "option_red": "have a personal driver for life",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "money_0099",
+    "question": "Would you rather have the power to instantly pay anyone's debt or have the power to instantly create a new successful business?",
+    "option_blue": "have the power to instantly pay anyone's debt",
+    "option_red": "have the power to instantly create a new successful business",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  },
+  {
+    "id": "money_0100",
+    "question": "Would you rather be able to talk your way into any free experience or be able to instantly manifest a useful skill?",
+    "option_blue": "be able to talk your way into any free experience",
+    "option_red": "be able to instantly manifest a useful skill",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "money_0101",
+    "question": "Would you rather be an unknown millionaire or be a famous person with moderate wealth?",
+    "option_blue": "be an unknown millionaire",
+    "option_red": "be a famous person with moderate wealth",
+    "global_votes_blue": 73,
+    "global_votes_red": 27
+  },
+  {
+    "id": "money_0102",
+    "question": "Would you rather have unlimited funds for charitable causes or have unlimited funds for your personal desires?",
+    "option_blue": "have unlimited funds for charitable causes",
+    "option_red": "have unlimited funds for your personal desires",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "money_0103",
+    "question": "Would you rather be paid a large sum to live in a windowless room for a month or work for free helping others for a month?",
+    "option_blue": "be paid a large sum to live in a windowless room for a month",
+    "option_red": "work for free helping others for a month",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "money_0104",
+    "question": "Would you rather be able to retire at 30 but have a mundane life or work until 65 at a fulfilling and exciting job?",
+    "option_blue": "be able to retire at 30 but have a mundane life",
+    "option_red": "work until 65 at a fulfilling and exciting job",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "money_0105",
+    "question": "Would you rather donate 90% of your earnings to charity or keep all your earnings but live a simple life?",
+    "option_blue": "donate 90% of your earnings to charity",
+    "option_red": "keep all your earnings but live a simple life",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "money_0106",
+    "question": "Would you rather lend money to friends and always get it back or borrow money from friends and never have to pay it back?",
+    "option_blue": "lend money to friends and always get it back",
+    "option_red": "borrow money from friends and never have to pay it back",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "money_0107",
+    "question": "Would you rather receive a large inheritance but lose a loved one or have no inheritance but keep all your loved ones?",
+    "option_blue": "receive a large inheritance but lose a loved one",
+    "option_red": "have no inheritance but keep all your loved ones",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "money_0108",
+    "question": "Would you rather have unlimited money but never be able to spend it or have just enough money but be able to spend it freely?",
+    "option_blue": "have unlimited money but never be able to spend it",
+    "option_red": "have just enough money but be able to spend it freely",
+    "global_votes_blue": 26,
+    "global_votes_red": 74
+  },
+  {
+    "id": "money_0109",
+    "question": "Would you rather be able to buy anything you want but have to give it away immediately or be able to buy one expensive item and keep it forever?",
+    "option_blue": "be able to buy anything you want but have to give it away immediately",
+    "option_red": "be able to buy one expensive item and keep it forever",
+    "global_votes_blue": 26,
+    "global_votes_red": 74
+  },
+  {
+    "id": "money_0110",
+    "question": "Would you rather always get a 50% discount on every purchase or never have to pay for food or drink again?",
+    "option_blue": "always get a 50% discount on every purchase",
+    "option_red": "never have to pay for food or drink again",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "money_0111",
+    "question": "Would you rather always have exactly the right amount of money for everything or always have more than enough money but never know what to do with it?",
+    "option_blue": "always have exactly the right amount of money for everything",
+    "option_red": "always have more than enough money but never know what to do with it",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "money_0112",
+    "question": "Would you rather fund a groundbreaking scientific discovery or build numerous schools in underserved communities?",
+    "option_blue": "fund a groundbreaking scientific discovery",
+    "option_red": "build numerous schools in underserved communities",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "money_0113",
+    "question": "Would you rather be paid a lump sum for all future birthdays and holidays or receive surprising small financial gifts frequently?",
+    "option_blue": "be paid a lump sum for all future birthdays and holidays",
+    "option_red": "receive surprising small financial gifts frequently",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "money_0114",
+    "question": "Would you rather own a valuable but constantly breaking possession or own a cheap but perfectly reliable possession?",
+    "option_blue": "own a valuable but constantly breaking possession",
+    "option_red": "own a cheap but perfectly reliable possession",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "money_0115",
+    "question": "Would you rather have a financially secure but boring job or have a thrilling but financially unstable job?",
+    "option_blue": "have a financially secure but boring job",
+    "option_red": "have a thrilling but financially unstable job",
+    "global_votes_blue": 73,
+    "global_votes_red": 27
+  },
+  {
+    "id": "money_0116",
+    "question": "Would you rather always have expensive tastes despite limited funds or always be content with simple, inexpensive things?",
+    "option_blue": "always have expensive tastes despite limited funds",
+    "option_red": "always be content with simple, inexpensive things",
+    "global_votes_blue": 25,
+    "global_votes_red": 75
+  },
+  {
+    "id": "money_0117",
+    "question": "Would you rather spend money on a lavish vacation every year or spend money on upgrading your home every year?",
+    "option_blue": "spend money on a lavish vacation every year",
+    "option_red": "spend money on upgrading your home every year",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "money_0118",
+    "question": "Would you rather start a successful business from nothing or inherit a pre-existing successful business?",
+    "option_blue": "start a successful business from nothing",
+    "option_red": "inherit a pre-existing successful business",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "money_0119",
+    "question": "Would you rather own a private island with limited resources or own a large city apartment with endless amenities nearby?",
+    "option_blue": "own a private island with limited resources",
+    "option_red": "own a large city apartment with endless amenities nearby",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "money_0120",
+    "question": "Would you rather experience extreme poverty once to appreciate wealth or never know true poverty but also never be truly rich?",
+    "option_blue": "experience extreme poverty once to appreciate wealth",
+    "option_red": "never know true poverty but also never be truly rich",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "money_0121",
+    "question": "Would you rather receive a large inheritance but have to give away half to charity or earn all your money yourself from scratch?",
+    "option_blue": "receive a large inheritance but have to give away half to charity",
+    "option_red": "earn all your money yourself from scratch",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "money_0122",
+    "question": "Would you rather earn money by helping others achieve financial goals or earn money by being a highly skilled professional gamer?",
+    "option_blue": "earn money by helping others achieve financial goals",
+    "option_red": "earn money by being a highly skilled professional gamer",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "money_0123",
+    "question": "Would you rather have immense wealth but terrible health or have perfect health but live paycheck to paycheck?",
+    "option_blue": "have immense wealth but terrible health",
+    "option_red": "have perfect health but live paycheck to paycheck",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "money_0124",
+    "question": "Would you rather receive a huge inheritance but it comes with a curse or earn every penny yourself with no supernatural interference?",
+    "option_blue": "receive a huge inheritance but it comes with a curse",
+    "option_red": "earn every penny yourself with no supernatural interference",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "money_0125",
+    "question": "Would you rather lose all your money and have to start over from scratch at 40 or never achieve financial success but have strong relationships?",
+    "option_blue": "lose all your money and have to start over from scratch at 40",
+    "option_red": "never achieve financial success but have strong relationships",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "money_0126",
+    "question": "Would you rather receive a bonus of £5000 every month or have your standard of living doubled instantly?",
+    "option_blue": "receive a bonus of £5000 every month",
+    "option_red": "have your standard of living doubled instantly",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "money_0127",
+    "question": "Would you rather never pay taxes again or never pay for healthcare again?",
+    "option_blue": "never pay taxes again",
+    "option_red": "never pay for healthcare again",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "money_0128",
+    "question": "Would you rather be extremely wealthy but always bored or be constantly struggling but always entertained?",
+    "option_blue": "be extremely wealthy but always bored",
+    "option_red": "be constantly struggling but always entertained",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "money_0129",
+    "question": "Would you rather lose all your money but gain vast wisdom or maintain your wealth but remain naive?",
+    "option_blue": "lose all your money but gain vast wisdom",
+    "option_red": "maintain your wealth but remain naive",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "money_0130",
+    "question": "Would you rather lose all your money but gain immense wisdom or keep all your money but remain naive?",
+    "option_blue": "lose all your money but gain immense wisdom",
+    "option_red": "keep all your money but remain naive",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "money_0131",
+    "question": "Would you rather be a financial advisor to billionaires or be a highly successful independent investor?",
+    "option_blue": "be a financial advisor to billionaires",
+    "option_red": "be a highly successful independent investor",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "money_0132",
+    "question": "Would you rather be paid to travel the world constantly or be paid a large salary to work from home always?",
+    "option_blue": "be paid to travel the world constantly",
+    "option_red": "be paid a large salary to work from home always",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "money_0133",
+    "question": "Would you rather have access to all the money you'll ever need but only between 9am-5pm or have a limited but constant flow of money available 24/7?",
+    "option_blue": "have access to all the money you'll ever need but only between 9am-5pm",
+    "option_red": "have a limited but constant flow of money available 24/7",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "money_0134",
+    "question": "Would you rather have a magic credit card with an unlimited limit but high interest or have a magic debit card with a limited but refillable balance?",
+    "option_blue": "have a magic credit card with an unlimited limit but high interest",
+    "option_red": "have a magic debit card with a limited but refillable balance",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "money_0135",
+    "question": "Would you rather have a perfect credit score but no cash or have lots of cash but terrible credit?",
+    "option_blue": "have a perfect credit score but no cash",
+    "option_red": "have lots of cash but terrible credit",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "money_0136",
+    "question": "Would you rather pay for everything in exact change automatically or never carry a wallet or purse but always find what you need?",
+    "option_blue": "pay for everything in exact change automatically",
+    "option_red": "never carry a wallet or purse but always find what you need",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "money_0137",
+    "question": "Would you rather be wealthy but constantly stressed about losing it or be content with little but always financially secure?",
+    "option_blue": "be wealthy but constantly stressed about losing it",
+    "option_red": "be content with little but always financially secure",
+    "global_votes_blue": 40,
+    "global_votes_red": 60
+  },
+  {
+    "id": "money_0138",
+    "question": "Would you rather receive a million dollars but owe a life debt or have no debt but start with nothing?",
+    "option_blue": "receive a million dollars but owe a life debt",
+    "option_red": "have no debt but start with nothing",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "money_0139",
+    "question": "Would you rather own a profitable business that you hate or work for a non-profit organization that you love?",
+    "option_blue": "own a profitable business that you hate",
+    "option_red": "work for a non-profit organization that you love",
+    "global_votes_blue": 60,
+    "global_votes_red": 40
+  },
+  {
+    "id": "money_0140",
+    "question": "Would you rather be able to retire at 30 but be bored for the rest of your life or work until 65 at a job you love?",
+    "option_blue": "be able to retire at 30 but be bored for the rest of your life",
+    "option_red": "work until 65 at a job you love",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "money_0141",
+    "question": "Would you rather have a personal assistant for all your errands or have a personal financial advisor managing all your money?",
+    "option_blue": "have a personal assistant for all your errands",
+    "option_red": "have a personal financial advisor managing all your money",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "money_0142",
+    "question": "Would you rather be able to accurately predict the stock market for a year or be able to accurately predict lottery numbers for one drawing?",
+    "option_blue": "be able to accurately predict the stock market for a year",
+    "option_red": "be able to accurately predict lottery numbers for one drawing",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "money_0143",
+    "question": "Would you rather always have exactly the right amount of cash or never need to carry a wallet or purse?",
+    "option_blue": "always have exactly the right amount of cash",
+    "option_red": "never need to carry a wallet or purse",
+    "global_votes_blue": 58,
+    "global_votes_red": 42
+  },
+  {
+    "id": "money_0144",
+    "question": "Would you rather win the lottery and instantly lose all privacy or live a private life and never win the lottery?",
+    "option_blue": "win the lottery and instantly lose all privacy",
+    "option_red": "live a private life and never win the lottery",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "money_0145",
+    "question": "Would you rather be famous and rich but have no privacy or be unknown and comfortable but never achieve fame?",
+    "option_blue": "be famous and rich but have no privacy",
+    "option_red": "be unknown and comfortable but never achieve fame",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "money_0146",
+    "question": "Would you rather be able to accurately predict stock market changes or be able to invent one highly profitable product?",
+    "option_blue": "be able to accurately predict stock market changes",
+    "option_red": "be able to invent one highly profitable product",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "money_0147",
+    "question": "Would you rather make a lot of money doing something unethical or make a little money doing something truly good?",
+    "option_blue": "make a lot of money doing something unethical",
+    "option_red": "make a little money doing something truly good",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "money_0148",
+    "question": "Would you rather be famous for your wealth or be famous for your charitable contributions?",
+    "option_blue": "be famous for your wealth",
+    "option_red": "be famous for your charitable contributions",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "money_0149",
+    "question": "Would you rather be paid a million dollars to never speak again or speak freely but earn a modest living?",
+    "option_blue": "be paid a million dollars to never speak again",
+    "option_red": "speak freely but earn a modest living",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "money_0150",
+    "question": "Would you rather always be able to sell anything you own for profit or always be able to buy anything you need at cost?",
+    "option_blue": "always be able to sell anything you own for profit",
+    "option_red": "always be able to buy anything you need at cost",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "money_0151",
+    "question": "Would you rather always know the best financial decision to make or always know the best personal decision to make?",
+    "option_blue": "always know the best financial decision to make",
+    "option_red": "always know the best personal decision to make",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "money_0152",
+    "question": "Would you rather be paid to travel the world constantly or be paid to work from home on your own schedule?",
+    "option_blue": "be paid to travel the world constantly",
+    "option_red": "be paid to work from home on your own schedule",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "money_0153",
+    "question": "Would you rather be able to buy anything you want but only online or only be able to shop in physical stores but everything is 50% more expensive?",
+    "option_blue": "be able to buy anything you want but only online",
+    "option_red": "only be able to shop in physical stores but everything is 50% more expensive",
+    "global_votes_blue": 73,
+    "global_votes_red": 28
+  },
+  {
+    "id": "money_0154",
+    "question": "Would you rather be able to buy any piece of real estate or be able to buy any luxury vehicle?",
+    "option_blue": "be able to buy any piece of real estate",
+    "option_red": "be able to buy any luxury vehicle",
+    "global_votes_blue": 66,
+    "global_votes_red": 34
+  },
+  {
+    "id": "money_0155",
+    "question": "Would you rather lose all your money in a bad investment or never invest your money and stay poor?",
+    "option_blue": "lose all your money in a bad investment",
+    "option_red": "never invest your money and stay poor",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "money_0156",
+    "question": "Would you rather be a millionaire but have to work 80 hours a week or be a comfortable earner working 40 hours a week?",
+    "option_blue": "be a millionaire but have to work 80 hours a week",
+    "option_red": "be a comfortable earner working 40 hours a week",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "money_0157",
+    "question": "Would you rather always buy the cheapest version of everything or always buy the most expensive version of everything once a year?",
+    "option_blue": "always buy the cheapest version of everything",
+    "option_red": "always buy the most expensive version of everything once a year",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "money_0158",
+    "question": "Would you rather always find parking spaces immediately in busy areas or always get free upgrades on flights and hotels?",
+    "option_blue": "always find parking spaces immediately in busy areas",
+    "option_red": "always get free upgrades on flights and hotels",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "money_0159",
+    "question": "Would you rather have the power to create money at will or have the power to find anything you've lost?",
+    "option_blue": "have the power to create money at will",
+    "option_red": "have the power to find anything you've lost",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "money_0160",
+    "question": "Would you rather be able to live without working at all or be able to choose exactly when and where you work?",
+    "option_blue": "be able to live without working at all",
+    "option_red": "be able to choose exactly when and where you work",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "money_0161",
+    "question": "Would you rather be able to print perfect counterfeit money instantly or be able to instantly identify genuine rare collectibles for profit?",
+    "option_blue": "be able to print perfect counterfeit money instantly",
+    "option_red": "be able to instantly identify genuine rare collectibles for profit",
+    "global_votes_blue": 49,
+    "global_votes_red": 51
+  },
+  {
+    "id": "money_0162",
+    "question": "Would you rather be a financially successful criminal or be a respected but struggling artist?",
+    "option_blue": "be a financially successful criminal",
+    "option_red": "be a respected but struggling artist",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "money_0163",
+    "question": "Would you rather pay for everything with exact change or never have exact change and always overpay slightly?",
+    "option_blue": "pay for everything with exact change",
+    "option_red": "never have exact change and always overpay slightly",
+    "global_votes_blue": 68,
+    "global_votes_red": 33
+  },
+  {
+    "id": "money_0164",
+    "question": "Would you rather have a personal chef for life paid for by others or have a personal trainer for life paid for by others?",
+    "option_blue": "have a personal chef for life paid for by others",
+    "option_red": "have a personal trainer for life paid for by others",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "money_0165",
+    "question": "Would you rather have the power to create money out of thin air but only for others or have the power to create money only for yourself?",
+    "option_blue": "have the power to create money out of thin air but only for others",
+    "option_red": "have the power to create money only for yourself",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "money_0166",
+    "question": "Would you rather retire early with moderate savings or work until old age with extreme wealth?",
+    "option_blue": "retire early with moderate savings",
+    "option_red": "work until old age with extreme wealth",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "money_0167",
+    "question": "Would you rather own three vacation homes you rarely visit or have free travel to any single destination for life?",
+    "option_blue": "own three vacation homes you rarely visit",
+    "option_red": "have free travel to any single destination for life",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "money_0168",
+    "question": "Would you rather be guaranteed a comfortable life with no financial worries or take huge financial risks for the chance at extreme wealth?",
+    "option_blue": "be guaranteed a comfortable life with no financial worries",
+    "option_red": "take huge financial risks for the chance at extreme wealth",
+    "global_votes_blue": 64,
+    "global_votes_red": 36
+  },
+  {
+    "id": "money_0169",
+    "question": "Would you rather have 10,000 dollars delivered to your door daily or have 100,000 dollars deposited into your account once a year?",
+    "option_blue": "have 10,000 dollars delivered to your door daily",
+    "option_red": "have 100,000 dollars deposited into your account once a year",
+    "global_votes_blue": 68,
+    "global_votes_red": 32
+  },
+  {
+    "id": "money_0170",
+    "question": "Would you rather be forced to give away half your income  to strangers or be forced to donate half your income to a cause you hate?",
+    "option_blue": "be forced to give away half your income  to strangers",
+    "option_red": "be forced to donate half your income to a cause you hate",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "money_0171",
+    "question": "Would you rather spend money on experiences only, never possessions or spend money on possessions only, never experiences?",
+    "option_blue": "spend money on experiences only, never possessions",
+    "option_red": "spend money on possessions only, never experiences",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "money_0172",
+    "question": "Would you rather invest in a guaranteed safe but low-return venture or invest in a high-risk, high-reward venture?",
+    "option_blue": "invest in a guaranteed safe but low-return venture",
+    "option_red": "invest in a high-risk, high-reward venture",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "money_0173",
+    "question": "Would you rather be guaranteed financial security for 10 years or be given one million dollars right now?",
+    "option_blue": "be guaranteed financial security for 10 years",
+    "option_red": "be given one million dollars right now",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "money_0174",
+    "question": "Would you rather have everything you desire financially but lack purpose or live a purposeful life with financial struggles?",
+    "option_blue": "have everything you desire financially but lack purpose",
+    "option_red": "live a purposeful life with financial struggles",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "money_0175",
+    "question": "Would you rather win a million dollars today and lose it all next year or win a thousand dollars today and keep it forever?",
+    "option_blue": "win a million dollars today and lose it all next year",
+    "option_red": "win a thousand dollars today and keep it forever",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "money_0176",
+    "question": "Would you rather invest in a guaranteed winning stock or invest in a high-risk, high-reward startup?",
+    "option_blue": "invest in a guaranteed winning stock",
+    "option_red": "invest in a high-risk, high-reward startup",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "money_0177",
+    "question": "Would you rather always have enough money for your needs but never wants or sometimes have money for wants but often lack needs?",
+    "option_blue": "always have enough money for your needs but never wants",
+    "option_red": "sometimes have money for wants but often lack needs",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "money_0178",
+    "question": "Would you rather spend all your money on one incredible experience or invest all your money for a comfortable future?",
+    "option_blue": "spend all your money on one incredible experience",
+    "option_red": "invest all your money for a comfortable future",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "money_0179",
+    "question": "Would you rather have your dream car instantly paid for right now or have all your outstanding debts completely erased?",
+    "option_blue": "have your dream car instantly paid for right now",
+    "option_red": "have all your outstanding debts completely erased",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  }
+]

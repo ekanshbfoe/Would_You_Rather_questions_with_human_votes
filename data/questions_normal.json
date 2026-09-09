@@ -1,0 +1,226 @@
+[
+  {
+    "id": "normal_0001",
+    "question": "Would you rather have someone offer to pay for your least favorite drink or spend your own money on your favorite drink?",
+    "option_blue": "have someone offer to pay for your least favorite drink",
+    "option_red": "spend your own money on your favorite drink",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "normal_0002",
+    "question": "Would you rather be tall because of a long torso or with really long legs?",
+    "option_blue": "be tall because of a long torso",
+    "option_red": "with really long legs",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "normal_0003",
+    "question": "Would you rather work as a secret hotel guest or work as a professional traveler?",
+    "option_blue": "work as a secret hotel guest",
+    "option_red": "work as a professional traveler",
+    "global_votes_blue": 21,
+    "global_votes_red": 79
+  },
+  {
+    "id": "normal_0004",
+    "question": "Would you rather live in a house with 1000 rooms or live in a two room apartment?",
+    "option_blue": "live in a house with 1000 rooms",
+    "option_red": "live in a two room apartment",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "normal_0005",
+    "question": "Would you rather have one nipple or two belly buttons?",
+    "option_blue": "have one nipple",
+    "option_red": "two belly buttons",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "normal_0006",
+    "question": "Would you rather play video games as much as you want on a crappy, old console or have 1 hour to play on the coolest new console?",
+    "option_blue": "play video games as much as you want on a crappy, old console",
+    "option_red": "have 1 hour to play on the coolest new console",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "normal_0007",
+    "question": "Would you rather move to a different country every month or stay in the same country your whole life?",
+    "option_blue": "move to a different country every month",
+    "option_red": "stay in the same country your whole life",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "normal_0008",
+    "question": "Would you rather drink Fanta or Sprite?",
+    "option_blue": "drink Fanta",
+    "option_red": "Sprite",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "normal_0009",
+    "question": "Would you rather have a giant house without a garden or a small house with a giant garden?",
+    "option_blue": "have a giant house without a garden",
+    "option_red": "a small house with a giant garden",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "normal_0010",
+    "question": "Would you rather live in a place that is always dusty or live in a place that is always humid?",
+    "option_blue": "live in a place that is always dusty",
+    "option_red": "live in a place that is always humid",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "normal_0011",
+    "question": "Would you rather have a drone that flies or have a drone that can go underwater?",
+    "option_blue": "have a drone that flies",
+    "option_red": "have a drone that can go underwater",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "normal_0012",
+    "question": "Would you rather get 50 watches or get 50 suits?",
+    "option_blue": "get 50 watches",
+    "option_red": "get 50 suits",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "normal_0013",
+    "question": "Would you rather have a gaudy, tacky looking living room or an ultra-minimalist decoration?",
+    "option_blue": "have a gaudy, tacky looking living room",
+    "option_red": "an ultra-minimalist decoration",
+    "global_votes_blue": 25,
+    "global_votes_red": 75
+  },
+  {
+    "id": "normal_0014",
+    "question": "Would you rather eat a cookie or a brownie?",
+    "option_blue": "eat a cookie",
+    "option_red": "a brownie",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "normal_0015",
+    "question": "Would you rather eat only savory pies for the rest of your life or never eat pie again even on holidays?",
+    "option_blue": "eat only savory pies for the rest of your life",
+    "option_red": "never eat pie again even on holidays",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "normal_0016",
+    "question": "Would you rather only be able to have cold showers or only be able to eat with toothpicks?",
+    "option_blue": "only be able to have cold showers",
+    "option_red": "only be able to eat with toothpicks",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "normal_0017",
+    "question": "Would you rather live the life of an entrepreneur with all the stresses or be stuck at one job with decent pay for life?",
+    "option_blue": "live the life of an entrepreneur with all the stresses",
+    "option_red": "be stuck at one job with decent pay for life",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "normal_0018",
+    "question": "Would you rather never wear underwear again or never wear socks again?",
+    "option_blue": "never wear underwear again",
+    "option_red": "never wear socks again",
+    "global_votes_blue": 33,
+    "global_votes_red": 67
+  },
+  {
+    "id": "normal_0019",
+    "question": "Would you rather wear summer clothing all winter long or wear winter clothing all summer long?",
+    "option_blue": "wear summer clothing all winter long",
+    "option_red": "wear winter clothing all summer long",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "normal_0020",
+    "question": "Would you rather live without music or live without books?",
+    "option_blue": "live without music",
+    "option_red": "live without books",
+    "global_votes_blue": 15,
+    "global_votes_red": 85
+  },
+  {
+    "id": "normal_0021",
+    "question": "Would you rather no longer be able to add salt or no longer be able to add pepper to your food?",
+    "option_blue": "no longer be able to add salt",
+    "option_red": "no longer be able to add pepper to your food",
+    "global_votes_blue": 14,
+    "global_votes_red": 86
+  },
+  {
+    "id": "normal_0022",
+    "question": "Would you rather no longer eat sweets or no longer eat salty snacks?",
+    "option_blue": "no longer eat sweets",
+    "option_red": "no longer eat salty snacks",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "normal_0023",
+    "question": "Would you rather be forced to express yourself in rhymes for the rest of your life or forced to repeat the last word of each sentence that is said to you?",
+    "option_blue": "be forced to express yourself in rhymes for the rest of your life",
+    "option_red": "forced to repeat the last word of each sentence that is said to you",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "normal_0024",
+    "question": "Would you rather bake cookies that taste amazing but look terrible or cookies that look perfect but taste awful?",
+    "option_blue": "bake cookies that taste amazing but look terrible",
+    "option_red": "cookies that look perfect but taste awful",
+    "global_votes_blue": 95,
+    "global_votes_red": 5
+  },
+  {
+    "id": "normal_0025",
+    "question": "Would you rather always be overdressed or always be underdressed?",
+    "option_blue": "always be overdressed",
+    "option_red": "always be underdressed",
+    "global_votes_blue": 76,
+    "global_votes_red": 24
+  },
+  {
+    "id": "normal_0026",
+    "question": "Would you rather take a trip in a hot-air balloon or do a parachute jump?",
+    "option_blue": "take a trip in a hot-air balloon",
+    "option_red": "do a parachute jump",
+    "global_votes_blue": 42,
+    "global_votes_red": 58
+  },
+  {
+    "id": "normal_0027",
+    "question": "Would you rather brush your teeth with rocks or drink milk that smells like bad breath?",
+    "option_blue": "brush your teeth with rocks",
+    "option_red": "drink milk that smells like bad breath",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "normal_0028",
+    "question": "Would you rather touch a tarantula or touch a snake?",
+    "option_blue": "touch a tarantula",
+    "option_red": "touch a snake",
+    "global_votes_blue": 23,
+    "global_votes_red": 77
+  }
+]

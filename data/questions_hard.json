@@ -1,0 +1,1274 @@
+[
+  {
+    "id": "hard_0001",
+    "question": "Would you rather be very famous for doing something you dislike or do something you are passionate about, but without recognition?",
+    "option_blue": "be very famous for doing something you dislike",
+    "option_red": "do something you are passionate about, but without recognition",
+    "global_votes_blue": 25,
+    "global_votes_red": 75
+  },
+  {
+    "id": "hard_0002",
+    "question": "Would you rather have an easy job working for someone else or work for yourself, but work incredibly hard?",
+    "option_blue": "have an easy job working for someone else",
+    "option_red": "work for yourself, but work incredibly hard",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "hard_0003",
+    "question": "Would you rather only eat ketchup or only eat mustard for a week?",
+    "option_blue": "only eat ketchup",
+    "option_red": "only eat mustard for a week",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "hard_0004",
+    "question": "Would you rather constantly stumble while walking or constantly stutter when speaking?",
+    "option_blue": "constantly stumble while walking",
+    "option_red": "constantly stutter when speaking",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "hard_0005",
+    "question": "Would you rather be permanently naked, but never stopped by the cops or brought to jail every time a cop sees you even though you are doing nothing wrong?",
+    "option_blue": "be permanently naked, but never stopped by the cops",
+    "option_red": "brought to jail every time a cop sees you even though you are doing nothing wrong",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "hard_0006",
+    "question": "Would you rather trip on the dance floor in front of everyone or rip the dress you’re wearing in front of everyone?",
+    "option_blue": "trip on the dance floor in front of everyone",
+    "option_red": "rip the dress you’re wearing in front of everyone",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "hard_0007",
+    "question": "Would you rather eat uncooked pasta or drink salted coke?",
+    "option_blue": "eat uncooked pasta",
+    "option_red": "drink salted coke",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "hard_0008",
+    "question": "Would you rather be a ninja or a pirate?",
+    "option_blue": "be a ninja",
+    "option_red": "a pirate",
+    "global_votes_blue": 61,
+    "global_votes_red": 39
+  },
+  {
+    "id": "hard_0009",
+    "question": "Would you rather have a clone that doesn’t think and follows your orders or a clone that thinks exactly as you do?",
+    "option_blue": "have a clone that doesn’t think and follows your orders",
+    "option_red": "a clone that thinks exactly as you do",
+    "global_votes_blue": 50,
+    "global_votes_red": 50
+  },
+  {
+    "id": "hard_0010",
+    "question": "Would you rather hold a big dog doodoo in your hand or hold a cactus in your hand?",
+    "option_blue": "hold a big dog doodoo in your hand",
+    "option_red": "hold a cactus in your hand",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "hard_0011",
+    "question": "Would you rather give up showering for a month or give up the internet for a month?",
+    "option_blue": "give up showering for a month",
+    "option_red": "give up the internet for a month",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "hard_0012",
+    "question": "Would you rather be immune to hangovers forever or never have to go to the dentist ever again?",
+    "option_blue": "be immune to hangovers forever",
+    "option_red": "never have to go to the dentist ever again",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  },
+  {
+    "id": "hard_0013",
+    "question": "Would you rather live until the age of 80 and be poor or until the age of 40 and be rich?",
+    "option_blue": "live until the age of 80 and be poor",
+    "option_red": "until the age of 40 and be rich",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "hard_0014",
+    "question": "Would you rather marry your partner right now or break up with your partner right now?",
+    "option_blue": "marry your partner right now",
+    "option_red": "break up with your partner right now",
+    "global_votes_blue": 53,
+    "global_votes_red": 47
+  },
+  {
+    "id": "hard_0015",
+    "question": "Would you rather be the only survivor of a group of 40 hostages or stuck in an elevator for 56 hours?",
+    "option_blue": "be the only survivor of a group of 40 hostages",
+    "option_red": "stuck in an elevator for 56 hours",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "hard_0016",
+    "question": "Would you rather die for your ideas or live and continue to reflect?",
+    "option_blue": "die for your ideas",
+    "option_red": "live and continue to reflect",
+    "global_votes_blue": 23,
+    "global_votes_red": 77
+  },
+  {
+    "id": "hard_0017",
+    "question": "Would you rather have unlimited access to the world's finest cocoa but never taste chocolate again, or enjoy chocolate daily but never experience cocoa in any other form?",
+    "option_blue": "have unlimited access to the world's finest cocoa but never taste chocolate again,",
+    "option_red": "enjoy chocolate daily but never experience cocoa in any other form",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "hard_0018",
+    "question": "Would you rather be hated by everyone except your parents or loved by everyone, but hated by your parents?",
+    "option_blue": "be hated by everyone except your parents",
+    "option_red": "loved by everyone, but hated by your parents",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "hard_0019",
+    "question": "Would you rather be wanted for murder and be on the run or a homeless man who only wears boxers?",
+    "option_blue": "be wanted for murder and be on the run",
+    "option_red": "a homeless man who only wears boxers",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "hard_0020",
+    "question": "Would you rather tell someone that their new baby is ugly or tell someone that their new spouse is ugly?",
+    "option_blue": "tell someone that their new baby is ugly",
+    "option_red": "tell someone that their new spouse is ugly",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "hard_0021",
+    "question": "Would you rather sleep in the middle of the jungle or sleep in the middle of the savannah?",
+    "option_blue": "sleep in the middle of the jungle",
+    "option_red": "sleep in the middle of the savannah",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "hard_0022",
+    "question": "Would you rather have a cute well-behaved child that stays at an age of your choosing for their entire life or a child that develops from a baby to 18 years old in 2 years and then ages normally?",
+    "option_blue": "have a cute well-behaved child that stays at an age of your choosing for their entire life",
+    "option_red": "a child that develops from a baby to 18 years old in 2 years and then ages normally",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "hard_0023",
+    "question": "Would you rather sleep with every one of your bosses until you are CEO or work at McDonald’s?",
+    "option_blue": "sleep with every one of your bosses until you are CEO",
+    "option_red": "work at McDonald’s",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "hard_0024",
+    "question": "Would you rather have to stand up in the middle of every wedding ceremony you attend and scream “It should have been me!” or take the microphone during somebody’s reception speech and cry about how alone you are?",
+    "option_blue": "have to stand up in the middle of every wedding ceremony you attend and scream “It should have been me!”",
+    "option_red": "take the microphone during somebody’s reception speech and cry about how alone you are",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "hard_0025",
+    "question": "Would you rather discover something great and spread it or discover something evil and prevent it?",
+    "option_blue": "discover something great and spread it",
+    "option_red": "discover something evil and prevent it",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "hard_0026",
+    "question": "Would you rather not wear shoes for the rest of your life or not drive a car for the rest of your life?",
+    "option_blue": "not wear shoes for the rest of your life",
+    "option_red": "not drive a car for the rest of your life",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "hard_0027",
+    "question": "Would you rather be 100% confident in who you are or 100% confident that you’re with the right person?",
+    "option_blue": "be 100% confident in who you are",
+    "option_red": "100% confident that you’re with the right person",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "hard_0028",
+    "question": "Would you rather spend 48 hours locked up with a porn star or a Game Boy?",
+    "option_blue": "spend 48 hours locked up with a porn star",
+    "option_red": "a Game Boy",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "hard_0029",
+    "question": "Would you rather always have to listen to the same song or never listen to music again?",
+    "option_blue": "always have to listen to the same song",
+    "option_red": "never listen to music again",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "hard_0030",
+    "question": "Would you rather constantly struggle in life, but be free or never have struggles, but be a prisoner?",
+    "option_blue": "constantly struggle in life, but be free",
+    "option_red": "never have struggles, but be a prisoner",
+    "global_votes_blue": 62,
+    "global_votes_red": 38
+  },
+  {
+    "id": "hard_0031",
+    "question": "Would you rather have world peace or win $150,000,000?",
+    "option_blue": "have world peace",
+    "option_red": "win $150,000,000",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "hard_0032",
+    "question": "Would you rather be lost in the desert or lost in the jungle?",
+    "option_blue": "be lost in the desert",
+    "option_red": "lost in the jungle",
+    "global_votes_blue": 18,
+    "global_votes_red": 82
+  },
+  {
+    "id": "hard_0033",
+    "question": "Would you rather be the drunk who cries the entire night or the drunk who starts stupid arguments with strangers?",
+    "option_blue": "be the drunk who cries the entire night",
+    "option_red": "the drunk who starts stupid arguments with strangers",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "hard_0034",
+    "question": "Would you rather have a big mouth and say everything you’re thinking or be unable to speak?",
+    "option_blue": "have a big mouth and say everything you’re thinking",
+    "option_red": "be unable to speak",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "hard_0035",
+    "question": "Would you rather stick to a resolution you hate for a year or fail at every resolution but never feel guilty?",
+    "option_blue": "stick to a resolution you hate for a year",
+    "option_red": "fail at every resolution but never feel guilty",
+    "global_votes_blue": 56,
+    "global_votes_red": 44
+  },
+  {
+    "id": "hard_0036",
+    "question": "Would you rather have Brad Pitt’s face or have Einstein’s brain?",
+    "option_blue": "have Brad Pitt’s face",
+    "option_red": "have Einstein’s brain",
+    "global_votes_blue": 15,
+    "global_votes_red": 85
+  },
+  {
+    "id": "hard_0037",
+    "question": "Would you rather never play computer games again or never watch a video on a computer again?",
+    "option_blue": "never play computer games again",
+    "option_red": "never watch a video on a computer again",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "hard_0038",
+    "question": "Would you rather make $200,000 a month selling weapons or make minimum wage doing something you love?",
+    "option_blue": "make $200,000 a month selling weapons",
+    "option_red": "make minimum wage doing something you love",
+    "global_votes_blue": 48,
+    "global_votes_red": 52
+  },
+  {
+    "id": "hard_0039",
+    "question": "Would you rather be the first to die from your friends or the last to die from your friends?",
+    "option_blue": "be the first to die from your friends",
+    "option_red": "the last to die from your friends",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "hard_0040",
+    "question": "Would you rather never again be able to watch TV or get your ass busted by a bouncer (you spend 2 days in hospital and recover)?",
+    "option_blue": "never again be able to watch TV",
+    "option_red": "get your ass busted by a bouncer (you spend 2 days in hospital and recover)",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "hard_0041",
+    "question": "Would you rather have elephant tusks or a giraffe’s neck?",
+    "option_blue": "have elephant tusks",
+    "option_red": "a giraffe’s neck",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "hard_0042",
+    "question": "Would you rather be a famous inventor or a famous writer?",
+    "option_blue": "be a famous inventor",
+    "option_red": "a famous writer",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "hard_0043",
+    "question": "Would you rather get married only once at the age of 20 or never get married?",
+    "option_blue": "get married only once at the age of 20",
+    "option_red": "never get married",
+    "global_votes_blue": 46,
+    "global_votes_red": 54
+  },
+  {
+    "id": "hard_0044",
+    "question": "Would you rather have your teeth permanently stuck together by hard candy or never taste sweetness again?",
+    "option_blue": "have your teeth permanently stuck together by hard candy",
+    "option_red": "never taste sweetness again",
+    "global_votes_blue": 17,
+    "global_votes_red": 83
+  },
+  {
+    "id": "hard_0045",
+    "question": "Would you rather sleep 3 hours or 14 hours a night?",
+    "option_blue": "sleep 3 hours",
+    "option_red": "14 hours a night",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "hard_0046",
+    "question": "Would you rather wash all your dishes using your tongue or wash your pets using your tongue?",
+    "option_blue": "wash all your dishes using your tongue",
+    "option_red": "wash your pets using your tongue",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "hard_0047",
+    "question": "Would you rather be chased by the SWAT team or chased by your ex?",
+    "option_blue": "be chased by the SWAT team",
+    "option_red": "chased by your ex",
+    "global_votes_blue": 16,
+    "global_votes_red": 84
+  },
+  {
+    "id": "hard_0048",
+    "question": "Would you rather every movie you watch replaced the lead role with Nicolas Cage or every song you hear is performed by Nickelback?",
+    "option_blue": "every movie you watch replaced the lead role with Nicolas Cage",
+    "option_red": "every song you hear is performed by Nickelback",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "hard_0049",
+    "question": "Would you rather relive the same mediocre day forever or skip a year of your life every time you make a mistake?",
+    "option_blue": "relive the same mediocre day forever",
+    "option_red": "skip a year of your life every time you make a mistake",
+    "global_votes_blue": 43,
+    "global_votes_red": 57
+  },
+  {
+    "id": "hard_0050",
+    "question": "Would you rather unable to control how fast you talk or be unable to control how loud you talk?",
+    "option_blue": "unable to control how fast you talk",
+    "option_red": "be unable to control how loud you talk",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "hard_0051",
+    "question": "Would you rather go to jail for 4 years for something you didn’t do or get away with something horrible you did, but always live in fear of being caught?",
+    "option_blue": "go to jail for 4 years for something you didn’t do",
+    "option_red": "get away with something horrible you did, but always live in fear of being caught",
+    "global_votes_blue": 29,
+    "global_votes_red": 71
+  },
+  {
+    "id": "hard_0052",
+    "question": "Would you rather have a flying carpet or a self-filling fridge?",
+    "option_blue": "have a flying carpet",
+    "option_red": "a self-filling fridge",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "hard_0053",
+    "question": "Would you rather have paparazzi follow you around or reveal a different secret about yourself in a weekly newspaper column?",
+    "option_blue": "have paparazzi follow you around",
+    "option_red": "reveal a different secret about yourself in a weekly newspaper column",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "hard_0054",
+    "question": "Would you rather always have an itchy spot that you can’t reach or always feel like you have to sneeze?",
+    "option_blue": "always have an itchy spot that you can’t reach",
+    "option_red": "always feel like you have to sneeze",
+    "global_votes_blue": 34,
+    "global_votes_red": 66
+  },
+  {
+    "id": "hard_0055",
+    "question": "Would you rather your apartment be infested with cockroaches or that your alcoholic neighbor vomits every night on your front door?",
+    "option_blue": "your apartment be infested with cockroaches",
+    "option_red": "that your alcoholic neighbor vomits every night on your front door",
+    "global_votes_blue": 14,
+    "global_votes_red": 86
+  },
+  {
+    "id": "hard_0056",
+    "question": "Would you rather have lots of virtual friends or only have one real friend?",
+    "option_blue": "have lots of virtual friends",
+    "option_red": "only have one real friend",
+    "global_votes_blue": 13,
+    "global_votes_red": 87
+  },
+  {
+    "id": "hard_0057",
+    "question": "Would you rather lose all of your memories from birth to now or lose your ability to make new long-term memories?",
+    "option_blue": "lose all of your memories from birth to now",
+    "option_red": "lose your ability to make new long-term memories",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "hard_0058",
+    "question": "Would you rather have no eyebrows or have only one eyebrow?",
+    "option_blue": "have no eyebrows",
+    "option_red": "have only one eyebrow",
+    "global_votes_blue": 45,
+    "global_votes_red": 55
+  },
+  {
+    "id": "hard_0059",
+    "question": "Would you rather be a famous musician or a famous business owner?",
+    "option_blue": "be a famous musician",
+    "option_red": "a famous business owner",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "hard_0060",
+    "question": "Would you rather wet yourself every time a drop of rain fell on you or wet yourself every time you look at a cloud?",
+    "option_blue": "wet yourself every time a drop of rain fell on you",
+    "option_red": "wet yourself every time you look at a cloud",
+    "global_votes_blue": 47,
+    "global_votes_red": 53
+  },
+  {
+    "id": "hard_0061",
+    "question": "Would you rather never have internet again or be alone on a deserted island with internet?",
+    "option_blue": "never have internet again",
+    "option_red": "be alone on a deserted island with internet",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  },
+  {
+    "id": "hard_0062",
+    "question": "Would you rather get wasted after one beer or need ten beers to even feel a buzz?",
+    "option_blue": "get wasted after one beer",
+    "option_red": "need ten beers to even feel a buzz",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "hard_0063",
+    "question": "Would you rather have a day that starts badly or that ends badly?",
+    "option_blue": "have a day that starts badly",
+    "option_red": "that ends badly",
+    "global_votes_blue": 51,
+    "global_votes_red": 49
+  },
+  {
+    "id": "hard_0064",
+    "question": "Would you rather make a decision that benefits you but harms others or one that benefits others but harms you?",
+    "option_blue": "make a decision that benefits you but harms others",
+    "option_red": "one that benefits others but harms you",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "hard_0065",
+    "question": "Would you rather visit a bar that only served tequila or visit a club that only plays Black Eyed Peas?",
+    "option_blue": "visit a bar that only served tequila",
+    "option_red": "visit a club that only plays Black Eyed Peas",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "hard_0066",
+    "question": "Would you rather have no tongue or have no teeth?",
+    "option_blue": "have no tongue",
+    "option_red": "have no teeth",
+    "global_votes_blue": 16,
+    "global_votes_red": 84
+  },
+  {
+    "id": "hard_0067",
+    "question": "Would you rather fart loudly each time someone introduces you to someone new or speak in slow motion every second day?",
+    "option_blue": "fart loudly each time someone introduces you to someone new",
+    "option_red": "speak in slow motion every second day",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "hard_0068",
+    "question": "Would you rather give up AC and heating for the rest of your life or give up the internet for the rest of your life?",
+    "option_blue": "give up AC and heating for the rest of your life",
+    "option_red": "give up the internet for the rest of your life",
+    "global_votes_blue": 63,
+    "global_votes_red": 37
+  },
+  {
+    "id": "hard_0069",
+    "question": "Would you rather earn your bachelor’s degree without cheating or earn your bachelor’s degree by cheating the whole time?",
+    "option_blue": "earn your bachelor’s degree without cheating",
+    "option_red": "earn your bachelor’s degree by cheating the whole time",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "hard_0070",
+    "question": "Would you rather have a horrible job but be able to retire comfortably in 10 years or have your dream job but have to work until the day you die?",
+    "option_blue": "have a horrible job but be able to retire comfortably in 10 years",
+    "option_red": "have your dream job but have to work until the day you die",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "hard_0071",
+    "question": "Would you rather never again play a game on your computer or never again play a console or cellphone?",
+    "option_blue": "never again play a game on your computer",
+    "option_red": "never again play a console or cellphone",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "hard_0072",
+    "question": "Would you rather only be able to walk on all fours or only be able to jump instead of walking?",
+    "option_blue": "only be able to walk on all fours",
+    "option_red": "only be able to jump instead of walking",
+    "global_votes_blue": 15,
+    "global_votes_red": 85
+  },
+  {
+    "id": "hard_0073",
+    "question": "Would you rather have to walk the length of a 7-foot long cable suspended 164 feet overhead or have to speak on tv about random subjects for 2 hours?",
+    "option_blue": "have to walk the length of a 7-foot long cable suspended 164 feet overhead",
+    "option_red": "have to speak on tv about random subjects for 2 hours",
+    "global_votes_blue": 8,
+    "global_votes_red": 92
+  },
+  {
+    "id": "hard_0074",
+    "question": "Would you rather loudly pass gas in every important meeting or never be able to pass gas again, no matter the discomfort?",
+    "option_blue": "loudly pass gas in every important meeting",
+    "option_red": "never be able to pass gas again, no matter the discomfort",
+    "global_votes_blue": 52,
+    "global_votes_red": 48
+  },
+  {
+    "id": "hard_0075",
+    "question": "Would you rather have permanently bad breath or your partner having bad breath, but only around you?",
+    "option_blue": "have permanently bad breath",
+    "option_red": "your partner having bad breath, but only around you",
+    "global_votes_blue": 10,
+    "global_votes_red": 90
+  },
+  {
+    "id": "hard_0076",
+    "question": "Would you rather live in a world where there’s no marriage or in a world where there’s no divorce?",
+    "option_blue": "live in a world where there’s no marriage",
+    "option_red": "in a world where there’s no divorce",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  },
+  {
+    "id": "hard_0077",
+    "question": "Would you rather get drunk with your best friend or get drunk with your crush?",
+    "option_blue": "get drunk with your best friend",
+    "option_red": "get drunk with your crush",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "hard_0078",
+    "question": "Would you rather have a world where only kids can invent new technology or a world where adults can only use technology invented by kids?",
+    "option_blue": "have a world where only kids can invent new technology",
+    "option_red": "a world where adults can only use technology invented by kids",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "hard_0079",
+    "question": "Would you rather have no feelings or moral dilemmas or be very sensitive and fragile?",
+    "option_blue": "have no feelings or moral dilemmas",
+    "option_red": "be very sensitive and fragile",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "hard_0080",
+    "question": "Would you rather eat a grilled grasshopper or a cooked slug?",
+    "option_blue": "eat a grilled grasshopper",
+    "option_red": "a cooked slug",
+    "global_votes_blue": 44,
+    "global_votes_red": 56
+  },
+  {
+    "id": "hard_0081",
+    "question": "Would you rather be a rock star or a movie star?",
+    "option_blue": "be a rock star",
+    "option_red": "a movie star",
+    "global_votes_blue": 16,
+    "global_votes_red": 84
+  },
+  {
+    "id": "hard_0082",
+    "question": "Would you rather spend your life being homeless or spend your life in prison?",
+    "option_blue": "spend your life being homeless",
+    "option_red": "spend your life in prison",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "hard_0083",
+    "question": "Would you rather lose all your teeth or lose your ears?",
+    "option_blue": "lose all your teeth",
+    "option_red": "lose your ears",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "hard_0084",
+    "question": "Would you rather have an intense make-out session with your teddy bear or have an intense make-out session with a poster?",
+    "option_blue": "have an intense make-out session with your teddy bear",
+    "option_red": "have an intense make-out session with a poster",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "hard_0085",
+    "question": "Would you rather that all the insects you killed came back to life to take revenge or that there be a detailed public report on all the stuff you’ve thought about to masturbate?",
+    "option_blue": "that all the insects you killed came back to life to take revenge",
+    "option_red": "that there be a detailed public report on all the stuff you’ve thought about to masturbate",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "hard_0086",
+    "question": "Would you rather sleep on the floor wearing pajamas but have no pillow or sleep on the floor entirely naked but have one pillow?",
+    "option_blue": "sleep on the floor wearing pajamas but have no pillow",
+    "option_red": "sleep on the floor entirely naked but have one pillow",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "hard_0087",
+    "question": "Would you rather replace “hi” with “shut up” or thanks with “bitch”?",
+    "option_blue": "replace “hi” with “shut up”",
+    "option_red": "thanks with “bitch”",
+    "global_votes_blue": 26,
+    "global_votes_red": 74
+  },
+  {
+    "id": "hard_0088",
+    "question": "Would you rather always look like you are eight months pregnant or always have a black eye?",
+    "option_blue": "always look like you are eight months pregnant",
+    "option_red": "always have a black eye",
+    "global_votes_blue": 8,
+    "global_votes_red": 92
+  },
+  {
+    "id": "hard_0089",
+    "question": "Would you rather be poor but help people or become incredibly rich by hurting people?",
+    "option_blue": "be poor but help people",
+    "option_red": "become incredibly rich by hurting people",
+    "global_votes_blue": 55,
+    "global_votes_red": 45
+  },
+  {
+    "id": "hard_0090",
+    "question": "Would you rather have a dream car in your garage, but never be able to drive it or have a boring car, but be able to drive it when you want?",
+    "option_blue": "have a dream car in your garage, but never be able to drive it",
+    "option_red": "have a boring car, but be able to drive it when you want",
+    "global_votes_blue": 16,
+    "global_votes_red": 84
+  },
+  {
+    "id": "hard_0091",
+    "question": "Would you rather have serious sweat marks under your arms or not have the stains, but you sure smell like you do?",
+    "option_blue": "have serious sweat marks under your arms",
+    "option_red": "not have the stains, but you sure smell like you do",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "hard_0092",
+    "question": "Would you rather have your latest love interest watch you sing karaoke drunk or have your latest love interest watch your drunken dance?",
+    "option_blue": "have your latest love interest watch you sing karaoke drunk",
+    "option_red": "have your latest love interest watch your drunken dance",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "hard_0093",
+    "question": "Would you rather have the power to stop time but age twice as fast or never age but be stuck in a single moment forever?",
+    "option_blue": "have the power to stop time but age twice as fast",
+    "option_red": "never age but be stuck in a single moment forever",
+    "global_votes_blue": 81,
+    "global_votes_red": 19
+  },
+  {
+    "id": "hard_0094",
+    "question": "Would you rather never masturbate again or never eat solid food again?",
+    "option_blue": "never masturbate again",
+    "option_red": "never eat solid food again",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "hard_0095",
+    "question": "Would you rather be more than 7 feet tall and very skinny or less than 4 feet tall and very muscular?",
+    "option_blue": "be more than 7 feet tall and very skinny",
+    "option_red": "less than 4 feet tall and very muscular",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "hard_0096",
+    "question": "Would you rather step on a slimy slug barefoot or step on a cockroach barefoot?",
+    "option_blue": "step on a slimy slug barefoot",
+    "option_red": "step on a cockroach barefoot",
+    "global_votes_blue": 26,
+    "global_votes_red": 74
+  },
+  {
+    "id": "hard_0097",
+    "question": "Would you rather have the strength of Dwayne “The Rock” Johnson or the intelligence of Albert Einstein?",
+    "option_blue": "have the strength of Dwayne “The Rock” Johnson",
+    "option_red": "the intelligence of Albert Einstein",
+    "global_votes_blue": 9,
+    "global_votes_red": 91
+  },
+  {
+    "id": "hard_0098",
+    "question": "Would you rather hear the sound of nails on a blackboard or the sound of a fork scraping a plate?",
+    "option_blue": "hear the sound of nails on a blackboard",
+    "option_red": "the sound of a fork scraping a plate",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "hard_0099",
+    "question": "Would you rather live in a house where all the walls were made of glass or live in an underground house?",
+    "option_blue": "live in a house where all the walls were made of glass",
+    "option_red": "live in an underground house",
+    "global_votes_blue": 10,
+    "global_votes_red": 90
+  },
+  {
+    "id": "hard_0100",
+    "question": "Would you rather never be able to use a touchscreen or never be able to use a keyboard and mouse?",
+    "option_blue": "never be able to use a touchscreen",
+    "option_red": "never be able to use a keyboard and mouse",
+    "global_votes_blue": 23,
+    "global_votes_red": 77
+  },
+  {
+    "id": "hard_0101",
+    "question": "Would you rather let your best friend scroll through your browser history or let your best friend watch you have sex?",
+    "option_blue": "let your best friend scroll through your browser history",
+    "option_red": "let your best friend watch you have sex",
+    "global_votes_blue": 41,
+    "global_votes_red": 59
+  },
+  {
+    "id": "hard_0102",
+    "question": "Would you rather watch an entire game of curling or smell somebody else’s anus?",
+    "option_blue": "watch an entire game of curling",
+    "option_red": "smell somebody else’s anus",
+    "global_votes_blue": 38,
+    "global_votes_red": 62
+  },
+  {
+    "id": "hard_0103",
+    "question": "Would you rather be able to make whatever liquor you want come out of your finger or spend a night out in Las Vegas with Alan from The Hangover?",
+    "option_blue": "be able to make whatever liquor you want come out of your finger",
+    "option_red": "spend a night out in Las Vegas with Alan from The Hangover",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "hard_0104",
+    "question": "Would you rather have to lick people’s face whenever they go to shake your hand or scream “I didn’t wash my hands!” every time you come back from the bathroom?",
+    "option_blue": "have to lick people’s face whenever they go to shake your hand",
+    "option_red": "scream “I didn’t wash my hands!” every time you come back from the bathroom",
+    "global_votes_blue": 15,
+    "global_votes_red": 85
+  },
+  {
+    "id": "hard_0105",
+    "question": "Would you rather eat plum pudding for every meal for a year or never celebrate any holiday again?",
+    "option_blue": "eat plum pudding for every meal for a year",
+    "option_red": "never celebrate any holiday again",
+    "global_votes_blue": 54,
+    "global_votes_red": 46
+  },
+  {
+    "id": "hard_0106",
+    "question": "Would you rather only be able to text in emojis for the rest of your life or have the low storage space notification pop up on your phone every day?",
+    "option_blue": "only be able to text in emojis for the rest of your life",
+    "option_red": "have the low storage space notification pop up on your phone every day",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "hard_0107",
+    "question": "Would you rather eat something that looks beautiful, but tastes like crap or eat something that looks like garbage, but is delicious?",
+    "option_blue": "eat something that looks beautiful, but tastes like crap",
+    "option_red": "eat something that looks like garbage, but is delicious",
+    "global_votes_blue": 2,
+    "global_votes_red": 98
+  },
+  {
+    "id": "hard_0108",
+    "question": "Would you rather remember a party that you are the most ashamed of or have been too drunk to remember this party?",
+    "option_blue": "remember a party that you are the most ashamed of",
+    "option_red": "have been too drunk to remember this party",
+    "global_votes_blue": 13,
+    "global_votes_red": 87
+  },
+  {
+    "id": "hard_0109",
+    "question": "Would you rather start your own business or start your own religion?",
+    "option_blue": "start your own business",
+    "option_red": "start your own religion",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "hard_0110",
+    "question": "Would you rather smell like a wet dog or smell like a goat?",
+    "option_blue": "smell like a wet dog",
+    "option_red": "smell like a goat",
+    "global_votes_blue": 22,
+    "global_votes_red": 78
+  },
+  {
+    "id": "hard_0111",
+    "question": "Would you rather be reincarnated as a giraffe with no neck or as an elephant without a trunk?",
+    "option_blue": "be reincarnated as a giraffe with no neck",
+    "option_red": "as an elephant without a trunk",
+    "global_votes_blue": 26,
+    "global_votes_red": 74
+  },
+  {
+    "id": "hard_0112",
+    "question": "Would you rather win a new car or win a vacation touring Europe?",
+    "option_blue": "win a new car",
+    "option_red": "win a vacation touring Europe",
+    "global_votes_blue": 26,
+    "global_votes_red": 74
+  },
+  {
+    "id": "hard_0113",
+    "question": "Would you rather snort a tablespoon of cinnamon or get a mild one-week flu?",
+    "option_blue": "snort a tablespoon of cinnamon",
+    "option_red": "get a mild one-week flu",
+    "global_votes_blue": 15,
+    "global_votes_red": 85
+  },
+  {
+    "id": "hard_0114",
+    "question": "Would you rather be the absolute best at something that no one takes seriously or well above average, but nowhere near the best at something well respected?",
+    "option_blue": "be the absolute best at something that no one takes seriously",
+    "option_red": "well above average, but nowhere near the best at something well respected",
+    "global_votes_blue": 30,
+    "global_votes_red": 70
+  },
+  {
+    "id": "hard_0115",
+    "question": "Would you rather be a member of the Kardashian family or a member of the Obama family?",
+    "option_blue": "be a member of the Kardashian family",
+    "option_red": "a member of the Obama family",
+    "global_votes_blue": 18,
+    "global_votes_red": 82
+  },
+  {
+    "id": "hard_0116",
+    "question": "Would you rather have unlimited love or have unlimited money?",
+    "option_blue": "have unlimited love",
+    "option_red": "have unlimited money",
+    "global_votes_blue": 12,
+    "global_votes_red": 88
+  },
+  {
+    "id": "hard_0117",
+    "question": "Would you rather only be able to watch one show repeatedly for the rest of your life or only be able to watch the first episode of every show in existence for the rest of your life?",
+    "option_blue": "only be able to watch one show repeatedly for the rest of your life",
+    "option_red": "only be able to watch the first episode of every show in existence for the rest of your life",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "hard_0118",
+    "question": "Would you rather relive the same day your whole life or wake up every day not remembering what you did the day before?",
+    "option_blue": "relive the same day your whole life",
+    "option_red": "wake up every day not remembering what you did the day before",
+    "global_votes_blue": 14,
+    "global_votes_red": 86
+  },
+  {
+    "id": "hard_0119",
+    "question": "Would you rather forget to wish your mother a happy birthday or forget your mother-in-law’s first name?",
+    "option_blue": "forget to wish your mother a happy birthday",
+    "option_red": "forget your mother-in-law’s first name",
+    "global_votes_blue": 9,
+    "global_votes_red": 91
+  },
+  {
+    "id": "hard_0120",
+    "question": "Would you rather lose all of your money and valuables or all of the pictures you have ever taken?",
+    "option_blue": "lose all of your money and valuables",
+    "option_red": "all of the pictures you have ever taken",
+    "global_votes_blue": 10,
+    "global_votes_red": 90
+  },
+  {
+    "id": "hard_0121",
+    "question": "Would you rather be stuck in an elevator with 3 wet dogs or with 3 people who fart constantly?",
+    "option_blue": "be stuck in an elevator with 3 wet dogs",
+    "option_red": "with 3 people who fart constantly",
+    "global_votes_blue": 82,
+    "global_votes_red": 18
+  },
+  {
+    "id": "hard_0122",
+    "question": "Would you rather be a virtuoso in all musical instruments or able to perfectly speak 15 languages?",
+    "option_blue": "be a virtuoso in all musical instruments",
+    "option_red": "able to perfectly speak 15 languages",
+    "global_votes_blue": 12,
+    "global_votes_red": 88
+  },
+  {
+    "id": "hard_0123",
+    "question": "Would you rather have square-shaped eyebrows or have a triangle-shaped head?",
+    "option_blue": "have square-shaped eyebrows",
+    "option_red": "have a triangle-shaped head",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "hard_0124",
+    "question": "Would you rather constantly have dry eyes or have a constant runny nose?",
+    "option_blue": "constantly have dry eyes",
+    "option_red": "have a constant runny nose",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  },
+  {
+    "id": "hard_0125",
+    "question": "Would you rather have an extra finger or an extra toe?",
+    "option_blue": "have an extra finger",
+    "option_red": "an extra toe",
+    "global_votes_blue": 22,
+    "global_votes_red": 78
+  },
+  {
+    "id": "hard_0126",
+    "question": "Would you rather be able to travel as much as you want, but the only means is by foot or able to travel once every five years with any transportation vehicle?",
+    "option_blue": "be able to travel as much as you want, but the only means is by foot",
+    "option_red": "able to travel once every five years with any transportation vehicle",
+    "global_votes_blue": 16,
+    "global_votes_red": 84
+  },
+  {
+    "id": "hard_0127",
+    "question": "Would you rather all plants scream when you cut them or animals beg for their lives before they are killed?",
+    "option_blue": "all plants scream when you cut them",
+    "option_red": "animals beg for their lives before they are killed",
+    "global_votes_blue": 31,
+    "global_votes_red": 69
+  },
+  {
+    "id": "hard_0128",
+    "question": "Would you rather disappoint all of your friends or family?",
+    "option_blue": "disappoint all of your friends",
+    "option_red": "family",
+    "global_votes_blue": 32,
+    "global_votes_red": 68
+  },
+  {
+    "id": "hard_0129",
+    "question": "Would you rather have cheeks that constantly change size, with each one doing its own thing or the same thing happen to your butt cheeks?",
+    "option_blue": "have cheeks that constantly change size, with each one doing its own thing",
+    "option_red": "the same thing happen to your butt cheeks",
+    "global_votes_blue": 13,
+    "global_votes_red": 87
+  },
+  {
+    "id": "hard_0130",
+    "question": "Would you rather spend your life in front of your computer or spend your life without a computer?",
+    "option_blue": "spend your life in front of your computer",
+    "option_red": "spend your life without a computer",
+    "global_votes_blue": 14,
+    "global_votes_red": 86
+  },
+  {
+    "id": "hard_0131",
+    "question": "Would you rather be able to detect lies or be able to tell the perfect lie?",
+    "option_blue": "be able to detect lies",
+    "option_red": "be able to tell the perfect lie",
+    "global_votes_blue": 65,
+    "global_votes_red": 35
+  },
+  {
+    "id": "hard_0132",
+    "question": "Would you rather post an extremely unflattering photo that gets hundreds of likes or post a super flattering photo that only gets one like total?",
+    "option_blue": "post an extremely unflattering photo that gets hundreds of likes",
+    "option_red": "post a super flattering photo that only gets one like total",
+    "global_votes_blue": 15,
+    "global_votes_red": 85
+  },
+  {
+    "id": "hard_0133",
+    "question": "Would you rather keep your girlfriend or boyfriend or have $1,000,000?",
+    "option_blue": "keep your girlfriend or boyfriend",
+    "option_red": "have $1,000,000",
+    "global_votes_blue": 14,
+    "global_votes_red": 86
+  },
+  {
+    "id": "hard_0134",
+    "question": "Would you rather be captured by aliens or by terrorists?",
+    "option_blue": "be captured by aliens",
+    "option_red": "by terrorists",
+    "global_votes_blue": 39,
+    "global_votes_red": 61
+  },
+  {
+    "id": "hard_0135",
+    "question": "Would you rather always fart in colors or always fart loudly?",
+    "option_blue": "always fart in colors",
+    "option_red": "always fart loudly",
+    "global_votes_blue": 79,
+    "global_votes_red": 21
+  },
+  {
+    "id": "hard_0136",
+    "question": "Would you rather bump your little toe against the edge of a piece of furniture every day or shower only twice a week?",
+    "option_blue": "bump your little toe against the edge of a piece of furniture every day",
+    "option_red": "shower only twice a week",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "hard_0137",
+    "question": "Would you rather not have eyelids or have your butt where your private parts are meant to be and vice-versa?",
+    "option_blue": "not have eyelids",
+    "option_red": "have your butt where your private parts are meant to be and vice-versa",
+    "global_votes_blue": 28,
+    "global_votes_red": 72
+  },
+  {
+    "id": "hard_0138",
+    "question": "Would you rather give up all drinks except for water or give up eating anything that was cooked in an oven?",
+    "option_blue": "give up all drinks except for water",
+    "option_red": "give up eating anything that was cooked in an oven",
+    "global_votes_blue": 37,
+    "global_votes_red": 63
+  },
+  {
+    "id": "hard_0139",
+    "question": "Would you rather spend a week in a garbage dump with 10 buddies or in a dream villa all on your own?",
+    "option_blue": "spend a week in a garbage dump with 10 buddies",
+    "option_red": "in a dream villa all on your own",
+    "global_votes_blue": 13,
+    "global_votes_red": 87
+  },
+  {
+    "id": "hard_0140",
+    "question": "Would you rather eat fast-food burgers or Chinese take-out every night?",
+    "option_blue": "eat fast-food burgers",
+    "option_red": "Chinese take-out every night",
+    "global_votes_blue": 23,
+    "global_votes_red": 77
+  },
+  {
+    "id": "hard_0141",
+    "question": "Would you rather have a foot in place of your hand or a single eye in the middle of your forehead?",
+    "option_blue": "have a foot in place of your hand",
+    "option_red": "a single eye in the middle of your forehead",
+    "global_votes_blue": 13,
+    "global_votes_red": 87
+  },
+  {
+    "id": "hard_0142",
+    "question": "Would you rather look like a dirty slob on tv in front of millions of people or look like a complete moron?",
+    "option_blue": "look like a dirty slob on tv in front of millions of people",
+    "option_red": "look like a complete moron",
+    "global_votes_blue": 20,
+    "global_votes_red": 80
+  },
+  {
+    "id": "hard_0143",
+    "question": "Would you rather have to wear the same outfit every day for the rest of your existence or have every single piece of clothing you own have a massive brown stain on it?",
+    "option_blue": "have to wear the same outfit every day for the rest of your existence",
+    "option_red": "have every single piece of clothing you own have a massive brown stain on it",
+    "global_votes_blue": 57,
+    "global_votes_red": 43
+  },
+  {
+    "id": "hard_0144",
+    "question": "Would you rather only be able to walk on all fours or only be able to walk backward?",
+    "option_blue": "only be able to walk on all fours",
+    "option_red": "only be able to walk backward",
+    "global_votes_blue": 14,
+    "global_votes_red": 86
+  },
+  {
+    "id": "hard_0145",
+    "question": "Would you rather have your body found on a pile of sex toys or a pile of drugs?",
+    "option_blue": "have your body found on a pile of sex toys",
+    "option_red": "a pile of drugs",
+    "global_votes_blue": 19,
+    "global_votes_red": 81
+  },
+  {
+    "id": "hard_0146",
+    "question": "Would you rather always have fingernails 5 inches (12.5cm) or longer or have an antenna on your face permanently?",
+    "option_blue": "always have fingernails 5 inches (12.5cm) or longer",
+    "option_red": "have an antenna on your face permanently",
+    "global_votes_blue": 17,
+    "global_votes_red": 83
+  },
+  {
+    "id": "hard_0147",
+    "question": "Would you rather pregnant at 18 or married at 18?",
+    "option_blue": "pregnant at 18",
+    "option_red": "married at 18",
+    "global_votes_blue": 5,
+    "global_votes_red": 95
+  },
+  {
+    "id": "hard_0148",
+    "question": "Would you rather eat a large spoonful of wasabi or eat five packets of McDonald’s ketchup?",
+    "option_blue": "eat a large spoonful of wasabi",
+    "option_red": "eat five packets of McDonald’s ketchup",
+    "global_votes_blue": 26,
+    "global_votes_red": 74
+  },
+  {
+    "id": "hard_0149",
+    "question": "Would you rather win the lottery or live twice as long?",
+    "option_blue": "win the lottery",
+    "option_red": "live twice as long",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "hard_0150",
+    "question": "Would you rather always be itchy or always sweat?",
+    "option_blue": "always be itchy",
+    "option_red": "always sweat",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "hard_0151",
+    "question": "Would you rather end world hunger or get every human on earth free health care?",
+    "option_blue": "end world hunger",
+    "option_red": "get every human on earth free health care",
+    "global_votes_blue": 36,
+    "global_votes_red": 64
+  },
+  {
+    "id": "hard_0152",
+    "question": "Would you rather believe a blind person about what they saw or believe a deaf person about what they heard?",
+    "option_blue": "believe a blind person about what they saw",
+    "option_red": "believe a deaf person about what they heard",
+    "global_votes_blue": 25,
+    "global_votes_red": 75
+  },
+  {
+    "id": "hard_0153",
+    "question": "Would you rather be an amazing artist but not be able to see any of the art you created or an amazing musician but not be able to hear any of the music you create?",
+    "option_blue": "be an amazing artist but not be able to see any of the art you created",
+    "option_red": "an amazing musician but not be able to hear any of the music you create",
+    "global_votes_blue": 24,
+    "global_votes_red": 76
+  },
+  {
+    "id": "hard_0154",
+    "question": "Would you rather only eat stuffing for the rest of your life or only drink gravy for the rest of your life?",
+    "option_blue": "only eat stuffing for the rest of your life",
+    "option_red": "only drink gravy for the rest of your life",
+    "global_votes_blue": 35,
+    "global_votes_red": 65
+  },
+  {
+    "id": "hard_0155",
+    "question": "Would you rather have the sound of bells ringing inside your head each time you blink or begin everything you say to other people with “I am single”?",
+    "option_blue": "have the sound of bells ringing inside your head each time you blink",
+    "option_red": "begin everything you say to other people with “I am single”",
+    "global_votes_blue": 16,
+    "global_votes_red": 84
+  },
+  {
+    "id": "hard_0156",
+    "question": "Would you rather sleep on your feet or run in a sitting position?",
+    "option_blue": "sleep on your feet",
+    "option_red": "run in a sitting position",
+    "global_votes_blue": 25,
+    "global_votes_red": 75
+  },
+  {
+    "id": "hard_0157",
+    "question": "Would you rather be beautiful but dumb or ugly but smart?",
+    "option_blue": "be beautiful but dumb",
+    "option_red": "ugly but smart",
+    "global_votes_blue": 19,
+    "global_votes_red": 81
+  },
+  {
+    "id": "hard_0158",
+    "question": "Would you rather die young after 30 years of a crazy and adventurous life or live to be 80 after a long, peaceful life, having done nothing extraordinary?",
+    "option_blue": "die young after 30 years of a crazy and adventurous life",
+    "option_red": "live to be 80 after a long, peaceful life, having done nothing extraordinary",
+    "global_votes_blue": 22,
+    "global_votes_red": 78
+  },
+  {
+    "id": "hard_0159",
+    "question": "Would you rather run into your ex at the club or run into your parents at the club?",
+    "option_blue": "run into your ex at the club",
+    "option_red": "run into your parents at the club",
+    "global_votes_blue": 27,
+    "global_votes_red": 73
+  }
+]
