@@ -6,8 +6,8 @@
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/wyr-scraper/pulls)
-[![Stars](https://img.shields.io/github/stars/yourusername/wyr-scraper?style=social)](https://github.com/yourusername/wyr-scraper)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ekanshbfoe/Would-You-Rather-questions-with-human-votes/pulls)
+[![Stars](https://img.shields.io/github/stars/ekanshbfoe/Would-You-Rather-questions-with-human-votes?style=social)](https://github.com/ekanshbfoe/Would-You-Rather-questions-with-human-votes)
 
 <br>
 
@@ -33,8 +33,8 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/wyr-scraper.git
-cd wyr-scraper
+git clone https://github.com/ekanshbfoe/Would-You-Rather-questions-with-human-votes.git
+cd Would-You-Rather-questions-with-human-votes/Scraper
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -205,6 +205,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 **If this tool helped you, please consider giving it a ⭐ on GitHub!**
 
-Made with ❤️ by [OceanHave](https://t.me/OceanHave)
+Made with ❤️ by [ACL](https://t.me/OceanHave)
 
 </div>
